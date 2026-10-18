@@ -1,0 +1,17 @@
+dataset: pilot/main/orders
+
+columns:
+  - name: customer_id
+    checks:
+      - missing:
+  - name: order_id
+    checks:
+      - duplicate:
+  - name: currency
+    checks:
+      - invalid:
+          valid_values: [EUR, USD, GBP]
+  - name: unit_price
+    checks:
+      - invalid:
+          valid_min: 0

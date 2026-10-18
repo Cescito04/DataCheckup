@@ -1,0 +1,136 @@
+{
+  "dataset": "data/orders_100.csv",
+  "rows": 100,
+  "pilot_scope": [
+    "C1",
+    "U1",
+    "V2 (minimum only)",
+    "V3"
+  ],
+  "tools": {
+    "great_expectations": {
+      "ok": true,
+      "version": "1.24.0",
+      "checks": [
+        {
+          "rule_id": "C1",
+          "success": false,
+          "unexpected_count": 2,
+          "observed_value": null
+        },
+        {
+          "rule_id": "U1",
+          "success": false,
+          "unexpected_count": 2,
+          "observed_value": null
+        },
+        {
+          "rule_id": "V2",
+          "success": false,
+          "unexpected_count": 1,
+          "observed_value": null
+        },
+        {
+          "rule_id": "V3",
+          "success": false,
+          "unexpected_count": 1,
+          "observed_value": null
+        }
+      ]
+    },
+    "soda_core": {
+      "ok": true,
+      "version": "4.27.0",
+      "status": "FAILED",
+      "checks": [
+        {
+          "path": "columns.customer_id.checks.missing",
+          "rule": "missing",
+          "outcome": "FAILED",
+          "metrics": {
+            "missing_count": 2,
+            "missing_percent": 2.0,
+            "check_rows_tested": 100,
+            "dataset_rows_tested": 100
+          }
+        },
+        {
+          "path": "columns.order_id.checks.duplicate",
+          "rule": "duplicate",
+          "outcome": "FAILED",
+          "metrics": {
+            "duplicate_count": 1,
+            "duplicate_percent": 1.0,
+            "check_rows_tested": 100,
+            "missing_count": 0,
+            "dataset_rows_tested": 100
+          }
+        },
+        {
+          "path": "columns.currency.checks.invalid",
+          "rule": "invalid",
+          "outcome": "FAILED",
+          "metrics": {
+            "invalid_count": 1,
+            "invalid_percent": 1.0,
+            "check_rows_tested": 100,
+            "missing_count": 0,
+            "dataset_rows_tested": 100
+          }
+        },
+        {
+          "path": "columns.unit_price.checks.invalid",
+          "rule": "invalid",
+          "outcome": "FAILED",
+          "metrics": {
+            "invalid_count": 1,
+            "invalid_percent": 1.0,
+            "check_rows_tested": 100,
+            "missing_count": 0,
+            "dataset_rows_tested": 100
+          }
+        }
+      ]
+    },
+    "pydeequ": {
+      "ok": true,
+      "version": "1.7.0",
+      "spark_version": "4.1.1",
+      "status": "Error",
+      "checks": [
+        {
+          "check_status": "Error",
+          "check_level": "Error",
+          "constraint_status": "Failure",
+          "check": "pilot representative checks",
+          "constraint_message": "Value: 0.98 does not meet the constraint requirement!",
+          "constraint": "CompletenessConstraint(Completeness(customer_id,None,None))"
+        },
+        {
+          "check_status": "Error",
+          "check_level": "Error",
+          "constraint_status": "Failure",
+          "check": "pilot representative checks",
+          "constraint_message": "Value: 0.98 does not meet the constraint requirement!",
+          "constraint": "UniquenessConstraint(Uniqueness(List(order_id),None,None))"
+        },
+        {
+          "check_status": "Error",
+          "check_level": "Error",
+          "constraint_status": "Failure",
+          "check": "pilot representative checks",
+          "constraint_message": "Value: 0.99 does not meet the constraint requirement!",
+          "constraint": "ComplianceConstraint(Compliance(unit_price is non-negative,COALESCE(CAST(unit_price AS DECIMAL(20,10)), 0.0) >= 0,None,List(unit_price),None))"
+        },
+        {
+          "check_status": "Error",
+          "check_level": "Error",
+          "constraint_status": "Failure",
+          "check": "pilot representative checks",
+          "constraint_message": "Value: 0.99 does not meet the constraint requirement!",
+          "constraint": "ComplianceConstraint(Compliance(currency contained in EUR,USD,GBP,`currency` IS NULL OR `currency` IN ('EUR','USD','GBP'),None,List(currency),None))"
+        }
+      ]
+    }
+  }
+}
