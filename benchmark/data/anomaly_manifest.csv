@@ -1,0 +1,2801 @@
+record_id,rule_id,anomaly_group_id,mutation
+ROW-015202,C1,C1-0001,customer_id manquant
+ROW-008898,C1,C1-0002,customer_id manquant
+ROW-002683,C1,C1-0003,customer_id manquant
+ROW-008591,C1,C1-0004,customer_id manquant
+ROW-038006,C1,C1-0005,customer_id manquant
+ROW-041277,C1,C1-0006,customer_id manquant
+ROW-032136,C1,C1-0007,customer_id manquant
+ROW-045333,C1,C1-0008,customer_id manquant
+ROW-046924,C1,C1-0009,customer_id manquant
+ROW-015112,C1,C1-0010,customer_id manquant
+ROW-002250,C1,C1-0011,customer_id manquant
+ROW-007802,C1,C1-0012,customer_id manquant
+ROW-018119,C1,C1-0013,customer_id manquant
+ROW-009817,C1,C1-0014,customer_id manquant
+ROW-027122,C1,C1-0015,customer_id manquant
+ROW-017869,C1,C1-0016,customer_id manquant
+ROW-034838,C1,C1-0017,customer_id manquant
+ROW-012702,C1,C1-0018,customer_id manquant
+ROW-040870,C1,C1-0019,customer_id manquant
+ROW-035119,C1,C1-0020,customer_id manquant
+ROW-015414,C1,C1-0021,customer_id manquant
+ROW-005702,C1,C1-0022,customer_id manquant
+ROW-017158,C1,C1-0023,customer_id manquant
+ROW-015406,C1,C1-0024,customer_id manquant
+ROW-004094,C1,C1-0025,customer_id manquant
+ROW-027043,C1,C1-0026,customer_id manquant
+ROW-048248,C1,C1-0027,customer_id manquant
+ROW-031479,C1,C1-0028,customer_id manquant
+ROW-019977,C1,C1-0029,customer_id manquant
+ROW-003128,C1,C1-0030,customer_id manquant
+ROW-009722,C1,C1-0031,customer_id manquant
+ROW-043615,C1,C1-0032,customer_id manquant
+ROW-037995,C1,C1-0033,customer_id manquant
+ROW-024460,C1,C1-0034,customer_id manquant
+ROW-008836,C1,C1-0035,customer_id manquant
+ROW-038485,C1,C1-0036,customer_id manquant
+ROW-045190,C1,C1-0037,customer_id manquant
+ROW-040691,C1,C1-0038,customer_id manquant
+ROW-049031,C1,C1-0039,customer_id manquant
+ROW-014841,C1,C1-0040,customer_id manquant
+ROW-026955,C1,C1-0041,customer_id manquant
+ROW-041232,C1,C1-0042,customer_id manquant
+ROW-041449,C1,C1-0043,customer_id manquant
+ROW-026277,C1,C1-0044,customer_id manquant
+ROW-048124,C1,C1-0045,customer_id manquant
+ROW-016707,C1,C1-0046,customer_id manquant
+ROW-033394,C1,C1-0047,customer_id manquant
+ROW-011996,C1,C1-0048,customer_id manquant
+ROW-005123,C1,C1-0049,customer_id manquant
+ROW-027929,C1,C1-0050,customer_id manquant
+ROW-043111,C1,C1-0051,customer_id manquant
+ROW-015720,C1,C1-0052,customer_id manquant
+ROW-036486,C1,C1-0053,customer_id manquant
+ROW-000760,C1,C1-0054,customer_id manquant
+ROW-030003,C1,C1-0055,customer_id manquant
+ROW-031189,C1,C1-0056,customer_id manquant
+ROW-032250,C1,C1-0057,customer_id manquant
+ROW-026587,C1,C1-0058,customer_id manquant
+ROW-034767,C1,C1-0059,customer_id manquant
+ROW-044036,C1,C1-0060,customer_id manquant
+ROW-028533,C1,C1-0061,customer_id manquant
+ROW-015571,C1,C1-0062,customer_id manquant
+ROW-047771,C1,C1-0063,customer_id manquant
+ROW-004015,C1,C1-0064,customer_id manquant
+ROW-044494,C1,C1-0065,customer_id manquant
+ROW-009720,C1,C1-0066,customer_id manquant
+ROW-004367,C1,C1-0067,customer_id manquant
+ROW-025596,C1,C1-0068,customer_id manquant
+ROW-046445,C1,C1-0069,customer_id manquant
+ROW-041420,C1,C1-0070,customer_id manquant
+ROW-026310,C1,C1-0071,customer_id manquant
+ROW-015387,C1,C1-0072,customer_id manquant
+ROW-007277,C1,C1-0073,customer_id manquant
+ROW-032565,C1,C1-0074,customer_id manquant
+ROW-035225,C1,C1-0075,customer_id manquant
+ROW-044414,C1,C1-0076,customer_id manquant
+ROW-028275,C1,C1-0077,customer_id manquant
+ROW-022938,C1,C1-0078,customer_id manquant
+ROW-012058,C1,C1-0079,customer_id manquant
+ROW-017255,C1,C1-0080,customer_id manquant
+ROW-003451,C1,C1-0081,customer_id manquant
+ROW-023970,C1,C1-0082,customer_id manquant
+ROW-000351,C1,C1-0083,customer_id manquant
+ROW-034568,C1,C1-0084,customer_id manquant
+ROW-041468,C1,C1-0085,customer_id manquant
+ROW-030379,C1,C1-0086,customer_id manquant
+ROW-002258,C1,C1-0087,customer_id manquant
+ROW-040097,C1,C1-0088,customer_id manquant
+ROW-017776,C1,C1-0089,customer_id manquant
+ROW-044928,C1,C1-0090,customer_id manquant
+ROW-012502,C1,C1-0091,customer_id manquant
+ROW-014046,C1,C1-0092,customer_id manquant
+ROW-018779,C1,C1-0093,customer_id manquant
+ROW-033723,C1,C1-0094,customer_id manquant
+ROW-016837,C1,C1-0095,customer_id manquant
+ROW-028542,C1,C1-0096,customer_id manquant
+ROW-029722,C1,C1-0097,customer_id manquant
+ROW-001048,C1,C1-0098,customer_id manquant
+ROW-007770,C1,C1-0099,customer_id manquant
+ROW-008481,C1,C1-0100,customer_id manquant
+ROW-032897,C1,C1-0101,customer_id manquant
+ROW-049416,C1,C1-0102,customer_id manquant
+ROW-005362,C1,C1-0103,customer_id manquant
+ROW-038392,C1,C1-0104,customer_id manquant
+ROW-026390,C1,C1-0105,customer_id manquant
+ROW-012766,C1,C1-0106,customer_id manquant
+ROW-022877,C1,C1-0107,customer_id manquant
+ROW-019879,C1,C1-0108,customer_id manquant
+ROW-012365,C1,C1-0109,customer_id manquant
+ROW-041779,C1,C1-0110,customer_id manquant
+ROW-025526,C1,C1-0111,customer_id manquant
+ROW-019952,C1,C1-0112,customer_id manquant
+ROW-041128,C1,C1-0113,customer_id manquant
+ROW-046596,C1,C1-0114,customer_id manquant
+ROW-004764,C1,C1-0115,customer_id manquant
+ROW-037847,C1,C1-0116,customer_id manquant
+ROW-015154,C1,C1-0117,customer_id manquant
+ROW-024266,C1,C1-0118,customer_id manquant
+ROW-022122,C1,C1-0119,customer_id manquant
+ROW-048937,C1,C1-0120,customer_id manquant
+ROW-024747,C1,C1-0121,customer_id manquant
+ROW-029581,C1,C1-0122,customer_id manquant
+ROW-045542,C1,C1-0123,customer_id manquant
+ROW-033213,C1,C1-0124,customer_id manquant
+ROW-024962,C1,C1-0125,customer_id manquant
+ROW-042132,C1,C1-0126,customer_id manquant
+ROW-039264,C1,C1-0127,customer_id manquant
+ROW-005505,C1,C1-0128,customer_id manquant
+ROW-033428,C1,C1-0129,customer_id manquant
+ROW-017980,C1,C1-0130,customer_id manquant
+ROW-026218,C1,C1-0131,customer_id manquant
+ROW-013222,C1,C1-0132,customer_id manquant
+ROW-006413,C1,C1-0133,customer_id manquant
+ROW-040995,C1,C1-0134,customer_id manquant
+ROW-027757,C1,C1-0135,customer_id manquant
+ROW-049637,C1,C1-0136,customer_id manquant
+ROW-010689,C1,C1-0137,customer_id manquant
+ROW-029714,C1,C1-0138,customer_id manquant
+ROW-003036,C1,C1-0139,customer_id manquant
+ROW-028559,C1,C1-0140,customer_id manquant
+ROW-018578,C1,C1-0141,customer_id manquant
+ROW-014009,C1,C1-0142,customer_id manquant
+ROW-010185,C1,C1-0143,customer_id manquant
+ROW-014233,C1,C1-0144,customer_id manquant
+ROW-033501,C1,C1-0145,customer_id manquant
+ROW-045749,C1,C1-0146,customer_id manquant
+ROW-047821,C1,C1-0147,customer_id manquant
+ROW-018461,C1,C1-0148,customer_id manquant
+ROW-021688,C1,C1-0149,customer_id manquant
+ROW-014272,C1,C1-0150,customer_id manquant
+ROW-017218,C1,C1-0151,customer_id manquant
+ROW-049842,C1,C1-0152,customer_id manquant
+ROW-038588,C1,C1-0153,customer_id manquant
+ROW-000146,C1,C1-0154,customer_id manquant
+ROW-024374,C1,C1-0155,customer_id manquant
+ROW-010422,C1,C1-0156,customer_id manquant
+ROW-027159,C1,C1-0157,customer_id manquant
+ROW-032458,C1,C1-0158,customer_id manquant
+ROW-041430,C1,C1-0159,customer_id manquant
+ROW-025129,C1,C1-0160,customer_id manquant
+ROW-046377,C1,C1-0161,customer_id manquant
+ROW-044092,C1,C1-0162,customer_id manquant
+ROW-012139,C1,C1-0163,customer_id manquant
+ROW-044692,C1,C1-0164,customer_id manquant
+ROW-041444,C1,C1-0165,customer_id manquant
+ROW-014071,C1,C1-0166,customer_id manquant
+ROW-009704,C1,C1-0167,customer_id manquant
+ROW-015151,C1,C1-0168,customer_id manquant
+ROW-034312,C1,C1-0169,customer_id manquant
+ROW-022452,C1,C1-0170,customer_id manquant
+ROW-017082,C1,C1-0171,customer_id manquant
+ROW-011547,C1,C1-0172,customer_id manquant
+ROW-013531,C1,C1-0173,customer_id manquant
+ROW-047135,C1,C1-0174,customer_id manquant
+ROW-049369,C1,C1-0175,customer_id manquant
+ROW-007908,C1,C1-0176,customer_id manquant
+ROW-025207,C1,C1-0177,customer_id manquant
+ROW-041436,C1,C1-0178,customer_id manquant
+ROW-041290,C1,C1-0179,customer_id manquant
+ROW-048359,C1,C1-0180,customer_id manquant
+ROW-012685,C1,C1-0181,customer_id manquant
+ROW-011089,C1,C1-0182,customer_id manquant
+ROW-043443,C1,C1-0183,customer_id manquant
+ROW-031128,C1,C1-0184,customer_id manquant
+ROW-034057,C1,C1-0185,customer_id manquant
+ROW-033393,C1,C1-0186,customer_id manquant
+ROW-027896,C1,C1-0187,customer_id manquant
+ROW-009332,C1,C1-0188,customer_id manquant
+ROW-021587,C1,C1-0189,customer_id manquant
+ROW-012256,C1,C1-0190,customer_id manquant
+ROW-040632,C1,C1-0191,customer_id manquant
+ROW-040641,C1,C1-0192,customer_id manquant
+ROW-032796,C1,C1-0193,customer_id manquant
+ROW-000465,C1,C1-0194,customer_id manquant
+ROW-008262,C1,C1-0195,customer_id manquant
+ROW-026349,C1,C1-0196,customer_id manquant
+ROW-008742,C1,C1-0197,customer_id manquant
+ROW-007709,C1,C1-0198,customer_id manquant
+ROW-016022,C1,C1-0199,customer_id manquant
+ROW-023036,C1,C1-0200,customer_id manquant
+ROW-037171,C2,C2-0001,order_date manquant
+ROW-028527,C2,C2-0002,order_date manquant
+ROW-011899,C2,C2-0003,order_date manquant
+ROW-001136,C2,C2-0004,order_date manquant
+ROW-026153,C2,C2-0005,order_date manquant
+ROW-019035,C2,C2-0006,order_date manquant
+ROW-030784,C2,C2-0007,order_date manquant
+ROW-001501,C2,C2-0008,order_date manquant
+ROW-035811,C2,C2-0009,order_date manquant
+ROW-033757,C2,C2-0010,order_date manquant
+ROW-021626,C2,C2-0011,order_date manquant
+ROW-001287,C2,C2-0012,order_date manquant
+ROW-043386,C2,C2-0013,order_date manquant
+ROW-005816,C2,C2-0014,order_date manquant
+ROW-012558,C2,C2-0015,order_date manquant
+ROW-047608,C2,C2-0016,order_date manquant
+ROW-015572,C2,C2-0017,order_date manquant
+ROW-011770,C2,C2-0018,order_date manquant
+ROW-039866,C2,C2-0019,order_date manquant
+ROW-022313,C2,C2-0020,order_date manquant
+ROW-016112,C2,C2-0021,order_date manquant
+ROW-037106,C2,C2-0022,order_date manquant
+ROW-034928,C2,C2-0023,order_date manquant
+ROW-003742,C2,C2-0024,order_date manquant
+ROW-039712,C2,C2-0025,order_date manquant
+ROW-007268,C2,C2-0026,order_date manquant
+ROW-041401,C2,C2-0027,order_date manquant
+ROW-043482,C2,C2-0028,order_date manquant
+ROW-047091,C2,C2-0029,order_date manquant
+ROW-042767,C2,C2-0030,order_date manquant
+ROW-031108,C2,C2-0031,order_date manquant
+ROW-010095,C2,C2-0032,order_date manquant
+ROW-032351,C2,C2-0033,order_date manquant
+ROW-004710,C2,C2-0034,order_date manquant
+ROW-024016,C2,C2-0035,order_date manquant
+ROW-046172,C2,C2-0036,order_date manquant
+ROW-014777,C2,C2-0037,order_date manquant
+ROW-024352,C2,C2-0038,order_date manquant
+ROW-007289,C2,C2-0039,order_date manquant
+ROW-038190,C2,C2-0040,order_date manquant
+ROW-021616,C2,C2-0041,order_date manquant
+ROW-017397,C2,C2-0042,order_date manquant
+ROW-027643,C2,C2-0043,order_date manquant
+ROW-022433,C2,C2-0044,order_date manquant
+ROW-019544,C2,C2-0045,order_date manquant
+ROW-025100,C2,C2-0046,order_date manquant
+ROW-033332,C2,C2-0047,order_date manquant
+ROW-048151,C2,C2-0048,order_date manquant
+ROW-049182,C2,C2-0049,order_date manquant
+ROW-037426,C2,C2-0050,order_date manquant
+ROW-014757,C2,C2-0051,order_date manquant
+ROW-040394,C2,C2-0052,order_date manquant
+ROW-039519,C2,C2-0053,order_date manquant
+ROW-026515,C2,C2-0054,order_date manquant
+ROW-034370,C2,C2-0055,order_date manquant
+ROW-032944,C2,C2-0056,order_date manquant
+ROW-042426,C2,C2-0057,order_date manquant
+ROW-020539,C2,C2-0058,order_date manquant
+ROW-030037,C2,C2-0059,order_date manquant
+ROW-025709,C2,C2-0060,order_date manquant
+ROW-035315,C2,C2-0061,order_date manquant
+ROW-010745,C2,C2-0062,order_date manquant
+ROW-024204,C2,C2-0063,order_date manquant
+ROW-034777,C2,C2-0064,order_date manquant
+ROW-028847,C2,C2-0065,order_date manquant
+ROW-039812,C2,C2-0066,order_date manquant
+ROW-034224,C2,C2-0067,order_date manquant
+ROW-030879,C2,C2-0068,order_date manquant
+ROW-016165,C2,C2-0069,order_date manquant
+ROW-026053,C2,C2-0070,order_date manquant
+ROW-006653,C2,C2-0071,order_date manquant
+ROW-014844,C2,C2-0072,order_date manquant
+ROW-028128,C2,C2-0073,order_date manquant
+ROW-046860,C2,C2-0074,order_date manquant
+ROW-045486,C2,C2-0075,order_date manquant
+ROW-021103,C2,C2-0076,order_date manquant
+ROW-002729,C2,C2-0077,order_date manquant
+ROW-047599,C2,C2-0078,order_date manquant
+ROW-025734,C2,C2-0079,order_date manquant
+ROW-014090,C2,C2-0080,order_date manquant
+ROW-016114,C2,C2-0081,order_date manquant
+ROW-033477,C2,C2-0082,order_date manquant
+ROW-005602,C2,C2-0083,order_date manquant
+ROW-046770,C2,C2-0084,order_date manquant
+ROW-028755,C2,C2-0085,order_date manquant
+ROW-012762,C2,C2-0086,order_date manquant
+ROW-026172,C2,C2-0087,order_date manquant
+ROW-031052,C2,C2-0088,order_date manquant
+ROW-004131,C2,C2-0089,order_date manquant
+ROW-042427,C2,C2-0090,order_date manquant
+ROW-034048,C2,C2-0091,order_date manquant
+ROW-009590,C2,C2-0092,order_date manquant
+ROW-034770,C2,C2-0093,order_date manquant
+ROW-011149,C2,C2-0094,order_date manquant
+ROW-031219,C2,C2-0095,order_date manquant
+ROW-046128,C2,C2-0096,order_date manquant
+ROW-049406,C2,C2-0097,order_date manquant
+ROW-011378,C2,C2-0098,order_date manquant
+ROW-002579,C2,C2-0099,order_date manquant
+ROW-017251,C2,C2-0100,order_date manquant
+ROW-010754,C2,C2-0101,order_date manquant
+ROW-046961,C2,C2-0102,order_date manquant
+ROW-029798,C2,C2-0103,order_date manquant
+ROW-020922,C2,C2-0104,order_date manquant
+ROW-044451,C2,C2-0105,order_date manquant
+ROW-041498,C2,C2-0106,order_date manquant
+ROW-037422,C2,C2-0107,order_date manquant
+ROW-030241,C2,C2-0108,order_date manquant
+ROW-000871,C2,C2-0109,order_date manquant
+ROW-037199,C2,C2-0110,order_date manquant
+ROW-045866,C2,C2-0111,order_date manquant
+ROW-019958,C2,C2-0112,order_date manquant
+ROW-032868,C2,C2-0113,order_date manquant
+ROW-036213,C2,C2-0114,order_date manquant
+ROW-016522,C2,C2-0115,order_date manquant
+ROW-028024,C2,C2-0116,order_date manquant
+ROW-044890,C2,C2-0117,order_date manquant
+ROW-021306,C2,C2-0118,order_date manquant
+ROW-009890,C2,C2-0119,order_date manquant
+ROW-010517,C2,C2-0120,order_date manquant
+ROW-023010,C2,C2-0121,order_date manquant
+ROW-014653,C2,C2-0122,order_date manquant
+ROW-015442,C2,C2-0123,order_date manquant
+ROW-023963,C2,C2-0124,order_date manquant
+ROW-025845,C2,C2-0125,order_date manquant
+ROW-045745,C2,C2-0126,order_date manquant
+ROW-023959,C2,C2-0127,order_date manquant
+ROW-011949,C2,C2-0128,order_date manquant
+ROW-001829,C2,C2-0129,order_date manquant
+ROW-043765,C2,C2-0130,order_date manquant
+ROW-024651,C2,C2-0131,order_date manquant
+ROW-025568,C2,C2-0132,order_date manquant
+ROW-043957,C2,C2-0133,order_date manquant
+ROW-030283,C2,C2-0134,order_date manquant
+ROW-001420,C2,C2-0135,order_date manquant
+ROW-042956,C2,C2-0136,order_date manquant
+ROW-043119,C2,C2-0137,order_date manquant
+ROW-010012,C2,C2-0138,order_date manquant
+ROW-023694,C2,C2-0139,order_date manquant
+ROW-049908,C2,C2-0140,order_date manquant
+ROW-010286,C2,C2-0141,order_date manquant
+ROW-041569,C2,C2-0142,order_date manquant
+ROW-016085,C2,C2-0143,order_date manquant
+ROW-018073,C2,C2-0144,order_date manquant
+ROW-005006,C2,C2-0145,order_date manquant
+ROW-030794,C2,C2-0146,order_date manquant
+ROW-038686,C2,C2-0147,order_date manquant
+ROW-032536,C2,C2-0148,order_date manquant
+ROW-024903,C2,C2-0149,order_date manquant
+ROW-043880,C2,C2-0150,order_date manquant
+ROW-029070,C2,C2-0151,order_date manquant
+ROW-031948,C2,C2-0152,order_date manquant
+ROW-001928,C2,C2-0153,order_date manquant
+ROW-041797,C2,C2-0154,order_date manquant
+ROW-028887,C2,C2-0155,order_date manquant
+ROW-040627,C2,C2-0156,order_date manquant
+ROW-024823,C2,C2-0157,order_date manquant
+ROW-042625,C2,C2-0158,order_date manquant
+ROW-044069,C2,C2-0159,order_date manquant
+ROW-015421,C2,C2-0160,order_date manquant
+ROW-029531,C2,C2-0161,order_date manquant
+ROW-019851,C2,C2-0162,order_date manquant
+ROW-024031,C2,C2-0163,order_date manquant
+ROW-042828,C2,C2-0164,order_date manquant
+ROW-003988,C2,C2-0165,order_date manquant
+ROW-028708,C2,C2-0166,order_date manquant
+ROW-043127,C2,C2-0167,order_date manquant
+ROW-044946,C2,C2-0168,order_date manquant
+ROW-044398,C2,C2-0169,order_date manquant
+ROW-037958,C2,C2-0170,order_date manquant
+ROW-020590,C2,C2-0171,order_date manquant
+ROW-027049,C2,C2-0172,order_date manquant
+ROW-040098,C2,C2-0173,order_date manquant
+ROW-007088,C2,C2-0174,order_date manquant
+ROW-033916,C2,C2-0175,order_date manquant
+ROW-030769,C2,C2-0176,order_date manquant
+ROW-027314,C2,C2-0177,order_date manquant
+ROW-024548,C2,C2-0178,order_date manquant
+ROW-044197,C2,C2-0179,order_date manquant
+ROW-023985,C2,C2-0180,order_date manquant
+ROW-007917,C2,C2-0181,order_date manquant
+ROW-038981,C2,C2-0182,order_date manquant
+ROW-022649,C2,C2-0183,order_date manquant
+ROW-011178,C2,C2-0184,order_date manquant
+ROW-021678,C2,C2-0185,order_date manquant
+ROW-005382,C2,C2-0186,order_date manquant
+ROW-023299,C2,C2-0187,order_date manquant
+ROW-023360,C2,C2-0188,order_date manquant
+ROW-031249,C2,C2-0189,order_date manquant
+ROW-037963,C2,C2-0190,order_date manquant
+ROW-003813,C2,C2-0191,order_date manquant
+ROW-018031,C2,C2-0192,order_date manquant
+ROW-003993,C2,C2-0193,order_date manquant
+ROW-039179,C2,C2-0194,order_date manquant
+ROW-044172,C2,C2-0195,order_date manquant
+ROW-002359,C2,C2-0196,order_date manquant
+ROW-003317,C2,C2-0197,order_date manquant
+ROW-019411,C2,C2-0198,order_date manquant
+ROW-038094,C2,C2-0199,order_date manquant
+ROW-018523,C2,C2-0200,order_date manquant
+ROW-018795,C3,C3-0001,total_amount manquant
+ROW-031809,C3,C3-0002,total_amount manquant
+ROW-008487,C3,C3-0003,total_amount manquant
+ROW-044744,C3,C3-0004,total_amount manquant
+ROW-042988,C3,C3-0005,total_amount manquant
+ROW-018632,C3,C3-0006,total_amount manquant
+ROW-024632,C3,C3-0007,total_amount manquant
+ROW-032035,C3,C3-0008,total_amount manquant
+ROW-026005,C3,C3-0009,total_amount manquant
+ROW-015952,C3,C3-0010,total_amount manquant
+ROW-036407,C3,C3-0011,total_amount manquant
+ROW-031292,C3,C3-0012,total_amount manquant
+ROW-000087,C3,C3-0013,total_amount manquant
+ROW-026187,C3,C3-0014,total_amount manquant
+ROW-022524,C3,C3-0015,total_amount manquant
+ROW-001613,C3,C3-0016,total_amount manquant
+ROW-037030,C3,C3-0017,total_amount manquant
+ROW-023904,C3,C3-0018,total_amount manquant
+ROW-039398,C3,C3-0019,total_amount manquant
+ROW-005553,C3,C3-0020,total_amount manquant
+ROW-003013,C3,C3-0021,total_amount manquant
+ROW-035525,C3,C3-0022,total_amount manquant
+ROW-034650,C3,C3-0023,total_amount manquant
+ROW-036167,C3,C3-0024,total_amount manquant
+ROW-001093,C3,C3-0025,total_amount manquant
+ROW-006640,C3,C3-0026,total_amount manquant
+ROW-048691,C3,C3-0027,total_amount manquant
+ROW-035251,C3,C3-0028,total_amount manquant
+ROW-008237,C3,C3-0029,total_amount manquant
+ROW-004671,C3,C3-0030,total_amount manquant
+ROW-021571,C3,C3-0031,total_amount manquant
+ROW-029049,C3,C3-0032,total_amount manquant
+ROW-011887,C3,C3-0033,total_amount manquant
+ROW-000094,C3,C3-0034,total_amount manquant
+ROW-023436,C3,C3-0035,total_amount manquant
+ROW-022552,C3,C3-0036,total_amount manquant
+ROW-042678,C3,C3-0037,total_amount manquant
+ROW-002602,C3,C3-0038,total_amount manquant
+ROW-038723,C3,C3-0039,total_amount manquant
+ROW-002523,C3,C3-0040,total_amount manquant
+ROW-021493,C3,C3-0041,total_amount manquant
+ROW-020249,C3,C3-0042,total_amount manquant
+ROW-013216,C3,C3-0043,total_amount manquant
+ROW-048889,C3,C3-0044,total_amount manquant
+ROW-002137,C3,C3-0045,total_amount manquant
+ROW-005411,C3,C3-0046,total_amount manquant
+ROW-020362,C3,C3-0047,total_amount manquant
+ROW-003310,C3,C3-0048,total_amount manquant
+ROW-002202,C3,C3-0049,total_amount manquant
+ROW-043539,C3,C3-0050,total_amount manquant
+ROW-033866,C3,C3-0051,total_amount manquant
+ROW-040828,C3,C3-0052,total_amount manquant
+ROW-029289,C3,C3-0053,total_amount manquant
+ROW-033606,C3,C3-0054,total_amount manquant
+ROW-039853,C3,C3-0055,total_amount manquant
+ROW-037896,C3,C3-0056,total_amount manquant
+ROW-015518,C3,C3-0057,total_amount manquant
+ROW-019859,C3,C3-0058,total_amount manquant
+ROW-049602,C3,C3-0059,total_amount manquant
+ROW-008289,C3,C3-0060,total_amount manquant
+ROW-015294,C3,C3-0061,total_amount manquant
+ROW-024511,C3,C3-0062,total_amount manquant
+ROW-005094,C3,C3-0063,total_amount manquant
+ROW-027653,C3,C3-0064,total_amount manquant
+ROW-014828,C3,C3-0065,total_amount manquant
+ROW-018099,C3,C3-0066,total_amount manquant
+ROW-025656,C3,C3-0067,total_amount manquant
+ROW-010466,C3,C3-0068,total_amount manquant
+ROW-020287,C3,C3-0069,total_amount manquant
+ROW-010867,C3,C3-0070,total_amount manquant
+ROW-040067,C3,C3-0071,total_amount manquant
+ROW-002402,C3,C3-0072,total_amount manquant
+ROW-005797,C3,C3-0073,total_amount manquant
+ROW-026158,C3,C3-0074,total_amount manquant
+ROW-009695,C3,C3-0075,total_amount manquant
+ROW-006589,C3,C3-0076,total_amount manquant
+ROW-011370,C3,C3-0077,total_amount manquant
+ROW-038363,C3,C3-0078,total_amount manquant
+ROW-018689,C3,C3-0079,total_amount manquant
+ROW-000338,C3,C3-0080,total_amount manquant
+ROW-042855,C3,C3-0081,total_amount manquant
+ROW-018232,C3,C3-0082,total_amount manquant
+ROW-029193,C3,C3-0083,total_amount manquant
+ROW-003633,C3,C3-0084,total_amount manquant
+ROW-026911,C3,C3-0085,total_amount manquant
+ROW-002534,C3,C3-0086,total_amount manquant
+ROW-016170,C3,C3-0087,total_amount manquant
+ROW-045709,C3,C3-0088,total_amount manquant
+ROW-036715,C3,C3-0089,total_amount manquant
+ROW-013876,C3,C3-0090,total_amount manquant
+ROW-019841,C3,C3-0091,total_amount manquant
+ROW-042041,C3,C3-0092,total_amount manquant
+ROW-027680,C3,C3-0093,total_amount manquant
+ROW-007800,C3,C3-0094,total_amount manquant
+ROW-004514,C3,C3-0095,total_amount manquant
+ROW-045069,C3,C3-0096,total_amount manquant
+ROW-042312,C3,C3-0097,total_amount manquant
+ROW-048916,C3,C3-0098,total_amount manquant
+ROW-048266,C3,C3-0099,total_amount manquant
+ROW-039384,C3,C3-0100,total_amount manquant
+ROW-035387,C3,C3-0101,total_amount manquant
+ROW-023626,C3,C3-0102,total_amount manquant
+ROW-008195,C3,C3-0103,total_amount manquant
+ROW-026557,C3,C3-0104,total_amount manquant
+ROW-045472,C3,C3-0105,total_amount manquant
+ROW-018883,C3,C3-0106,total_amount manquant
+ROW-027523,C3,C3-0107,total_amount manquant
+ROW-017412,C3,C3-0108,total_amount manquant
+ROW-029062,C3,C3-0109,total_amount manquant
+ROW-039967,C3,C3-0110,total_amount manquant
+ROW-047965,C3,C3-0111,total_amount manquant
+ROW-002269,C3,C3-0112,total_amount manquant
+ROW-020619,C3,C3-0113,total_amount manquant
+ROW-008228,C3,C3-0114,total_amount manquant
+ROW-027752,C3,C3-0115,total_amount manquant
+ROW-008300,C3,C3-0116,total_amount manquant
+ROW-026993,C3,C3-0117,total_amount manquant
+ROW-005289,C3,C3-0118,total_amount manquant
+ROW-042960,C3,C3-0119,total_amount manquant
+ROW-022510,C3,C3-0120,total_amount manquant
+ROW-021104,C3,C3-0121,total_amount manquant
+ROW-016660,C3,C3-0122,total_amount manquant
+ROW-027674,C3,C3-0123,total_amount manquant
+ROW-024055,C3,C3-0124,total_amount manquant
+ROW-045004,C3,C3-0125,total_amount manquant
+ROW-044010,C3,C3-0126,total_amount manquant
+ROW-005176,C3,C3-0127,total_amount manquant
+ROW-048933,C3,C3-0128,total_amount manquant
+ROW-048741,C3,C3-0129,total_amount manquant
+ROW-029960,C3,C3-0130,total_amount manquant
+ROW-019228,C3,C3-0131,total_amount manquant
+ROW-007663,C3,C3-0132,total_amount manquant
+ROW-038081,C3,C3-0133,total_amount manquant
+ROW-003724,C3,C3-0134,total_amount manquant
+ROW-025448,C3,C3-0135,total_amount manquant
+ROW-021600,C3,C3-0136,total_amount manquant
+ROW-025929,C3,C3-0137,total_amount manquant
+ROW-001540,C3,C3-0138,total_amount manquant
+ROW-038917,C3,C3-0139,total_amount manquant
+ROW-030264,C3,C3-0140,total_amount manquant
+ROW-006224,C3,C3-0141,total_amount manquant
+ROW-041352,C3,C3-0142,total_amount manquant
+ROW-012254,C3,C3-0143,total_amount manquant
+ROW-049029,C3,C3-0144,total_amount manquant
+ROW-015265,C3,C3-0145,total_amount manquant
+ROW-041836,C3,C3-0146,total_amount manquant
+ROW-047250,C3,C3-0147,total_amount manquant
+ROW-033107,C3,C3-0148,total_amount manquant
+ROW-010694,C3,C3-0149,total_amount manquant
+ROW-002947,C3,C3-0150,total_amount manquant
+ROW-037986,C3,C3-0151,total_amount manquant
+ROW-032740,C3,C3-0152,total_amount manquant
+ROW-003853,C3,C3-0153,total_amount manquant
+ROW-043520,C3,C3-0154,total_amount manquant
+ROW-038265,C3,C3-0155,total_amount manquant
+ROW-010741,C3,C3-0156,total_amount manquant
+ROW-002437,C3,C3-0157,total_amount manquant
+ROW-045671,C3,C3-0158,total_amount manquant
+ROW-040867,C3,C3-0159,total_amount manquant
+ROW-034150,C3,C3-0160,total_amount manquant
+ROW-043508,C3,C3-0161,total_amount manquant
+ROW-002028,C3,C3-0162,total_amount manquant
+ROW-006302,C3,C3-0163,total_amount manquant
+ROW-030134,C3,C3-0164,total_amount manquant
+ROW-037118,C3,C3-0165,total_amount manquant
+ROW-026844,C3,C3-0166,total_amount manquant
+ROW-033441,C3,C3-0167,total_amount manquant
+ROW-002379,C3,C3-0168,total_amount manquant
+ROW-039882,C3,C3-0169,total_amount manquant
+ROW-031836,C3,C3-0170,total_amount manquant
+ROW-004753,C3,C3-0171,total_amount manquant
+ROW-044860,C3,C3-0172,total_amount manquant
+ROW-044850,C3,C3-0173,total_amount manquant
+ROW-031891,C3,C3-0174,total_amount manquant
+ROW-029684,C3,C3-0175,total_amount manquant
+ROW-045005,C3,C3-0176,total_amount manquant
+ROW-036071,C3,C3-0177,total_amount manquant
+ROW-023514,C3,C3-0178,total_amount manquant
+ROW-037950,C3,C3-0179,total_amount manquant
+ROW-019746,C3,C3-0180,total_amount manquant
+ROW-001762,C3,C3-0181,total_amount manquant
+ROW-005237,C3,C3-0182,total_amount manquant
+ROW-023470,C3,C3-0183,total_amount manquant
+ROW-031577,C3,C3-0184,total_amount manquant
+ROW-030269,C3,C3-0185,total_amount manquant
+ROW-045075,C3,C3-0186,total_amount manquant
+ROW-012877,C3,C3-0187,total_amount manquant
+ROW-006043,C3,C3-0188,total_amount manquant
+ROW-021642,C3,C3-0189,total_amount manquant
+ROW-038974,C3,C3-0190,total_amount manquant
+ROW-007999,C3,C3-0191,total_amount manquant
+ROW-031800,C3,C3-0192,total_amount manquant
+ROW-026303,C3,C3-0193,total_amount manquant
+ROW-026981,C3,C3-0194,total_amount manquant
+ROW-007034,C3,C3-0195,total_amount manquant
+ROW-004655,C3,C3-0196,total_amount manquant
+ROW-015065,C3,C3-0197,total_amount manquant
+ROW-012520,C3,C3-0198,total_amount manquant
+ROW-035069,C3,C3-0199,total_amount manquant
+ROW-010274,C3,C3-0200,total_amount manquant
+ROW-012786,K1,K1-0001,montant total différent du produit attendu
+ROW-036801,K1,K1-0002,montant total différent du produit attendu
+ROW-002268,K1,K1-0003,montant total différent du produit attendu
+ROW-003672,K1,K1-0004,montant total différent du produit attendu
+ROW-043916,K1,K1-0005,montant total différent du produit attendu
+ROW-026943,K1,K1-0006,montant total différent du produit attendu
+ROW-039310,K1,K1-0007,montant total différent du produit attendu
+ROW-041064,K1,K1-0008,montant total différent du produit attendu
+ROW-038067,K1,K1-0009,montant total différent du produit attendu
+ROW-004932,K1,K1-0010,montant total différent du produit attendu
+ROW-025478,K1,K1-0011,montant total différent du produit attendu
+ROW-044648,K1,K1-0012,montant total différent du produit attendu
+ROW-043135,K1,K1-0013,montant total différent du produit attendu
+ROW-013651,K1,K1-0014,montant total différent du produit attendu
+ROW-042361,K1,K1-0015,montant total différent du produit attendu
+ROW-011817,K1,K1-0016,montant total différent du produit attendu
+ROW-022776,K1,K1-0017,montant total différent du produit attendu
+ROW-009139,K1,K1-0018,montant total différent du produit attendu
+ROW-044531,K1,K1-0019,montant total différent du produit attendu
+ROW-023224,K1,K1-0020,montant total différent du produit attendu
+ROW-003821,K1,K1-0021,montant total différent du produit attendu
+ROW-010092,K1,K1-0022,montant total différent du produit attendu
+ROW-044939,K1,K1-0023,montant total différent du produit attendu
+ROW-027112,K1,K1-0024,montant total différent du produit attendu
+ROW-018150,K1,K1-0025,montant total différent du produit attendu
+ROW-033046,K1,K1-0026,montant total différent du produit attendu
+ROW-030956,K1,K1-0027,montant total différent du produit attendu
+ROW-041299,K1,K1-0028,montant total différent du produit attendu
+ROW-005997,K1,K1-0029,montant total différent du produit attendu
+ROW-028456,K1,K1-0030,montant total différent du produit attendu
+ROW-025951,K1,K1-0031,montant total différent du produit attendu
+ROW-011286,K1,K1-0032,montant total différent du produit attendu
+ROW-042711,K1,K1-0033,montant total différent du produit attendu
+ROW-000917,K1,K1-0034,montant total différent du produit attendu
+ROW-007976,K1,K1-0035,montant total différent du produit attendu
+ROW-028185,K1,K1-0036,montant total différent du produit attendu
+ROW-016398,K1,K1-0037,montant total différent du produit attendu
+ROW-010868,K1,K1-0038,montant total différent du produit attendu
+ROW-035980,K1,K1-0039,montant total différent du produit attendu
+ROW-035511,K1,K1-0040,montant total différent du produit attendu
+ROW-023860,K1,K1-0041,montant total différent du produit attendu
+ROW-016056,K1,K1-0042,montant total différent du produit attendu
+ROW-042473,K1,K1-0043,montant total différent du produit attendu
+ROW-014125,K1,K1-0044,montant total différent du produit attendu
+ROW-024366,K1,K1-0045,montant total différent du produit attendu
+ROW-024551,K1,K1-0046,montant total différent du produit attendu
+ROW-036278,K1,K1-0047,montant total différent du produit attendu
+ROW-048357,K1,K1-0048,montant total différent du produit attendu
+ROW-048969,K1,K1-0049,montant total différent du produit attendu
+ROW-040834,K1,K1-0050,montant total différent du produit attendu
+ROW-029751,K1,K1-0051,montant total différent du produit attendu
+ROW-033619,K1,K1-0052,montant total différent du produit attendu
+ROW-009775,K1,K1-0053,montant total différent du produit attendu
+ROW-009687,K1,K1-0054,montant total différent du produit attendu
+ROW-041597,K1,K1-0055,montant total différent du produit attendu
+ROW-015377,K1,K1-0056,montant total différent du produit attendu
+ROW-012886,K1,K1-0057,montant total différent du produit attendu
+ROW-037056,K1,K1-0058,montant total différent du produit attendu
+ROW-012842,K1,K1-0059,montant total différent du produit attendu
+ROW-039672,K1,K1-0060,montant total différent du produit attendu
+ROW-011136,K1,K1-0061,montant total différent du produit attendu
+ROW-042772,K1,K1-0062,montant total différent du produit attendu
+ROW-032635,K1,K1-0063,montant total différent du produit attendu
+ROW-010843,K1,K1-0064,montant total différent du produit attendu
+ROW-020630,K1,K1-0065,montant total différent du produit attendu
+ROW-049227,K1,K1-0066,montant total différent du produit attendu
+ROW-003508,K1,K1-0067,montant total différent du produit attendu
+ROW-009292,K1,K1-0068,montant total différent du produit attendu
+ROW-014667,K1,K1-0069,montant total différent du produit attendu
+ROW-018071,K1,K1-0070,montant total différent du produit attendu
+ROW-005981,K1,K1-0071,montant total différent du produit attendu
+ROW-043207,K1,K1-0072,montant total différent du produit attendu
+ROW-041231,K1,K1-0073,montant total différent du produit attendu
+ROW-017258,K1,K1-0074,montant total différent du produit attendu
+ROW-004855,K1,K1-0075,montant total différent du produit attendu
+ROW-037455,K1,K1-0076,montant total différent du produit attendu
+ROW-020409,K1,K1-0077,montant total différent du produit attendu
+ROW-014612,K1,K1-0078,montant total différent du produit attendu
+ROW-008675,K1,K1-0079,montant total différent du produit attendu
+ROW-036771,K1,K1-0080,montant total différent du produit attendu
+ROW-030081,K1,K1-0081,montant total différent du produit attendu
+ROW-045088,K1,K1-0082,montant total différent du produit attendu
+ROW-010189,K1,K1-0083,montant total différent du produit attendu
+ROW-036199,K1,K1-0084,montant total différent du produit attendu
+ROW-000440,K1,K1-0085,montant total différent du produit attendu
+ROW-009677,K1,K1-0086,montant total différent du produit attendu
+ROW-017778,K1,K1-0087,montant total différent du produit attendu
+ROW-042165,K1,K1-0088,montant total différent du produit attendu
+ROW-037342,K1,K1-0089,montant total différent du produit attendu
+ROW-019467,K1,K1-0090,montant total différent du produit attendu
+ROW-014851,K1,K1-0091,montant total différent du produit attendu
+ROW-016693,K1,K1-0092,montant total différent du produit attendu
+ROW-034845,K1,K1-0093,montant total différent du produit attendu
+ROW-021639,K1,K1-0094,montant total différent du produit attendu
+ROW-031472,K1,K1-0095,montant total différent du produit attendu
+ROW-035117,K1,K1-0096,montant total différent du produit attendu
+ROW-034252,K1,K1-0097,montant total différent du produit attendu
+ROW-005510,K1,K1-0098,montant total différent du produit attendu
+ROW-034310,K1,K1-0099,montant total différent du produit attendu
+ROW-028363,K1,K1-0100,montant total différent du produit attendu
+ROW-040233,K1,K1-0101,montant total différent du produit attendu
+ROW-015960,K1,K1-0102,montant total différent du produit attendu
+ROW-000286,K1,K1-0103,montant total différent du produit attendu
+ROW-018500,K1,K1-0104,montant total différent du produit attendu
+ROW-035311,K1,K1-0105,montant total différent du produit attendu
+ROW-012817,K1,K1-0106,montant total différent du produit attendu
+ROW-048646,K1,K1-0107,montant total différent du produit attendu
+ROW-032503,K1,K1-0108,montant total différent du produit attendu
+ROW-048220,K1,K1-0109,montant total différent du produit attendu
+ROW-016339,K1,K1-0110,montant total différent du produit attendu
+ROW-041256,K1,K1-0111,montant total différent du produit attendu
+ROW-033779,K1,K1-0112,montant total différent du produit attendu
+ROW-003472,K1,K1-0113,montant total différent du produit attendu
+ROW-017035,K1,K1-0114,montant total différent du produit attendu
+ROW-037298,K1,K1-0115,montant total différent du produit attendu
+ROW-019260,K1,K1-0116,montant total différent du produit attendu
+ROW-009976,K1,K1-0117,montant total différent du produit attendu
+ROW-017932,K1,K1-0118,montant total différent du produit attendu
+ROW-006217,K1,K1-0119,montant total différent du produit attendu
+ROW-035188,K1,K1-0120,montant total différent du produit attendu
+ROW-006265,K1,K1-0121,montant total différent du produit attendu
+ROW-041129,K1,K1-0122,montant total différent du produit attendu
+ROW-046567,K1,K1-0123,montant total différent du produit attendu
+ROW-031170,K1,K1-0124,montant total différent du produit attendu
+ROW-049820,K1,K1-0125,montant total différent du produit attendu
+ROW-044687,K1,K1-0126,montant total différent du produit attendu
+ROW-011976,K1,K1-0127,montant total différent du produit attendu
+ROW-005231,K1,K1-0128,montant total différent du produit attendu
+ROW-012920,K1,K1-0129,montant total différent du produit attendu
+ROW-002144,K1,K1-0130,montant total différent du produit attendu
+ROW-001090,K1,K1-0131,montant total différent du produit attendu
+ROW-036795,K1,K1-0132,montant total différent du produit attendu
+ROW-037245,K1,K1-0133,montant total différent du produit attendu
+ROW-007048,K1,K1-0134,montant total différent du produit attendu
+ROW-037686,K1,K1-0135,montant total différent du produit attendu
+ROW-030462,K1,K1-0136,montant total différent du produit attendu
+ROW-035736,K1,K1-0137,montant total différent du produit attendu
+ROW-024519,K1,K1-0138,montant total différent du produit attendu
+ROW-026288,K1,K1-0139,montant total différent du produit attendu
+ROW-019006,K1,K1-0140,montant total différent du produit attendu
+ROW-000704,K1,K1-0141,montant total différent du produit attendu
+ROW-045192,K1,K1-0142,montant total différent du produit attendu
+ROW-043199,K1,K1-0143,montant total différent du produit attendu
+ROW-017336,K1,K1-0144,montant total différent du produit attendu
+ROW-017617,K1,K1-0145,montant total différent du produit attendu
+ROW-036534,K1,K1-0146,montant total différent du produit attendu
+ROW-041109,K1,K1-0147,montant total différent du produit attendu
+ROW-006561,K1,K1-0148,montant total différent du produit attendu
+ROW-047781,K1,K1-0149,montant total différent du produit attendu
+ROW-027969,K1,K1-0150,montant total différent du produit attendu
+ROW-000479,K1,K1-0151,montant total différent du produit attendu
+ROW-039276,K1,K1-0152,montant total différent du produit attendu
+ROW-024193,K1,K1-0153,montant total différent du produit attendu
+ROW-012925,K1,K1-0154,montant total différent du produit attendu
+ROW-020841,K1,K1-0155,montant total différent du produit attendu
+ROW-025030,K1,K1-0156,montant total différent du produit attendu
+ROW-006909,K1,K1-0157,montant total différent du produit attendu
+ROW-036798,K1,K1-0158,montant total différent du produit attendu
+ROW-009043,K1,K1-0159,montant total différent du produit attendu
+ROW-013823,K1,K1-0160,montant total différent du produit attendu
+ROW-040565,K1,K1-0161,montant total différent du produit attendu
+ROW-028031,K1,K1-0162,montant total différent du produit attendu
+ROW-019076,K1,K1-0163,montant total différent du produit attendu
+ROW-037295,K1,K1-0164,montant total différent du produit attendu
+ROW-043905,K1,K1-0165,montant total différent du produit attendu
+ROW-007858,K1,K1-0166,montant total différent du produit attendu
+ROW-036447,K1,K1-0167,montant total différent du produit attendu
+ROW-043658,K1,K1-0168,montant total différent du produit attendu
+ROW-048199,K1,K1-0169,montant total différent du produit attendu
+ROW-029665,K1,K1-0170,montant total différent du produit attendu
+ROW-021521,K1,K1-0171,montant total différent du produit attendu
+ROW-018724,K1,K1-0172,montant total différent du produit attendu
+ROW-023983,K1,K1-0173,montant total différent du produit attendu
+ROW-012221,K1,K1-0174,montant total différent du produit attendu
+ROW-007870,K1,K1-0175,montant total différent du produit attendu
+ROW-019537,K1,K1-0176,montant total différent du produit attendu
+ROW-003100,K1,K1-0177,montant total différent du produit attendu
+ROW-035326,K1,K1-0178,montant total différent du produit attendu
+ROW-044844,K1,K1-0179,montant total différent du produit attendu
+ROW-038931,K1,K1-0180,montant total différent du produit attendu
+ROW-043956,K1,K1-0181,montant total différent du produit attendu
+ROW-033384,K1,K1-0182,montant total différent du produit attendu
+ROW-009495,K1,K1-0183,montant total différent du produit attendu
+ROW-044600,K1,K1-0184,montant total différent du produit attendu
+ROW-001113,K1,K1-0185,montant total différent du produit attendu
+ROW-031569,K1,K1-0186,montant total différent du produit attendu
+ROW-032328,K1,K1-0187,montant total différent du produit attendu
+ROW-023687,K1,K1-0188,montant total différent du produit attendu
+ROW-038397,K1,K1-0189,montant total différent du produit attendu
+ROW-038664,K1,K1-0190,montant total différent du produit attendu
+ROW-029282,K1,K1-0191,montant total différent du produit attendu
+ROW-017570,K1,K1-0192,montant total différent du produit attendu
+ROW-006189,K1,K1-0193,montant total différent du produit attendu
+ROW-033928,K1,K1-0194,montant total différent du produit attendu
+ROW-016449,K1,K1-0195,montant total différent du produit attendu
+ROW-012086,K1,K1-0196,montant total différent du produit attendu
+ROW-027823,K1,K1-0197,montant total différent du produit attendu
+ROW-023751,K1,K1-0198,montant total différent du produit attendu
+ROW-030300,K1,K1-0199,montant total différent du produit attendu
+ROW-048256,K1,K1-0200,montant total différent du produit attendu
+ROW-015605,K2,K2-M0001,référence absente pour paid/shipped
+ROW-009792,K2,K2-M0002,référence absente pour paid/shipped
+ROW-023919,K2,K2-M0003,référence absente pour paid/shipped
+ROW-004104,K2,K2-M0004,référence absente pour paid/shipped
+ROW-032877,K2,K2-M0005,référence absente pour paid/shipped
+ROW-033872,K2,K2-M0006,référence absente pour paid/shipped
+ROW-027208,K2,K2-M0007,référence absente pour paid/shipped
+ROW-016094,K2,K2-M0008,référence absente pour paid/shipped
+ROW-037237,K2,K2-M0009,référence absente pour paid/shipped
+ROW-012720,K2,K2-M0010,référence absente pour paid/shipped
+ROW-043342,K2,K2-M0011,référence absente pour paid/shipped
+ROW-046466,K2,K2-M0012,référence absente pour paid/shipped
+ROW-001350,K2,K2-M0013,référence absente pour paid/shipped
+ROW-033963,K2,K2-M0014,référence absente pour paid/shipped
+ROW-042234,K2,K2-M0015,référence absente pour paid/shipped
+ROW-020677,K2,K2-M0016,référence absente pour paid/shipped
+ROW-001430,K2,K2-M0017,référence absente pour paid/shipped
+ROW-007352,K2,K2-M0018,référence absente pour paid/shipped
+ROW-011575,K2,K2-M0019,référence absente pour paid/shipped
+ROW-024333,K2,K2-M0020,référence absente pour paid/shipped
+ROW-033874,K2,K2-M0021,référence absente pour paid/shipped
+ROW-019598,K2,K2-M0022,référence absente pour paid/shipped
+ROW-021369,K2,K2-M0023,référence absente pour paid/shipped
+ROW-028831,K2,K2-M0024,référence absente pour paid/shipped
+ROW-001563,K2,K2-M0025,référence absente pour paid/shipped
+ROW-042025,K2,K2-M0026,référence absente pour paid/shipped
+ROW-028691,K2,K2-M0027,référence absente pour paid/shipped
+ROW-030145,K2,K2-M0028,référence absente pour paid/shipped
+ROW-006448,K2,K2-M0029,référence absente pour paid/shipped
+ROW-023245,K2,K2-M0030,référence absente pour paid/shipped
+ROW-010148,K2,K2-M0031,référence absente pour paid/shipped
+ROW-005993,K2,K2-M0032,référence absente pour paid/shipped
+ROW-011550,K2,K2-M0033,référence absente pour paid/shipped
+ROW-039390,K2,K2-M0034,référence absente pour paid/shipped
+ROW-010029,K2,K2-M0035,référence absente pour paid/shipped
+ROW-004939,K2,K2-M0036,référence absente pour paid/shipped
+ROW-045130,K2,K2-M0037,référence absente pour paid/shipped
+ROW-015279,K2,K2-M0038,référence absente pour paid/shipped
+ROW-027352,K2,K2-M0039,référence absente pour paid/shipped
+ROW-030361,K2,K2-M0040,référence absente pour paid/shipped
+ROW-004355,K2,K2-M0041,référence absente pour paid/shipped
+ROW-027584,K2,K2-M0042,référence absente pour paid/shipped
+ROW-007211,K2,K2-M0043,référence absente pour paid/shipped
+ROW-040999,K2,K2-M0044,référence absente pour paid/shipped
+ROW-025327,K2,K2-M0045,référence absente pour paid/shipped
+ROW-019183,K2,K2-M0046,référence absente pour paid/shipped
+ROW-003902,K2,K2-M0047,référence absente pour paid/shipped
+ROW-000459,K2,K2-M0048,référence absente pour paid/shipped
+ROW-013530,K2,K2-M0049,référence absente pour paid/shipped
+ROW-049134,K2,K2-M0050,référence absente pour paid/shipped
+ROW-034078,K2,K2-M0051,référence absente pour paid/shipped
+ROW-041804,K2,K2-M0052,référence absente pour paid/shipped
+ROW-015631,K2,K2-M0053,référence absente pour paid/shipped
+ROW-020797,K2,K2-M0054,référence absente pour paid/shipped
+ROW-041272,K2,K2-M0055,référence absente pour paid/shipped
+ROW-023100,K2,K2-M0056,référence absente pour paid/shipped
+ROW-048570,K2,K2-M0057,référence absente pour paid/shipped
+ROW-033306,K2,K2-M0058,référence absente pour paid/shipped
+ROW-021766,K2,K2-M0059,référence absente pour paid/shipped
+ROW-030922,K2,K2-M0060,référence absente pour paid/shipped
+ROW-033432,K2,K2-M0061,référence absente pour paid/shipped
+ROW-024735,K2,K2-M0062,référence absente pour paid/shipped
+ROW-047428,K2,K2-M0063,référence absente pour paid/shipped
+ROW-017029,K2,K2-M0064,référence absente pour paid/shipped
+ROW-030419,K2,K2-M0065,référence absente pour paid/shipped
+ROW-042228,K2,K2-M0066,référence absente pour paid/shipped
+ROW-011320,K2,K2-M0067,référence absente pour paid/shipped
+ROW-042488,K2,K2-M0068,référence absente pour paid/shipped
+ROW-008285,K2,K2-M0069,référence absente pour paid/shipped
+ROW-044174,K2,K2-M0070,référence absente pour paid/shipped
+ROW-028251,K2,K2-M0071,référence absente pour paid/shipped
+ROW-019443,K2,K2-M0072,référence absente pour paid/shipped
+ROW-008050,K2,K2-M0073,référence absente pour paid/shipped
+ROW-020153,K2,K2-M0074,référence absente pour paid/shipped
+ROW-042536,K2,K2-M0075,référence absente pour paid/shipped
+ROW-020423,K2,K2-M0076,référence absente pour paid/shipped
+ROW-044261,K2,K2-M0077,référence absente pour paid/shipped
+ROW-039334,K2,K2-M0078,référence absente pour paid/shipped
+ROW-022312,K2,K2-M0079,référence absente pour paid/shipped
+ROW-034103,K2,K2-M0080,référence absente pour paid/shipped
+ROW-012976,K2,K2-M0081,référence absente pour paid/shipped
+ROW-048859,K2,K2-M0082,référence absente pour paid/shipped
+ROW-027894,K2,K2-M0083,référence absente pour paid/shipped
+ROW-025577,K2,K2-M0084,référence absente pour paid/shipped
+ROW-031965,K2,K2-M0085,référence absente pour paid/shipped
+ROW-047487,K2,K2-M0086,référence absente pour paid/shipped
+ROW-045317,K2,K2-M0087,référence absente pour paid/shipped
+ROW-028617,K2,K2-M0088,référence absente pour paid/shipped
+ROW-008768,K2,K2-M0089,référence absente pour paid/shipped
+ROW-001434,K2,K2-M0090,référence absente pour paid/shipped
+ROW-037969,K2,K2-M0091,référence absente pour paid/shipped
+ROW-000104,K2,K2-M0092,référence absente pour paid/shipped
+ROW-005197,K2,K2-M0093,référence absente pour paid/shipped
+ROW-043023,K2,K2-M0094,référence absente pour paid/shipped
+ROW-029922,K2,K2-M0095,référence absente pour paid/shipped
+ROW-005468,K2,K2-M0096,référence absente pour paid/shipped
+ROW-013776,K2,K2-M0097,référence absente pour paid/shipped
+ROW-007345,K2,K2-M0098,référence absente pour paid/shipped
+ROW-004126,K2,K2-M0099,référence absente pour paid/shipped
+ROW-023181,K2,K2-M0100,référence absente pour paid/shipped
+ROW-047062,K2,K2-X0001,référence présente pour pending/cancelled
+ROW-003260,K2,K2-X0002,référence présente pour pending/cancelled
+ROW-029527,K2,K2-X0003,référence présente pour pending/cancelled
+ROW-037255,K2,K2-X0004,référence présente pour pending/cancelled
+ROW-010735,K2,K2-X0005,référence présente pour pending/cancelled
+ROW-032965,K2,K2-X0006,référence présente pour pending/cancelled
+ROW-011403,K2,K2-X0007,référence présente pour pending/cancelled
+ROW-033024,K2,K2-X0008,référence présente pour pending/cancelled
+ROW-026460,K2,K2-X0009,référence présente pour pending/cancelled
+ROW-004948,K2,K2-X0010,référence présente pour pending/cancelled
+ROW-001529,K2,K2-X0011,référence présente pour pending/cancelled
+ROW-048181,K2,K2-X0012,référence présente pour pending/cancelled
+ROW-010673,K2,K2-X0013,référence présente pour pending/cancelled
+ROW-003407,K2,K2-X0014,référence présente pour pending/cancelled
+ROW-000778,K2,K2-X0015,référence présente pour pending/cancelled
+ROW-021867,K2,K2-X0016,référence présente pour pending/cancelled
+ROW-042598,K2,K2-X0017,référence présente pour pending/cancelled
+ROW-026855,K2,K2-X0018,référence présente pour pending/cancelled
+ROW-048993,K2,K2-X0019,référence présente pour pending/cancelled
+ROW-048056,K2,K2-X0020,référence présente pour pending/cancelled
+ROW-048697,K2,K2-X0021,référence présente pour pending/cancelled
+ROW-049777,K2,K2-X0022,référence présente pour pending/cancelled
+ROW-014715,K2,K2-X0023,référence présente pour pending/cancelled
+ROW-041336,K2,K2-X0024,référence présente pour pending/cancelled
+ROW-019294,K2,K2-X0025,référence présente pour pending/cancelled
+ROW-043662,K2,K2-X0026,référence présente pour pending/cancelled
+ROW-045872,K2,K2-X0027,référence présente pour pending/cancelled
+ROW-009989,K2,K2-X0028,référence présente pour pending/cancelled
+ROW-020898,K2,K2-X0029,référence présente pour pending/cancelled
+ROW-049937,K2,K2-X0030,référence présente pour pending/cancelled
+ROW-015802,K2,K2-X0031,référence présente pour pending/cancelled
+ROW-033607,K2,K2-X0032,référence présente pour pending/cancelled
+ROW-045326,K2,K2-X0033,référence présente pour pending/cancelled
+ROW-041342,K2,K2-X0034,référence présente pour pending/cancelled
+ROW-011728,K2,K2-X0035,référence présente pour pending/cancelled
+ROW-029041,K2,K2-X0036,référence présente pour pending/cancelled
+ROW-006603,K2,K2-X0037,référence présente pour pending/cancelled
+ROW-030395,K2,K2-X0038,référence présente pour pending/cancelled
+ROW-014502,K2,K2-X0039,référence présente pour pending/cancelled
+ROW-000899,K2,K2-X0040,référence présente pour pending/cancelled
+ROW-005089,K2,K2-X0041,référence présente pour pending/cancelled
+ROW-012658,K2,K2-X0042,référence présente pour pending/cancelled
+ROW-039820,K2,K2-X0043,référence présente pour pending/cancelled
+ROW-024427,K2,K2-X0044,référence présente pour pending/cancelled
+ROW-014145,K2,K2-X0045,référence présente pour pending/cancelled
+ROW-031473,K2,K2-X0046,référence présente pour pending/cancelled
+ROW-049042,K2,K2-X0047,référence présente pour pending/cancelled
+ROW-033585,K2,K2-X0048,référence présente pour pending/cancelled
+ROW-019986,K2,K2-X0049,référence présente pour pending/cancelled
+ROW-043251,K2,K2-X0050,référence présente pour pending/cancelled
+ROW-004086,K2,K2-X0051,référence présente pour pending/cancelled
+ROW-006414,K2,K2-X0052,référence présente pour pending/cancelled
+ROW-048792,K2,K2-X0053,référence présente pour pending/cancelled
+ROW-041543,K2,K2-X0054,référence présente pour pending/cancelled
+ROW-046668,K2,K2-X0055,référence présente pour pending/cancelled
+ROW-010170,K2,K2-X0056,référence présente pour pending/cancelled
+ROW-006785,K2,K2-X0057,référence présente pour pending/cancelled
+ROW-032134,K2,K2-X0058,référence présente pour pending/cancelled
+ROW-003391,K2,K2-X0059,référence présente pour pending/cancelled
+ROW-023692,K2,K2-X0060,référence présente pour pending/cancelled
+ROW-014787,K2,K2-X0061,référence présente pour pending/cancelled
+ROW-020911,K2,K2-X0062,référence présente pour pending/cancelled
+ROW-003920,K2,K2-X0063,référence présente pour pending/cancelled
+ROW-040177,K2,K2-X0064,référence présente pour pending/cancelled
+ROW-026656,K2,K2-X0065,référence présente pour pending/cancelled
+ROW-043879,K2,K2-X0066,référence présente pour pending/cancelled
+ROW-024117,K2,K2-X0067,référence présente pour pending/cancelled
+ROW-049655,K2,K2-X0068,référence présente pour pending/cancelled
+ROW-046602,K2,K2-X0069,référence présente pour pending/cancelled
+ROW-042830,K2,K2-X0070,référence présente pour pending/cancelled
+ROW-010181,K2,K2-X0071,référence présente pour pending/cancelled
+ROW-004340,K2,K2-X0072,référence présente pour pending/cancelled
+ROW-021023,K2,K2-X0073,référence présente pour pending/cancelled
+ROW-020198,K2,K2-X0074,référence présente pour pending/cancelled
+ROW-007795,K2,K2-X0075,référence présente pour pending/cancelled
+ROW-034034,K2,K2-X0076,référence présente pour pending/cancelled
+ROW-022710,K2,K2-X0077,référence présente pour pending/cancelled
+ROW-045537,K2,K2-X0078,référence présente pour pending/cancelled
+ROW-026087,K2,K2-X0079,référence présente pour pending/cancelled
+ROW-000489,K2,K2-X0080,référence présente pour pending/cancelled
+ROW-002070,K2,K2-X0081,référence présente pour pending/cancelled
+ROW-035960,K2,K2-X0082,référence présente pour pending/cancelled
+ROW-048002,K2,K2-X0083,référence présente pour pending/cancelled
+ROW-028822,K2,K2-X0084,référence présente pour pending/cancelled
+ROW-022818,K2,K2-X0085,référence présente pour pending/cancelled
+ROW-030369,K2,K2-X0086,référence présente pour pending/cancelled
+ROW-038763,K2,K2-X0087,référence présente pour pending/cancelled
+ROW-049931,K2,K2-X0088,référence présente pour pending/cancelled
+ROW-026585,K2,K2-X0089,référence présente pour pending/cancelled
+ROW-014657,K2,K2-X0090,référence présente pour pending/cancelled
+ROW-010275,K2,K2-X0091,référence présente pour pending/cancelled
+ROW-002960,K2,K2-X0092,référence présente pour pending/cancelled
+ROW-046038,K2,K2-X0093,référence présente pour pending/cancelled
+ROW-016998,K2,K2-X0094,référence présente pour pending/cancelled
+ROW-015306,K2,K2-X0095,référence présente pour pending/cancelled
+ROW-034790,K2,K2-X0096,référence présente pour pending/cancelled
+ROW-029903,K2,K2-X0097,référence présente pour pending/cancelled
+ROW-019552,K2,K2-X0098,référence présente pour pending/cancelled
+ROW-047182,K2,K2-X0099,référence présente pour pending/cancelled
+ROW-007636,K2,K2-X0100,référence présente pour pending/cancelled
+ROW-034451,K3,K3-E0001,expédition antérieure à la commande
+ROW-039270,K3,K3-E0002,expédition antérieure à la commande
+ROW-022204,K3,K3-E0003,expédition antérieure à la commande
+ROW-025986,K3,K3-E0004,expédition antérieure à la commande
+ROW-032976,K3,K3-E0005,expédition antérieure à la commande
+ROW-038448,K3,K3-E0006,expédition antérieure à la commande
+ROW-029586,K3,K3-E0007,expédition antérieure à la commande
+ROW-028336,K3,K3-E0008,expédition antérieure à la commande
+ROW-026152,K3,K3-E0009,expédition antérieure à la commande
+ROW-005493,K3,K3-E0010,expédition antérieure à la commande
+ROW-000129,K3,K3-E0011,expédition antérieure à la commande
+ROW-043331,K3,K3-E0012,expédition antérieure à la commande
+ROW-033645,K3,K3-E0013,expédition antérieure à la commande
+ROW-010640,K3,K3-E0014,expédition antérieure à la commande
+ROW-041554,K3,K3-E0015,expédition antérieure à la commande
+ROW-005595,K3,K3-E0016,expédition antérieure à la commande
+ROW-013111,K3,K3-E0017,expédition antérieure à la commande
+ROW-030482,K3,K3-E0018,expédition antérieure à la commande
+ROW-037358,K3,K3-E0019,expédition antérieure à la commande
+ROW-016367,K3,K3-E0020,expédition antérieure à la commande
+ROW-025994,K3,K3-E0021,expédition antérieure à la commande
+ROW-001879,K3,K3-E0022,expédition antérieure à la commande
+ROW-030627,K3,K3-E0023,expédition antérieure à la commande
+ROW-025374,K3,K3-E0024,expédition antérieure à la commande
+ROW-049481,K3,K3-E0025,expédition antérieure à la commande
+ROW-002705,K3,K3-E0026,expédition antérieure à la commande
+ROW-047381,K3,K3-E0027,expédition antérieure à la commande
+ROW-013888,K3,K3-E0028,expédition antérieure à la commande
+ROW-035995,K3,K3-E0029,expédition antérieure à la commande
+ROW-027541,K3,K3-E0030,expédition antérieure à la commande
+ROW-000079,K3,K3-E0031,expédition antérieure à la commande
+ROW-033360,K3,K3-E0032,expédition antérieure à la commande
+ROW-041086,K3,K3-E0033,expédition antérieure à la commande
+ROW-004541,K3,K3-E0034,expédition antérieure à la commande
+ROW-002645,K3,K3-E0035,expédition antérieure à la commande
+ROW-033864,K3,K3-E0036,expédition antérieure à la commande
+ROW-024593,K3,K3-E0037,expédition antérieure à la commande
+ROW-008389,K3,K3-E0038,expédition antérieure à la commande
+ROW-026052,K3,K3-E0039,expédition antérieure à la commande
+ROW-036505,K3,K3-E0040,expédition antérieure à la commande
+ROW-025117,K3,K3-E0041,expédition antérieure à la commande
+ROW-004390,K3,K3-E0042,expédition antérieure à la commande
+ROW-033666,K3,K3-E0043,expédition antérieure à la commande
+ROW-033524,K3,K3-E0044,expédition antérieure à la commande
+ROW-017606,K3,K3-E0045,expédition antérieure à la commande
+ROW-015531,K3,K3-E0046,expédition antérieure à la commande
+ROW-044843,K3,K3-E0047,expédition antérieure à la commande
+ROW-032114,K3,K3-E0048,expédition antérieure à la commande
+ROW-047818,K3,K3-E0049,expédition antérieure à la commande
+ROW-040068,K3,K3-E0050,expédition antérieure à la commande
+ROW-036477,K3,K3-E0051,expédition antérieure à la commande
+ROW-011808,K3,K3-E0052,expédition antérieure à la commande
+ROW-024685,K3,K3-E0053,expédition antérieure à la commande
+ROW-017682,K3,K3-E0054,expédition antérieure à la commande
+ROW-014965,K3,K3-E0055,expédition antérieure à la commande
+ROW-004524,K3,K3-E0056,expédition antérieure à la commande
+ROW-021631,K3,K3-E0057,expédition antérieure à la commande
+ROW-040313,K3,K3-E0058,expédition antérieure à la commande
+ROW-009524,K3,K3-E0059,expédition antérieure à la commande
+ROW-012303,K3,K3-E0060,expédition antérieure à la commande
+ROW-004061,K3,K3-M0001,date absente pour une commande shipped
+ROW-031313,K3,K3-M0002,date absente pour une commande shipped
+ROW-030191,K3,K3-M0003,date absente pour une commande shipped
+ROW-030441,K3,K3-M0004,date absente pour une commande shipped
+ROW-032156,K3,K3-M0005,date absente pour une commande shipped
+ROW-033420,K3,K3-M0006,date absente pour une commande shipped
+ROW-016130,K3,K3-M0007,date absente pour une commande shipped
+ROW-029914,K3,K3-M0008,date absente pour une commande shipped
+ROW-015967,K3,K3-M0009,date absente pour une commande shipped
+ROW-028175,K3,K3-M0010,date absente pour une commande shipped
+ROW-041872,K3,K3-M0011,date absente pour une commande shipped
+ROW-034064,K3,K3-M0012,date absente pour une commande shipped
+ROW-011998,K3,K3-M0013,date absente pour une commande shipped
+ROW-035872,K3,K3-M0014,date absente pour une commande shipped
+ROW-020045,K3,K3-M0015,date absente pour une commande shipped
+ROW-032957,K3,K3-M0016,date absente pour une commande shipped
+ROW-025953,K3,K3-M0017,date absente pour une commande shipped
+ROW-026631,K3,K3-M0018,date absente pour une commande shipped
+ROW-009763,K3,K3-M0019,date absente pour une commande shipped
+ROW-023666,K3,K3-M0020,date absente pour une commande shipped
+ROW-008552,K3,K3-M0021,date absente pour une commande shipped
+ROW-031135,K3,K3-M0022,date absente pour une commande shipped
+ROW-016102,K3,K3-M0023,date absente pour une commande shipped
+ROW-028844,K3,K3-M0024,date absente pour une commande shipped
+ROW-024666,K3,K3-M0025,date absente pour une commande shipped
+ROW-035781,K3,K3-M0026,date absente pour une commande shipped
+ROW-022762,K3,K3-M0027,date absente pour une commande shipped
+ROW-044118,K3,K3-M0028,date absente pour une commande shipped
+ROW-018936,K3,K3-M0029,date absente pour une commande shipped
+ROW-009110,K3,K3-M0030,date absente pour une commande shipped
+ROW-021391,K3,K3-M0031,date absente pour une commande shipped
+ROW-009534,K3,K3-M0032,date absente pour une commande shipped
+ROW-016131,K3,K3-M0033,date absente pour une commande shipped
+ROW-043835,K3,K3-M0034,date absente pour une commande shipped
+ROW-039889,K3,K3-M0035,date absente pour une commande shipped
+ROW-037434,K3,K3-M0036,date absente pour une commande shipped
+ROW-048349,K3,K3-M0037,date absente pour une commande shipped
+ROW-000938,K3,K3-M0038,date absente pour une commande shipped
+ROW-029147,K3,K3-M0039,date absente pour une commande shipped
+ROW-032729,K3,K3-M0040,date absente pour une commande shipped
+ROW-005937,K3,K3-M0041,date absente pour une commande shipped
+ROW-004953,K3,K3-M0042,date absente pour une commande shipped
+ROW-011157,K3,K3-M0043,date absente pour une commande shipped
+ROW-008806,K3,K3-M0044,date absente pour une commande shipped
+ROW-000563,K3,K3-M0045,date absente pour une commande shipped
+ROW-027370,K3,K3-M0046,date absente pour une commande shipped
+ROW-010717,K3,K3-M0047,date absente pour une commande shipped
+ROW-022306,K3,K3-M0048,date absente pour une commande shipped
+ROW-011526,K3,K3-M0049,date absente pour une commande shipped
+ROW-042171,K3,K3-M0050,date absente pour une commande shipped
+ROW-031115,K3,K3-M0051,date absente pour une commande shipped
+ROW-047391,K3,K3-M0052,date absente pour une commande shipped
+ROW-043618,K3,K3-M0053,date absente pour une commande shipped
+ROW-045340,K3,K3-M0054,date absente pour une commande shipped
+ROW-008109,K3,K3-M0055,date absente pour une commande shipped
+ROW-002478,K3,K3-M0056,date absente pour une commande shipped
+ROW-037120,K3,K3-M0057,date absente pour une commande shipped
+ROW-043126,K3,K3-M0058,date absente pour une commande shipped
+ROW-004546,K3,K3-M0059,date absente pour une commande shipped
+ROW-026942,K3,K3-M0060,date absente pour une commande shipped
+ROW-008241,K3,K3-M0061,date absente pour une commande shipped
+ROW-024225,K3,K3-M0062,date absente pour une commande shipped
+ROW-036109,K3,K3-M0063,date absente pour une commande shipped
+ROW-011086,K3,K3-M0064,date absente pour une commande shipped
+ROW-022872,K3,K3-M0065,date absente pour une commande shipped
+ROW-016554,K3,K3-M0066,date absente pour une commande shipped
+ROW-013084,K3,K3-M0067,date absente pour une commande shipped
+ROW-025784,K3,K3-M0068,date absente pour une commande shipped
+ROW-008522,K3,K3-M0069,date absente pour une commande shipped
+ROW-017219,K3,K3-M0070,date absente pour une commande shipped
+ROW-034631,K3,K3-X0001,date présente pour un statut non shipped
+ROW-016427,K3,K3-X0002,date présente pour un statut non shipped
+ROW-026101,K3,K3-X0003,date présente pour un statut non shipped
+ROW-007637,K3,K3-X0004,date présente pour un statut non shipped
+ROW-014756,K3,K3-X0005,date présente pour un statut non shipped
+ROW-032940,K3,K3-X0006,date présente pour un statut non shipped
+ROW-018420,K3,K3-X0007,date présente pour un statut non shipped
+ROW-004369,K3,K3-X0008,date présente pour un statut non shipped
+ROW-038975,K3,K3-X0009,date présente pour un statut non shipped
+ROW-032366,K3,K3-X0010,date présente pour un statut non shipped
+ROW-017335,K3,K3-X0011,date présente pour un statut non shipped
+ROW-029866,K3,K3-X0012,date présente pour un statut non shipped
+ROW-035895,K3,K3-X0013,date présente pour un statut non shipped
+ROW-040644,K3,K3-X0014,date présente pour un statut non shipped
+ROW-001459,K3,K3-X0015,date présente pour un statut non shipped
+ROW-019215,K3,K3-X0016,date présente pour un statut non shipped
+ROW-021128,K3,K3-X0017,date présente pour un statut non shipped
+ROW-011837,K3,K3-X0018,date présente pour un statut non shipped
+ROW-005469,K3,K3-X0019,date présente pour un statut non shipped
+ROW-025646,K3,K3-X0020,date présente pour un statut non shipped
+ROW-029532,K3,K3-X0021,date présente pour un statut non shipped
+ROW-015612,K3,K3-X0022,date présente pour un statut non shipped
+ROW-047955,K3,K3-X0023,date présente pour un statut non shipped
+ROW-009585,K3,K3-X0024,date présente pour un statut non shipped
+ROW-048566,K3,K3-X0025,date présente pour un statut non shipped
+ROW-001894,K3,K3-X0026,date présente pour un statut non shipped
+ROW-003495,K3,K3-X0027,date présente pour un statut non shipped
+ROW-028616,K3,K3-X0028,date présente pour un statut non shipped
+ROW-032682,K3,K3-X0029,date présente pour un statut non shipped
+ROW-005370,K3,K3-X0030,date présente pour un statut non shipped
+ROW-044863,K3,K3-X0031,date présente pour un statut non shipped
+ROW-018734,K3,K3-X0032,date présente pour un statut non shipped
+ROW-045175,K3,K3-X0033,date présente pour un statut non shipped
+ROW-039454,K3,K3-X0034,date présente pour un statut non shipped
+ROW-020160,K3,K3-X0035,date présente pour un statut non shipped
+ROW-026626,K3,K3-X0036,date présente pour un statut non shipped
+ROW-044786,K3,K3-X0037,date présente pour un statut non shipped
+ROW-021595,K3,K3-X0038,date présente pour un statut non shipped
+ROW-012757,K3,K3-X0039,date présente pour un statut non shipped
+ROW-022387,K3,K3-X0040,date présente pour un statut non shipped
+ROW-043110,K3,K3-X0041,date présente pour un statut non shipped
+ROW-038328,K3,K3-X0042,date présente pour un statut non shipped
+ROW-007330,K3,K3-X0043,date présente pour un statut non shipped
+ROW-020039,K3,K3-X0044,date présente pour un statut non shipped
+ROW-014259,K3,K3-X0045,date présente pour un statut non shipped
+ROW-029090,K3,K3-X0046,date présente pour un statut non shipped
+ROW-045203,K3,K3-X0047,date présente pour un statut non shipped
+ROW-033180,K3,K3-X0048,date présente pour un statut non shipped
+ROW-039629,K3,K3-X0049,date présente pour un statut non shipped
+ROW-005480,K3,K3-X0050,date présente pour un statut non shipped
+ROW-049295,K3,K3-X0051,date présente pour un statut non shipped
+ROW-023254,K3,K3-X0052,date présente pour un statut non shipped
+ROW-005369,K3,K3-X0053,date présente pour un statut non shipped
+ROW-027881,K3,K3-X0054,date présente pour un statut non shipped
+ROW-022191,K3,K3-X0055,date présente pour un statut non shipped
+ROW-027555,K3,K3-X0056,date présente pour un statut non shipped
+ROW-022195,K3,K3-X0057,date présente pour un statut non shipped
+ROW-001290,K3,K3-X0058,date présente pour un statut non shipped
+ROW-015585,K3,K3-X0059,date présente pour un statut non shipped
+ROW-041996,K3,K3-X0060,date présente pour un statut non shipped
+ROW-021771,K3,K3-X0061,date présente pour un statut non shipped
+ROW-009093,K3,K3-X0062,date présente pour un statut non shipped
+ROW-015705,K3,K3-X0063,date présente pour un statut non shipped
+ROW-017699,K3,K3-X0064,date présente pour un statut non shipped
+ROW-002441,K3,K3-X0065,date présente pour un statut non shipped
+ROW-040168,K3,K3-X0066,date présente pour un statut non shipped
+ROW-004352,K3,K3-X0067,date présente pour un statut non shipped
+ROW-024762,K3,K3-X0068,date présente pour un statut non shipped
+ROW-027144,K3,K3-X0069,date présente pour un statut non shipped
+ROW-023154,K3,K3-X0070,date présente pour un statut non shipped
+ROW-000530,U1,U1-G0001,seconde ligne d'un groupe de doublons
+ROW-006922,U1,U1-G0001,première ligne d'un groupe de doublons
+ROW-040643,U1,U1-G0002,première ligne d'un groupe de doublons
+ROW-043987,U1,U1-G0002,seconde ligne d'un groupe de doublons
+ROW-016962,U1,U1-G0003,première ligne d'un groupe de doublons
+ROW-021010,U1,U1-G0003,seconde ligne d'un groupe de doublons
+ROW-002404,U1,U1-G0004,première ligne d'un groupe de doublons
+ROW-045656,U1,U1-G0004,seconde ligne d'un groupe de doublons
+ROW-007685,U1,U1-G0005,première ligne d'un groupe de doublons
+ROW-028933,U1,U1-G0005,seconde ligne d'un groupe de doublons
+ROW-020737,U1,U1-G0006,première ligne d'un groupe de doublons
+ROW-022366,U1,U1-G0006,seconde ligne d'un groupe de doublons
+ROW-042130,U1,U1-G0007,première ligne d'un groupe de doublons
+ROW-046894,U1,U1-G0007,seconde ligne d'un groupe de doublons
+ROW-013496,U1,U1-G0008,seconde ligne d'un groupe de doublons
+ROW-046031,U1,U1-G0008,première ligne d'un groupe de doublons
+ROW-003210,U1,U1-G0009,seconde ligne d'un groupe de doublons
+ROW-023580,U1,U1-G0009,première ligne d'un groupe de doublons
+ROW-000641,U1,U1-G0010,seconde ligne d'un groupe de doublons
+ROW-031677,U1,U1-G0010,première ligne d'un groupe de doublons
+ROW-015330,U1,U1-G0011,seconde ligne d'un groupe de doublons
+ROW-027276,U1,U1-G0011,première ligne d'un groupe de doublons
+ROW-008169,U1,U1-G0012,première ligne d'un groupe de doublons
+ROW-032857,U1,U1-G0012,seconde ligne d'un groupe de doublons
+ROW-013978,U1,U1-G0013,première ligne d'un groupe de doublons
+ROW-016703,U1,U1-G0013,seconde ligne d'un groupe de doublons
+ROW-028993,U1,U1-G0014,seconde ligne d'un groupe de doublons
+ROW-034345,U1,U1-G0014,première ligne d'un groupe de doublons
+ROW-023871,U1,U1-G0015,seconde ligne d'un groupe de doublons
+ROW-043790,U1,U1-G0015,première ligne d'un groupe de doublons
+ROW-004159,U1,U1-G0016,première ligne d'un groupe de doublons
+ROW-048138,U1,U1-G0016,seconde ligne d'un groupe de doublons
+ROW-036761,U1,U1-G0017,première ligne d'un groupe de doublons
+ROW-045862,U1,U1-G0017,seconde ligne d'un groupe de doublons
+ROW-007969,U1,U1-G0018,seconde ligne d'un groupe de doublons
+ROW-036987,U1,U1-G0018,première ligne d'un groupe de doublons
+ROW-022322,U1,U1-G0019,première ligne d'un groupe de doublons
+ROW-025176,U1,U1-G0019,seconde ligne d'un groupe de doublons
+ROW-020243,U1,U1-G0020,première ligne d'un groupe de doublons
+ROW-037712,U1,U1-G0020,seconde ligne d'un groupe de doublons
+ROW-014338,U1,U1-G0021,première ligne d'un groupe de doublons
+ROW-014426,U1,U1-G0021,seconde ligne d'un groupe de doublons
+ROW-000856,U1,U1-G0022,première ligne d'un groupe de doublons
+ROW-003593,U1,U1-G0022,seconde ligne d'un groupe de doublons
+ROW-002040,U1,U1-G0023,seconde ligne d'un groupe de doublons
+ROW-008547,U1,U1-G0023,première ligne d'un groupe de doublons
+ROW-001648,U1,U1-G0024,première ligne d'un groupe de doublons
+ROW-014596,U1,U1-G0024,seconde ligne d'un groupe de doublons
+ROW-029102,U1,U1-G0025,première ligne d'un groupe de doublons
+ROW-035589,U1,U1-G0025,seconde ligne d'un groupe de doublons
+ROW-003552,U1,U1-G0026,seconde ligne d'un groupe de doublons
+ROW-016475,U1,U1-G0026,première ligne d'un groupe de doublons
+ROW-007250,U1,U1-G0027,première ligne d'un groupe de doublons
+ROW-030023,U1,U1-G0027,seconde ligne d'un groupe de doublons
+ROW-013965,U1,U1-G0028,première ligne d'un groupe de doublons
+ROW-042421,U1,U1-G0028,seconde ligne d'un groupe de doublons
+ROW-027779,U1,U1-G0029,première ligne d'un groupe de doublons
+ROW-048427,U1,U1-G0029,seconde ligne d'un groupe de doublons
+ROW-021570,U1,U1-G0030,première ligne d'un groupe de doublons
+ROW-021706,U1,U1-G0030,seconde ligne d'un groupe de doublons
+ROW-016533,U1,U1-G0031,première ligne d'un groupe de doublons
+ROW-046404,U1,U1-G0031,seconde ligne d'un groupe de doublons
+ROW-006242,U1,U1-G0032,première ligne d'un groupe de doublons
+ROW-038880,U1,U1-G0032,seconde ligne d'un groupe de doublons
+ROW-027937,U1,U1-G0033,seconde ligne d'un groupe de doublons
+ROW-049065,U1,U1-G0033,première ligne d'un groupe de doublons
+ROW-035376,U1,U1-G0034,seconde ligne d'un groupe de doublons
+ROW-046882,U1,U1-G0034,première ligne d'un groupe de doublons
+ROW-021170,U1,U1-G0035,première ligne d'un groupe de doublons
+ROW-048462,U1,U1-G0035,seconde ligne d'un groupe de doublons
+ROW-037280,U1,U1-G0036,seconde ligne d'un groupe de doublons
+ROW-040824,U1,U1-G0036,première ligne d'un groupe de doublons
+ROW-029117,U1,U1-G0037,première ligne d'un groupe de doublons
+ROW-046762,U1,U1-G0037,seconde ligne d'un groupe de doublons
+ROW-027437,U1,U1-G0038,seconde ligne d'un groupe de doublons
+ROW-047897,U1,U1-G0038,première ligne d'un groupe de doublons
+ROW-028390,U1,U1-G0039,première ligne d'un groupe de doublons
+ROW-032213,U1,U1-G0039,seconde ligne d'un groupe de doublons
+ROW-028673,U1,U1-G0040,première ligne d'un groupe de doublons
+ROW-038488,U1,U1-G0040,seconde ligne d'un groupe de doublons
+ROW-025599,U1,U1-G0041,première ligne d'un groupe de doublons
+ROW-042298,U1,U1-G0041,seconde ligne d'un groupe de doublons
+ROW-016843,U1,U1-G0042,première ligne d'un groupe de doublons
+ROW-036495,U1,U1-G0042,seconde ligne d'un groupe de doublons
+ROW-046281,U1,U1-G0043,seconde ligne d'un groupe de doublons
+ROW-047896,U1,U1-G0043,première ligne d'un groupe de doublons
+ROW-009346,U1,U1-G0044,seconde ligne d'un groupe de doublons
+ROW-010519,U1,U1-G0044,première ligne d'un groupe de doublons
+ROW-007258,U1,U1-G0045,première ligne d'un groupe de doublons
+ROW-049685,U1,U1-G0045,seconde ligne d'un groupe de doublons
+ROW-037682,U1,U1-G0046,seconde ligne d'un groupe de doublons
+ROW-038767,U1,U1-G0046,première ligne d'un groupe de doublons
+ROW-009804,U1,U1-G0047,première ligne d'un groupe de doublons
+ROW-026418,U1,U1-G0047,seconde ligne d'un groupe de doublons
+ROW-001359,U1,U1-G0048,seconde ligne d'un groupe de doublons
+ROW-044014,U1,U1-G0048,première ligne d'un groupe de doublons
+ROW-013599,U1,U1-G0049,seconde ligne d'un groupe de doublons
+ROW-030287,U1,U1-G0049,première ligne d'un groupe de doublons
+ROW-030409,U1,U1-G0050,seconde ligne d'un groupe de doublons
+ROW-038332,U1,U1-G0050,première ligne d'un groupe de doublons
+ROW-031547,U1,U1-G0051,seconde ligne d'un groupe de doublons
+ROW-041392,U1,U1-G0051,première ligne d'un groupe de doublons
+ROW-006853,U1,U1-G0052,seconde ligne d'un groupe de doublons
+ROW-037552,U1,U1-G0052,première ligne d'un groupe de doublons
+ROW-005427,U1,U1-G0053,première ligne d'un groupe de doublons
+ROW-046381,U1,U1-G0053,seconde ligne d'un groupe de doublons
+ROW-022993,U1,U1-G0054,première ligne d'un groupe de doublons
+ROW-041255,U1,U1-G0054,seconde ligne d'un groupe de doublons
+ROW-007882,U1,U1-G0055,seconde ligne d'un groupe de doublons
+ROW-036902,U1,U1-G0055,première ligne d'un groupe de doublons
+ROW-022629,U1,U1-G0056,première ligne d'un groupe de doublons
+ROW-036027,U1,U1-G0056,seconde ligne d'un groupe de doublons
+ROW-022535,U1,U1-G0057,seconde ligne d'un groupe de doublons
+ROW-030757,U1,U1-G0057,première ligne d'un groupe de doublons
+ROW-019333,U1,U1-G0058,première ligne d'un groupe de doublons
+ROW-037548,U1,U1-G0058,seconde ligne d'un groupe de doublons
+ROW-040030,U1,U1-G0059,seconde ligne d'un groupe de doublons
+ROW-040746,U1,U1-G0059,première ligne d'un groupe de doublons
+ROW-024801,U1,U1-G0060,première ligne d'un groupe de doublons
+ROW-039544,U1,U1-G0060,seconde ligne d'un groupe de doublons
+ROW-029260,U1,U1-G0061,première ligne d'un groupe de doublons
+ROW-034625,U1,U1-G0061,seconde ligne d'un groupe de doublons
+ROW-007805,U1,U1-G0062,première ligne d'un groupe de doublons
+ROW-038690,U1,U1-G0062,seconde ligne d'un groupe de doublons
+ROW-000946,U1,U1-G0063,seconde ligne d'un groupe de doublons
+ROW-028435,U1,U1-G0063,première ligne d'un groupe de doublons
+ROW-038227,U1,U1-G0064,première ligne d'un groupe de doublons
+ROW-039109,U1,U1-G0064,seconde ligne d'un groupe de doublons
+ROW-034737,U1,U1-G0065,première ligne d'un groupe de doublons
+ROW-038001,U1,U1-G0065,seconde ligne d'un groupe de doublons
+ROW-027264,U1,U1-G0066,seconde ligne d'un groupe de doublons
+ROW-030176,U1,U1-G0066,première ligne d'un groupe de doublons
+ROW-006116,U1,U1-G0067,seconde ligne d'un groupe de doublons
+ROW-025404,U1,U1-G0067,première ligne d'un groupe de doublons
+ROW-026268,U1,U1-G0068,seconde ligne d'un groupe de doublons
+ROW-047847,U1,U1-G0068,première ligne d'un groupe de doublons
+ROW-028032,U1,U1-G0069,première ligne d'un groupe de doublons
+ROW-031430,U1,U1-G0069,seconde ligne d'un groupe de doublons
+ROW-008712,U1,U1-G0070,première ligne d'un groupe de doublons
+ROW-023141,U1,U1-G0070,seconde ligne d'un groupe de doublons
+ROW-003512,U1,U1-G0071,seconde ligne d'un groupe de doublons
+ROW-037614,U1,U1-G0071,première ligne d'un groupe de doublons
+ROW-041729,U1,U1-G0072,première ligne d'un groupe de doublons
+ROW-047721,U1,U1-G0072,seconde ligne d'un groupe de doublons
+ROW-021895,U1,U1-G0073,première ligne d'un groupe de doublons
+ROW-037586,U1,U1-G0073,seconde ligne d'un groupe de doublons
+ROW-032893,U1,U1-G0074,première ligne d'un groupe de doublons
+ROW-040710,U1,U1-G0074,seconde ligne d'un groupe de doublons
+ROW-030665,U1,U1-G0075,seconde ligne d'un groupe de doublons
+ROW-042247,U1,U1-G0075,première ligne d'un groupe de doublons
+ROW-030053,U1,U1-G0076,seconde ligne d'un groupe de doublons
+ROW-031437,U1,U1-G0076,première ligne d'un groupe de doublons
+ROW-027803,U1,U1-G0077,seconde ligne d'un groupe de doublons
+ROW-028063,U1,U1-G0077,première ligne d'un groupe de doublons
+ROW-021550,U1,U1-G0078,seconde ligne d'un groupe de doublons
+ROW-038756,U1,U1-G0078,première ligne d'un groupe de doublons
+ROW-002422,U1,U1-G0079,première ligne d'un groupe de doublons
+ROW-026812,U1,U1-G0079,seconde ligne d'un groupe de doublons
+ROW-017110,U1,U1-G0080,première ligne d'un groupe de doublons
+ROW-026851,U1,U1-G0080,seconde ligne d'un groupe de doublons
+ROW-001295,U1,U1-G0081,première ligne d'un groupe de doublons
+ROW-043689,U1,U1-G0081,seconde ligne d'un groupe de doublons
+ROW-019210,U1,U1-G0082,première ligne d'un groupe de doublons
+ROW-040211,U1,U1-G0082,seconde ligne d'un groupe de doublons
+ROW-024795,U1,U1-G0083,seconde ligne d'un groupe de doublons
+ROW-042286,U1,U1-G0083,première ligne d'un groupe de doublons
+ROW-033228,U1,U1-G0084,seconde ligne d'un groupe de doublons
+ROW-039414,U1,U1-G0084,première ligne d'un groupe de doublons
+ROW-026264,U1,U1-G0085,première ligne d'un groupe de doublons
+ROW-044045,U1,U1-G0085,seconde ligne d'un groupe de doublons
+ROW-007416,U1,U1-G0086,première ligne d'un groupe de doublons
+ROW-025423,U1,U1-G0086,seconde ligne d'un groupe de doublons
+ROW-008689,U1,U1-G0087,seconde ligne d'un groupe de doublons
+ROW-044761,U1,U1-G0087,première ligne d'un groupe de doublons
+ROW-037090,U1,U1-G0088,seconde ligne d'un groupe de doublons
+ROW-044633,U1,U1-G0088,première ligne d'un groupe de doublons
+ROW-014023,U1,U1-G0089,seconde ligne d'un groupe de doublons
+ROW-028473,U1,U1-G0089,première ligne d'un groupe de doublons
+ROW-028549,U1,U1-G0090,seconde ligne d'un groupe de doublons
+ROW-032516,U1,U1-G0090,première ligne d'un groupe de doublons
+ROW-035717,U1,U1-G0091,première ligne d'un groupe de doublons
+ROW-046060,U1,U1-G0091,seconde ligne d'un groupe de doublons
+ROW-005352,U1,U1-G0092,seconde ligne d'un groupe de doublons
+ROW-026784,U1,U1-G0092,première ligne d'un groupe de doublons
+ROW-029180,U1,U1-G0093,première ligne d'un groupe de doublons
+ROW-047119,U1,U1-G0093,seconde ligne d'un groupe de doublons
+ROW-028571,U1,U1-G0094,seconde ligne d'un groupe de doublons
+ROW-035217,U1,U1-G0094,première ligne d'un groupe de doublons
+ROW-008102,U1,U1-G0095,seconde ligne d'un groupe de doublons
+ROW-041787,U1,U1-G0095,première ligne d'un groupe de doublons
+ROW-004795,U1,U1-G0096,seconde ligne d'un groupe de doublons
+ROW-039613,U1,U1-G0096,première ligne d'un groupe de doublons
+ROW-020035,U1,U1-G0097,première ligne d'un groupe de doublons
+ROW-035197,U1,U1-G0097,seconde ligne d'un groupe de doublons
+ROW-026435,U1,U1-G0098,seconde ligne d'un groupe de doublons
+ROW-040017,U1,U1-G0098,première ligne d'un groupe de doublons
+ROW-018733,U1,U1-G0099,première ligne d'un groupe de doublons
+ROW-048032,U1,U1-G0099,seconde ligne d'un groupe de doublons
+ROW-038237,U1,U1-G0100,seconde ligne d'un groupe de doublons
+ROW-049676,U1,U1-G0100,première ligne d'un groupe de doublons
+ROW-001099,U1,U1-G0101,première ligne d'un groupe de doublons
+ROW-012077,U1,U1-G0101,seconde ligne d'un groupe de doublons
+ROW-009348,U1,U1-G0102,seconde ligne d'un groupe de doublons
+ROW-010306,U1,U1-G0102,première ligne d'un groupe de doublons
+ROW-021996,U1,U1-G0103,première ligne d'un groupe de doublons
+ROW-049873,U1,U1-G0103,seconde ligne d'un groupe de doublons
+ROW-009230,U1,U1-G0104,première ligne d'un groupe de doublons
+ROW-042891,U1,U1-G0104,seconde ligne d'un groupe de doublons
+ROW-015936,U1,U1-G0105,seconde ligne d'un groupe de doublons
+ROW-040367,U1,U1-G0105,première ligne d'un groupe de doublons
+ROW-023803,U1,U1-G0106,première ligne d'un groupe de doublons
+ROW-043103,U1,U1-G0106,seconde ligne d'un groupe de doublons
+ROW-027405,U1,U1-G0107,première ligne d'un groupe de doublons
+ROW-038045,U1,U1-G0107,seconde ligne d'un groupe de doublons
+ROW-024169,U1,U1-G0108,seconde ligne d'un groupe de doublons
+ROW-030106,U1,U1-G0108,première ligne d'un groupe de doublons
+ROW-018298,U1,U1-G0109,seconde ligne d'un groupe de doublons
+ROW-037674,U1,U1-G0109,première ligne d'un groupe de doublons
+ROW-038579,U1,U1-G0110,première ligne d'un groupe de doublons
+ROW-043350,U1,U1-G0110,seconde ligne d'un groupe de doublons
+ROW-045748,U1,U1-G0111,seconde ligne d'un groupe de doublons
+ROW-048369,U1,U1-G0111,première ligne d'un groupe de doublons
+ROW-023594,U1,U1-G0112,première ligne d'un groupe de doublons
+ROW-025068,U1,U1-G0112,seconde ligne d'un groupe de doublons
+ROW-013537,U1,U1-G0113,seconde ligne d'un groupe de doublons
+ROW-023843,U1,U1-G0113,première ligne d'un groupe de doublons
+ROW-017502,U1,U1-G0114,seconde ligne d'un groupe de doublons
+ROW-035906,U1,U1-G0114,première ligne d'un groupe de doublons
+ROW-007072,U1,U1-G0115,seconde ligne d'un groupe de doublons
+ROW-031951,U1,U1-G0115,première ligne d'un groupe de doublons
+ROW-026384,U1,U1-G0116,seconde ligne d'un groupe de doublons
+ROW-048336,U1,U1-G0116,première ligne d'un groupe de doublons
+ROW-026465,U1,U1-G0117,seconde ligne d'un groupe de doublons
+ROW-029884,U1,U1-G0117,première ligne d'un groupe de doublons
+ROW-021930,U1,U1-G0118,seconde ligne d'un groupe de doublons
+ROW-031826,U1,U1-G0118,première ligne d'un groupe de doublons
+ROW-022572,U1,U1-G0119,seconde ligne d'un groupe de doublons
+ROW-042342,U1,U1-G0119,première ligne d'un groupe de doublons
+ROW-032149,U1,U1-G0120,seconde ligne d'un groupe de doublons
+ROW-042859,U1,U1-G0120,première ligne d'un groupe de doublons
+ROW-002649,U1,U1-G0121,première ligne d'un groupe de doublons
+ROW-029550,U1,U1-G0121,seconde ligne d'un groupe de doublons
+ROW-031592,U1,U1-G0122,seconde ligne d'un groupe de doublons
+ROW-036709,U1,U1-G0122,première ligne d'un groupe de doublons
+ROW-032920,U1,U1-G0123,seconde ligne d'un groupe de doublons
+ROW-036871,U1,U1-G0123,première ligne d'un groupe de doublons
+ROW-001381,U1,U1-G0124,première ligne d'un groupe de doublons
+ROW-022529,U1,U1-G0124,seconde ligne d'un groupe de doublons
+ROW-033544,U1,U1-G0125,première ligne d'un groupe de doublons
+ROW-048305,U1,U1-G0125,seconde ligne d'un groupe de doublons
+ROW-014862,U1,U1-G0126,seconde ligne d'un groupe de doublons
+ROW-036966,U1,U1-G0126,première ligne d'un groupe de doublons
+ROW-001345,U1,U1-G0127,seconde ligne d'un groupe de doublons
+ROW-032695,U1,U1-G0127,première ligne d'un groupe de doublons
+ROW-019331,U1,U1-G0128,seconde ligne d'un groupe de doublons
+ROW-049109,U1,U1-G0128,première ligne d'un groupe de doublons
+ROW-009725,U1,U1-G0129,seconde ligne d'un groupe de doublons
+ROW-040635,U1,U1-G0129,première ligne d'un groupe de doublons
+ROW-030578,U1,U1-G0130,seconde ligne d'un groupe de doublons
+ROW-047555,U1,U1-G0130,première ligne d'un groupe de doublons
+ROW-006039,U1,U1-G0131,seconde ligne d'un groupe de doublons
+ROW-031866,U1,U1-G0131,première ligne d'un groupe de doublons
+ROW-010849,U1,U1-G0132,seconde ligne d'un groupe de doublons
+ROW-045247,U1,U1-G0132,première ligne d'un groupe de doublons
+ROW-002240,U1,U1-G0133,première ligne d'un groupe de doublons
+ROW-040810,U1,U1-G0133,seconde ligne d'un groupe de doublons
+ROW-007304,U1,U1-G0134,seconde ligne d'un groupe de doublons
+ROW-030799,U1,U1-G0134,première ligne d'un groupe de doublons
+ROW-028180,U1,U1-G0135,première ligne d'un groupe de doublons
+ROW-049352,U1,U1-G0135,seconde ligne d'un groupe de doublons
+ROW-037125,U1,U1-G0136,seconde ligne d'un groupe de doublons
+ROW-044645,U1,U1-G0136,première ligne d'un groupe de doublons
+ROW-043094,U1,U1-G0137,première ligne d'un groupe de doublons
+ROW-048510,U1,U1-G0137,seconde ligne d'un groupe de doublons
+ROW-002841,U1,U1-G0138,première ligne d'un groupe de doublons
+ROW-042390,U1,U1-G0138,seconde ligne d'un groupe de doublons
+ROW-006305,U1,U1-G0139,seconde ligne d'un groupe de doublons
+ROW-045040,U1,U1-G0139,première ligne d'un groupe de doublons
+ROW-018556,U1,U1-G0140,seconde ligne d'un groupe de doublons
+ROW-042493,U1,U1-G0140,première ligne d'un groupe de doublons
+ROW-018953,U1,U1-G0141,première ligne d'un groupe de doublons
+ROW-040069,U1,U1-G0141,seconde ligne d'un groupe de doublons
+ROW-008031,U1,U1-G0142,seconde ligne d'un groupe de doublons
+ROW-046140,U1,U1-G0142,première ligne d'un groupe de doublons
+ROW-041434,U1,U1-G0143,première ligne d'un groupe de doublons
+ROW-043047,U1,U1-G0143,seconde ligne d'un groupe de doublons
+ROW-007029,U1,U1-G0144,seconde ligne d'un groupe de doublons
+ROW-023728,U1,U1-G0144,première ligne d'un groupe de doublons
+ROW-002063,U1,U1-G0145,seconde ligne d'un groupe de doublons
+ROW-027154,U1,U1-G0145,première ligne d'un groupe de doublons
+ROW-030521,U1,U1-G0146,seconde ligne d'un groupe de doublons
+ROW-044315,U1,U1-G0146,première ligne d'un groupe de doublons
+ROW-004446,U1,U1-G0147,première ligne d'un groupe de doublons
+ROW-049255,U1,U1-G0147,seconde ligne d'un groupe de doublons
+ROW-007841,U1,U1-G0148,seconde ligne d'un groupe de doublons
+ROW-025941,U1,U1-G0148,première ligne d'un groupe de doublons
+ROW-003719,U1,U1-G0149,seconde ligne d'un groupe de doublons
+ROW-007294,U1,U1-G0149,première ligne d'un groupe de doublons
+ROW-012538,U1,U1-G0150,seconde ligne d'un groupe de doublons
+ROW-048886,U1,U1-G0150,première ligne d'un groupe de doublons
+ROW-014382,U1,U1-G0151,seconde ligne d'un groupe de doublons
+ROW-021177,U1,U1-G0151,première ligne d'un groupe de doublons
+ROW-016990,U1,U1-G0152,première ligne d'un groupe de doublons
+ROW-017949,U1,U1-G0152,seconde ligne d'un groupe de doublons
+ROW-023186,U1,U1-G0153,seconde ligne d'un groupe de doublons
+ROW-044421,U1,U1-G0153,première ligne d'un groupe de doublons
+ROW-004813,U1,U1-G0154,seconde ligne d'un groupe de doublons
+ROW-005579,U1,U1-G0154,première ligne d'un groupe de doublons
+ROW-007214,U1,U1-G0155,seconde ligne d'un groupe de doublons
+ROW-044668,U1,U1-G0155,première ligne d'un groupe de doublons
+ROW-039326,U1,U1-G0156,première ligne d'un groupe de doublons
+ROW-049805,U1,U1-G0156,seconde ligne d'un groupe de doublons
+ROW-017865,U1,U1-G0157,seconde ligne d'un groupe de doublons
+ROW-045697,U1,U1-G0157,première ligne d'un groupe de doublons
+ROW-002147,U1,U1-G0158,première ligne d'un groupe de doublons
+ROW-026388,U1,U1-G0158,seconde ligne d'un groupe de doublons
+ROW-004556,U1,U1-G0159,première ligne d'un groupe de doublons
+ROW-022438,U1,U1-G0159,seconde ligne d'un groupe de doublons
+ROW-039363,U1,U1-G0160,première ligne d'un groupe de doublons
+ROW-040818,U1,U1-G0160,seconde ligne d'un groupe de doublons
+ROW-018036,U1,U1-G0161,seconde ligne d'un groupe de doublons
+ROW-043260,U1,U1-G0161,première ligne d'un groupe de doublons
+ROW-003780,U1,U1-G0162,seconde ligne d'un groupe de doublons
+ROW-015157,U1,U1-G0162,première ligne d'un groupe de doublons
+ROW-017586,U1,U1-G0163,seconde ligne d'un groupe de doublons
+ROW-036787,U1,U1-G0163,première ligne d'un groupe de doublons
+ROW-015793,U1,U1-G0164,seconde ligne d'un groupe de doublons
+ROW-041979,U1,U1-G0164,première ligne d'un groupe de doublons
+ROW-011966,U1,U1-G0165,première ligne d'un groupe de doublons
+ROW-040146,U1,U1-G0165,seconde ligne d'un groupe de doublons
+ROW-022294,U1,U1-G0166,première ligne d'un groupe de doublons
+ROW-029389,U1,U1-G0166,seconde ligne d'un groupe de doublons
+ROW-033010,U1,U1-G0167,première ligne d'un groupe de doublons
+ROW-046130,U1,U1-G0167,seconde ligne d'un groupe de doublons
+ROW-012903,U1,U1-G0168,première ligne d'un groupe de doublons
+ROW-037752,U1,U1-G0168,seconde ligne d'un groupe de doublons
+ROW-036188,U1,U1-G0169,seconde ligne d'un groupe de doublons
+ROW-046863,U1,U1-G0169,première ligne d'un groupe de doublons
+ROW-007074,U1,U1-G0170,seconde ligne d'un groupe de doublons
+ROW-039705,U1,U1-G0170,première ligne d'un groupe de doublons
+ROW-004378,U1,U1-G0171,première ligne d'un groupe de doublons
+ROW-039944,U1,U1-G0171,seconde ligne d'un groupe de doublons
+ROW-017144,U1,U1-G0172,seconde ligne d'un groupe de doublons
+ROW-043093,U1,U1-G0172,première ligne d'un groupe de doublons
+ROW-000947,U1,U1-G0173,seconde ligne d'un groupe de doublons
+ROW-022978,U1,U1-G0173,première ligne d'un groupe de doublons
+ROW-024166,U1,U1-G0174,seconde ligne d'un groupe de doublons
+ROW-025715,U1,U1-G0174,première ligne d'un groupe de doublons
+ROW-040192,U1,U1-G0175,seconde ligne d'un groupe de doublons
+ROW-046159,U1,U1-G0175,première ligne d'un groupe de doublons
+ROW-034929,U1,U1-G0176,première ligne d'un groupe de doublons
+ROW-036193,U1,U1-G0176,seconde ligne d'un groupe de doublons
+ROW-003777,U1,U1-G0177,première ligne d'un groupe de doublons
+ROW-027700,U1,U1-G0177,seconde ligne d'un groupe de doublons
+ROW-021469,U1,U1-G0178,première ligne d'un groupe de doublons
+ROW-038447,U1,U1-G0178,seconde ligne d'un groupe de doublons
+ROW-015844,U1,U1-G0179,seconde ligne d'un groupe de doublons
+ROW-016082,U1,U1-G0179,première ligne d'un groupe de doublons
+ROW-015470,U1,U1-G0180,première ligne d'un groupe de doublons
+ROW-024721,U1,U1-G0180,seconde ligne d'un groupe de doublons
+ROW-017715,U1,U1-G0181,seconde ligne d'un groupe de doublons
+ROW-047342,U1,U1-G0181,première ligne d'un groupe de doublons
+ROW-000854,U1,U1-G0182,première ligne d'un groupe de doublons
+ROW-047344,U1,U1-G0182,seconde ligne d'un groupe de doublons
+ROW-005764,U1,U1-G0183,première ligne d'un groupe de doublons
+ROW-037916,U1,U1-G0183,seconde ligne d'un groupe de doublons
+ROW-012715,U1,U1-G0184,première ligne d'un groupe de doublons
+ROW-049470,U1,U1-G0184,seconde ligne d'un groupe de doublons
+ROW-011014,U1,U1-G0185,première ligne d'un groupe de doublons
+ROW-029947,U1,U1-G0185,seconde ligne d'un groupe de doublons
+ROW-025415,U1,U1-G0186,première ligne d'un groupe de doublons
+ROW-037876,U1,U1-G0186,seconde ligne d'un groupe de doublons
+ROW-005323,U1,U1-G0187,seconde ligne d'un groupe de doublons
+ROW-010928,U1,U1-G0187,première ligne d'un groupe de doublons
+ROW-035228,U1,U1-G0188,première ligne d'un groupe de doublons
+ROW-046748,U1,U1-G0188,seconde ligne d'un groupe de doublons
+ROW-021265,U1,U1-G0189,seconde ligne d'un groupe de doublons
+ROW-028391,U1,U1-G0189,première ligne d'un groupe de doublons
+ROW-015623,U1,U1-G0190,seconde ligne d'un groupe de doublons
+ROW-046103,U1,U1-G0190,première ligne d'un groupe de doublons
+ROW-002857,U1,U1-G0191,première ligne d'un groupe de doublons
+ROW-018694,U1,U1-G0191,seconde ligne d'un groupe de doublons
+ROW-005547,U1,U1-G0192,première ligne d'un groupe de doublons
+ROW-009620,U1,U1-G0192,seconde ligne d'un groupe de doublons
+ROW-036695,U1,U1-G0193,seconde ligne d'un groupe de doublons
+ROW-048862,U1,U1-G0193,première ligne d'un groupe de doublons
+ROW-004415,U1,U1-G0194,première ligne d'un groupe de doublons
+ROW-007780,U1,U1-G0194,seconde ligne d'un groupe de doublons
+ROW-033782,U1,U1-G0195,seconde ligne d'un groupe de doublons
+ROW-049288,U1,U1-G0195,première ligne d'un groupe de doublons
+ROW-011170,U1,U1-G0196,première ligne d'un groupe de doublons
+ROW-023711,U1,U1-G0196,seconde ligne d'un groupe de doublons
+ROW-024803,U1,U1-G0197,seconde ligne d'un groupe de doublons
+ROW-039775,U1,U1-G0197,première ligne d'un groupe de doublons
+ROW-036117,U1,U1-G0198,seconde ligne d'un groupe de doublons
+ROW-037526,U1,U1-G0198,première ligne d'un groupe de doublons
+ROW-016726,U1,U1-G0199,seconde ligne d'un groupe de doublons
+ROW-017775,U1,U1-G0199,première ligne d'un groupe de doublons
+ROW-002940,U1,U1-G0200,seconde ligne d'un groupe de doublons
+ROW-012890,U1,U1-G0200,première ligne d'un groupe de doublons
+ROW-000364,U2,U2-G0001,seconde ligne d'un groupe de doublons
+ROW-016776,U2,U2-G0001,première ligne d'un groupe de doublons
+ROW-015984,U2,U2-G0002,première ligne d'un groupe de doublons
+ROW-043188,U2,U2-G0002,seconde ligne d'un groupe de doublons
+ROW-020982,U2,U2-G0003,seconde ligne d'un groupe de doublons
+ROW-031384,U2,U2-G0003,première ligne d'un groupe de doublons
+ROW-012536,U2,U2-G0004,première ligne d'un groupe de doublons
+ROW-032238,U2,U2-G0004,seconde ligne d'un groupe de doublons
+ROW-022973,U2,U2-G0005,seconde ligne d'un groupe de doublons
+ROW-023116,U2,U2-G0005,première ligne d'un groupe de doublons
+ROW-001464,U2,U2-G0006,première ligne d'un groupe de doublons
+ROW-018255,U2,U2-G0006,seconde ligne d'un groupe de doublons
+ROW-033830,U2,U2-G0007,seconde ligne d'un groupe de doublons
+ROW-042826,U2,U2-G0007,première ligne d'un groupe de doublons
+ROW-019185,U2,U2-G0008,première ligne d'un groupe de doublons
+ROW-042672,U2,U2-G0008,seconde ligne d'un groupe de doublons
+ROW-023611,U2,U2-G0009,seconde ligne d'un groupe de doublons
+ROW-025145,U2,U2-G0009,première ligne d'un groupe de doublons
+ROW-011240,U2,U2-G0010,seconde ligne d'un groupe de doublons
+ROW-049308,U2,U2-G0010,première ligne d'un groupe de doublons
+ROW-006950,U2,U2-G0011,première ligne d'un groupe de doublons
+ROW-017965,U2,U2-G0011,seconde ligne d'un groupe de doublons
+ROW-013887,U2,U2-G0012,première ligne d'un groupe de doublons
+ROW-033188,U2,U2-G0012,seconde ligne d'un groupe de doublons
+ROW-006392,U2,U2-G0013,première ligne d'un groupe de doublons
+ROW-014534,U2,U2-G0013,seconde ligne d'un groupe de doublons
+ROW-011360,U2,U2-G0014,seconde ligne d'un groupe de doublons
+ROW-043599,U2,U2-G0014,première ligne d'un groupe de doublons
+ROW-004992,U2,U2-G0015,seconde ligne d'un groupe de doublons
+ROW-018938,U2,U2-G0015,première ligne d'un groupe de doublons
+ROW-040963,U2,U2-G0016,première ligne d'un groupe de doublons
+ROW-041987,U2,U2-G0016,seconde ligne d'un groupe de doublons
+ROW-002368,U2,U2-G0017,première ligne d'un groupe de doublons
+ROW-027094,U2,U2-G0017,seconde ligne d'un groupe de doublons
+ROW-005859,U2,U2-G0018,seconde ligne d'un groupe de doublons
+ROW-037649,U2,U2-G0018,première ligne d'un groupe de doublons
+ROW-007252,U2,U2-G0019,première ligne d'un groupe de doublons
+ROW-012827,U2,U2-G0019,seconde ligne d'un groupe de doublons
+ROW-031808,U2,U2-G0020,première ligne d'un groupe de doublons
+ROW-032289,U2,U2-G0020,seconde ligne d'un groupe de doublons
+ROW-012123,U2,U2-G0021,première ligne d'un groupe de doublons
+ROW-023187,U2,U2-G0021,seconde ligne d'un groupe de doublons
+ROW-030208,U2,U2-G0022,première ligne d'un groupe de doublons
+ROW-040029,U2,U2-G0022,seconde ligne d'un groupe de doublons
+ROW-015484,U2,U2-G0023,seconde ligne d'un groupe de doublons
+ROW-031542,U2,U2-G0023,première ligne d'un groupe de doublons
+ROW-002527,U2,U2-G0024,première ligne d'un groupe de doublons
+ROW-024558,U2,U2-G0024,seconde ligne d'un groupe de doublons
+ROW-005971,U2,U2-G0025,première ligne d'un groupe de doublons
+ROW-034077,U2,U2-G0025,seconde ligne d'un groupe de doublons
+ROW-017474,U2,U2-G0026,première ligne d'un groupe de doublons
+ROW-030505,U2,U2-G0026,seconde ligne d'un groupe de doublons
+ROW-006304,U2,U2-G0027,première ligne d'un groupe de doublons
+ROW-034983,U2,U2-G0027,seconde ligne d'un groupe de doublons
+ROW-019276,U2,U2-G0028,seconde ligne d'un groupe de doublons
+ROW-033453,U2,U2-G0028,première ligne d'un groupe de doublons
+ROW-023262,U2,U2-G0029,seconde ligne d'un groupe de doublons
+ROW-046685,U2,U2-G0029,première ligne d'un groupe de doublons
+ROW-000620,U2,U2-G0030,seconde ligne d'un groupe de doublons
+ROW-049634,U2,U2-G0030,première ligne d'un groupe de doublons
+ROW-028731,U2,U2-G0031,première ligne d'un groupe de doublons
+ROW-046790,U2,U2-G0031,seconde ligne d'un groupe de doublons
+ROW-027669,U2,U2-G0032,seconde ligne d'un groupe de doublons
+ROW-035125,U2,U2-G0032,première ligne d'un groupe de doublons
+ROW-002043,U2,U2-G0033,seconde ligne d'un groupe de doublons
+ROW-013797,U2,U2-G0033,première ligne d'un groupe de doublons
+ROW-036159,U2,U2-G0034,première ligne d'un groupe de doublons
+ROW-038651,U2,U2-G0034,seconde ligne d'un groupe de doublons
+ROW-018376,U2,U2-G0035,première ligne d'un groupe de doublons
+ROW-037253,U2,U2-G0035,seconde ligne d'un groupe de doublons
+ROW-000786,U2,U2-G0036,seconde ligne d'un groupe de doublons
+ROW-014340,U2,U2-G0036,première ligne d'un groupe de doublons
+ROW-028323,U2,U2-G0037,première ligne d'un groupe de doublons
+ROW-040189,U2,U2-G0037,seconde ligne d'un groupe de doublons
+ROW-020753,U2,U2-G0038,première ligne d'un groupe de doublons
+ROW-021085,U2,U2-G0038,seconde ligne d'un groupe de doublons
+ROW-007686,U2,U2-G0039,première ligne d'un groupe de doublons
+ROW-038782,U2,U2-G0039,seconde ligne d'un groupe de doublons
+ROW-021347,U2,U2-G0040,première ligne d'un groupe de doublons
+ROW-045405,U2,U2-G0040,seconde ligne d'un groupe de doublons
+ROW-022942,U2,U2-G0041,première ligne d'un groupe de doublons
+ROW-027313,U2,U2-G0041,seconde ligne d'un groupe de doublons
+ROW-014805,U2,U2-G0042,seconde ligne d'un groupe de doublons
+ROW-018590,U2,U2-G0042,première ligne d'un groupe de doublons
+ROW-023107,U2,U2-G0043,seconde ligne d'un groupe de doublons
+ROW-038511,U2,U2-G0043,première ligne d'un groupe de doublons
+ROW-004896,U2,U2-G0044,première ligne d'un groupe de doublons
+ROW-024870,U2,U2-G0044,seconde ligne d'un groupe de doublons
+ROW-038617,U2,U2-G0045,première ligne d'un groupe de doublons
+ROW-041031,U2,U2-G0045,seconde ligne d'un groupe de doublons
+ROW-009749,U2,U2-G0046,seconde ligne d'un groupe de doublons
+ROW-027855,U2,U2-G0046,première ligne d'un groupe de doublons
+ROW-007033,U2,U2-G0047,première ligne d'un groupe de doublons
+ROW-047697,U2,U2-G0047,seconde ligne d'un groupe de doublons
+ROW-005897,U2,U2-G0048,seconde ligne d'un groupe de doublons
+ROW-019524,U2,U2-G0048,première ligne d'un groupe de doublons
+ROW-008968,U2,U2-G0049,seconde ligne d'un groupe de doublons
+ROW-019351,U2,U2-G0049,première ligne d'un groupe de doublons
+ROW-005569,U2,U2-G0050,première ligne d'un groupe de doublons
+ROW-042039,U2,U2-G0050,seconde ligne d'un groupe de doublons
+ROW-023778,U2,U2-G0051,première ligne d'un groupe de doublons
+ROW-043946,U2,U2-G0051,seconde ligne d'un groupe de doublons
+ROW-005335,U2,U2-G0052,seconde ligne d'un groupe de doublons
+ROW-009414,U2,U2-G0052,première ligne d'un groupe de doublons
+ROW-020709,U2,U2-G0053,seconde ligne d'un groupe de doublons
+ROW-024189,U2,U2-G0053,première ligne d'un groupe de doublons
+ROW-012631,U2,U2-G0054,première ligne d'un groupe de doublons
+ROW-040374,U2,U2-G0054,seconde ligne d'un groupe de doublons
+ROW-021045,U2,U2-G0055,première ligne d'un groupe de doublons
+ROW-029799,U2,U2-G0055,seconde ligne d'un groupe de doublons
+ROW-043018,U2,U2-G0056,première ligne d'un groupe de doublons
+ROW-048864,U2,U2-G0056,seconde ligne d'un groupe de doublons
+ROW-005654,U2,U2-G0057,première ligne d'un groupe de doublons
+ROW-033261,U2,U2-G0057,seconde ligne d'un groupe de doublons
+ROW-016727,U2,U2-G0058,seconde ligne d'un groupe de doublons
+ROW-049947,U2,U2-G0058,première ligne d'un groupe de doublons
+ROW-044978,U2,U2-G0059,seconde ligne d'un groupe de doublons
+ROW-046598,U2,U2-G0059,première ligne d'un groupe de doublons
+ROW-014796,U2,U2-G0060,première ligne d'un groupe de doublons
+ROW-040941,U2,U2-G0060,seconde ligne d'un groupe de doublons
+ROW-019301,U2,U2-G0061,première ligne d'un groupe de doublons
+ROW-020285,U2,U2-G0061,seconde ligne d'un groupe de doublons
+ROW-040153,U2,U2-G0062,première ligne d'un groupe de doublons
+ROW-046935,U2,U2-G0062,seconde ligne d'un groupe de doublons
+ROW-009365,U2,U2-G0063,première ligne d'un groupe de doublons
+ROW-037937,U2,U2-G0063,seconde ligne d'un groupe de doublons
+ROW-013568,U2,U2-G0064,seconde ligne d'un groupe de doublons
+ROW-021993,U2,U2-G0064,première ligne d'un groupe de doublons
+ROW-032198,U2,U2-G0065,seconde ligne d'un groupe de doublons
+ROW-045019,U2,U2-G0065,première ligne d'un groupe de doublons
+ROW-011916,U2,U2-G0066,première ligne d'un groupe de doublons
+ROW-043181,U2,U2-G0066,seconde ligne d'un groupe de doublons
+ROW-009435,U2,U2-G0067,première ligne d'un groupe de doublons
+ROW-041620,U2,U2-G0067,seconde ligne d'un groupe de doublons
+ROW-004359,U2,U2-G0068,seconde ligne d'un groupe de doublons
+ROW-029556,U2,U2-G0068,première ligne d'un groupe de doublons
+ROW-024319,U2,U2-G0069,première ligne d'un groupe de doublons
+ROW-041025,U2,U2-G0069,seconde ligne d'un groupe de doublons
+ROW-013294,U2,U2-G0070,seconde ligne d'un groupe de doublons
+ROW-038007,U2,U2-G0070,première ligne d'un groupe de doublons
+ROW-011807,U2,U2-G0071,première ligne d'un groupe de doublons
+ROW-014679,U2,U2-G0071,seconde ligne d'un groupe de doublons
+ROW-006366,U2,U2-G0072,première ligne d'un groupe de doublons
+ROW-018142,U2,U2-G0072,seconde ligne d'un groupe de doublons
+ROW-008846,U2,U2-G0073,première ligne d'un groupe de doublons
+ROW-011732,U2,U2-G0073,seconde ligne d'un groupe de doublons
+ROW-005081,U2,U2-G0074,première ligne d'un groupe de doublons
+ROW-043370,U2,U2-G0074,seconde ligne d'un groupe de doublons
+ROW-014741,U2,U2-G0075,seconde ligne d'un groupe de doublons
+ROW-017444,U2,U2-G0075,première ligne d'un groupe de doublons
+ROW-032443,U2,U2-G0076,seconde ligne d'un groupe de doublons
+ROW-041148,U2,U2-G0076,première ligne d'un groupe de doublons
+ROW-011646,U2,U2-G0077,seconde ligne d'un groupe de doublons
+ROW-034381,U2,U2-G0077,première ligne d'un groupe de doublons
+ROW-005737,U2,U2-G0078,seconde ligne d'un groupe de doublons
+ROW-026931,U2,U2-G0078,première ligne d'un groupe de doublons
+ROW-011281,U2,U2-G0079,seconde ligne d'un groupe de doublons
+ROW-043208,U2,U2-G0079,première ligne d'un groupe de doublons
+ROW-000984,U2,U2-G0080,seconde ligne d'un groupe de doublons
+ROW-001912,U2,U2-G0080,première ligne d'un groupe de doublons
+ROW-012475,U2,U2-G0081,première ligne d'un groupe de doublons
+ROW-036309,U2,U2-G0081,seconde ligne d'un groupe de doublons
+ROW-009014,U2,U2-G0082,seconde ligne d'un groupe de doublons
+ROW-015717,U2,U2-G0082,première ligne d'un groupe de doublons
+ROW-010345,U2,U2-G0083,seconde ligne d'un groupe de doublons
+ROW-025948,U2,U2-G0083,première ligne d'un groupe de doublons
+ROW-005935,U2,U2-G0084,première ligne d'un groupe de doublons
+ROW-049020,U2,U2-G0084,seconde ligne d'un groupe de doublons
+ROW-019587,U2,U2-G0085,première ligne d'un groupe de doublons
+ROW-025983,U2,U2-G0085,seconde ligne d'un groupe de doublons
+ROW-018640,U2,U2-G0086,première ligne d'un groupe de doublons
+ROW-046959,U2,U2-G0086,seconde ligne d'un groupe de doublons
+ROW-011427,U2,U2-G0087,première ligne d'un groupe de doublons
+ROW-027741,U2,U2-G0087,seconde ligne d'un groupe de doublons
+ROW-033918,U2,U2-G0088,seconde ligne d'un groupe de doublons
+ROW-035282,U2,U2-G0088,première ligne d'un groupe de doublons
+ROW-017180,U2,U2-G0089,seconde ligne d'un groupe de doublons
+ROW-040182,U2,U2-G0089,première ligne d'un groupe de doublons
+ROW-024292,U2,U2-G0090,seconde ligne d'un groupe de doublons
+ROW-024668,U2,U2-G0090,première ligne d'un groupe de doublons
+ROW-032272,U2,U2-G0091,seconde ligne d'un groupe de doublons
+ROW-042437,U2,U2-G0091,première ligne d'un groupe de doublons
+ROW-029332,U2,U2-G0092,première ligne d'un groupe de doublons
+ROW-043545,U2,U2-G0092,seconde ligne d'un groupe de doublons
+ROW-002657,U2,U2-G0093,première ligne d'un groupe de doublons
+ROW-031358,U2,U2-G0093,seconde ligne d'un groupe de doublons
+ROW-010354,U2,U2-G0094,première ligne d'un groupe de doublons
+ROW-040172,U2,U2-G0094,seconde ligne d'un groupe de doublons
+ROW-008720,U2,U2-G0095,première ligne d'un groupe de doublons
+ROW-045419,U2,U2-G0095,seconde ligne d'un groupe de doublons
+ROW-006667,U2,U2-G0096,seconde ligne d'un groupe de doublons
+ROW-016744,U2,U2-G0096,première ligne d'un groupe de doublons
+ROW-011656,U2,U2-G0097,première ligne d'un groupe de doublons
+ROW-035196,U2,U2-G0097,seconde ligne d'un groupe de doublons
+ROW-045629,U2,U2-G0098,première ligne d'un groupe de doublons
+ROW-045780,U2,U2-G0098,seconde ligne d'un groupe de doublons
+ROW-000196,U2,U2-G0099,seconde ligne d'un groupe de doublons
+ROW-001479,U2,U2-G0099,première ligne d'un groupe de doublons
+ROW-038089,U2,U2-G0100,première ligne d'un groupe de doublons
+ROW-049217,U2,U2-G0100,seconde ligne d'un groupe de doublons
+ROW-004949,U2,U2-G0101,première ligne d'un groupe de doublons
+ROW-009092,U2,U2-G0101,seconde ligne d'un groupe de doublons
+ROW-021254,U2,U2-G0102,première ligne d'un groupe de doublons
+ROW-024275,U2,U2-G0102,seconde ligne d'un groupe de doublons
+ROW-012313,U2,U2-G0103,première ligne d'un groupe de doublons
+ROW-047925,U2,U2-G0103,seconde ligne d'un groupe de doublons
+ROW-005927,U2,U2-G0104,seconde ligne d'un groupe de doublons
+ROW-010949,U2,U2-G0104,première ligne d'un groupe de doublons
+ROW-033509,U2,U2-G0105,seconde ligne d'un groupe de doublons
+ROW-036917,U2,U2-G0105,première ligne d'un groupe de doublons
+ROW-005499,U2,U2-G0106,seconde ligne d'un groupe de doublons
+ROW-025132,U2,U2-G0106,première ligne d'un groupe de doublons
+ROW-011055,U2,U2-G0107,seconde ligne d'un groupe de doublons
+ROW-011633,U2,U2-G0107,première ligne d'un groupe de doublons
+ROW-023096,U2,U2-G0108,première ligne d'un groupe de doublons
+ROW-032179,U2,U2-G0108,seconde ligne d'un groupe de doublons
+ROW-017768,U2,U2-G0109,première ligne d'un groupe de doublons
+ROW-047268,U2,U2-G0109,seconde ligne d'un groupe de doublons
+ROW-030353,U2,U2-G0110,seconde ligne d'un groupe de doublons
+ROW-033022,U2,U2-G0110,première ligne d'un groupe de doublons
+ROW-020651,U2,U2-G0111,première ligne d'un groupe de doublons
+ROW-046787,U2,U2-G0111,seconde ligne d'un groupe de doublons
+ROW-021132,U2,U2-G0112,seconde ligne d'un groupe de doublons
+ROW-025303,U2,U2-G0112,première ligne d'un groupe de doublons
+ROW-006552,U2,U2-G0113,première ligne d'un groupe de doublons
+ROW-023349,U2,U2-G0113,seconde ligne d'un groupe de doublons
+ROW-006900,U2,U2-G0114,première ligne d'un groupe de doublons
+ROW-010991,U2,U2-G0114,seconde ligne d'un groupe de doublons
+ROW-020499,U2,U2-G0115,seconde ligne d'un groupe de doublons
+ROW-036343,U2,U2-G0115,première ligne d'un groupe de doublons
+ROW-015790,U2,U2-G0116,première ligne d'un groupe de doublons
+ROW-028999,U2,U2-G0116,seconde ligne d'un groupe de doublons
+ROW-007966,U2,U2-G0117,première ligne d'un groupe de doublons
+ROW-033892,U2,U2-G0117,seconde ligne d'un groupe de doublons
+ROW-010939,U2,U2-G0118,première ligne d'un groupe de doublons
+ROW-020248,U2,U2-G0118,seconde ligne d'un groupe de doublons
+ROW-003349,U2,U2-G0119,première ligne d'un groupe de doublons
+ROW-024274,U2,U2-G0119,seconde ligne d'un groupe de doublons
+ROW-020250,U2,U2-G0120,seconde ligne d'un groupe de doublons
+ROW-036965,U2,U2-G0120,première ligne d'un groupe de doublons
+ROW-002676,U2,U2-G0121,seconde ligne d'un groupe de doublons
+ROW-025105,U2,U2-G0121,première ligne d'un groupe de doublons
+ROW-036153,U2,U2-G0122,seconde ligne d'un groupe de doublons
+ROW-047111,U2,U2-G0122,première ligne d'un groupe de doublons
+ROW-018163,U2,U2-G0123,seconde ligne d'un groupe de doublons
+ROW-047407,U2,U2-G0123,première ligne d'un groupe de doublons
+ROW-005959,U2,U2-G0124,seconde ligne d'un groupe de doublons
+ROW-046274,U2,U2-G0124,première ligne d'un groupe de doublons
+ROW-018377,U2,U2-G0125,première ligne d'un groupe de doublons
+ROW-043884,U2,U2-G0125,seconde ligne d'un groupe de doublons
+ROW-019065,U2,U2-G0126,première ligne d'un groupe de doublons
+ROW-044065,U2,U2-G0126,seconde ligne d'un groupe de doublons
+ROW-027371,U2,U2-G0127,seconde ligne d'un groupe de doublons
+ROW-045149,U2,U2-G0127,première ligne d'un groupe de doublons
+ROW-016905,U2,U2-G0128,première ligne d'un groupe de doublons
+ROW-042502,U2,U2-G0128,seconde ligne d'un groupe de doublons
+ROW-042452,U2,U2-G0129,première ligne d'un groupe de doublons
+ROW-048143,U2,U2-G0129,seconde ligne d'un groupe de doublons
+ROW-013593,U2,U2-G0130,seconde ligne d'un groupe de doublons
+ROW-045296,U2,U2-G0130,première ligne d'un groupe de doublons
+ROW-007014,U2,U2-G0131,première ligne d'un groupe de doublons
+ROW-017893,U2,U2-G0131,seconde ligne d'un groupe de doublons
+ROW-024244,U2,U2-G0132,première ligne d'un groupe de doublons
+ROW-035482,U2,U2-G0132,seconde ligne d'un groupe de doublons
+ROW-005575,U2,U2-G0133,seconde ligne d'un groupe de doublons
+ROW-037722,U2,U2-G0133,première ligne d'un groupe de doublons
+ROW-014906,U2,U2-G0134,première ligne d'un groupe de doublons
+ROW-029141,U2,U2-G0134,seconde ligne d'un groupe de doublons
+ROW-014277,U2,U2-G0135,seconde ligne d'un groupe de doublons
+ROW-030104,U2,U2-G0135,première ligne d'un groupe de doublons
+ROW-004477,U2,U2-G0136,première ligne d'un groupe de doublons
+ROW-045047,U2,U2-G0136,seconde ligne d'un groupe de doublons
+ROW-009734,U2,U2-G0137,première ligne d'un groupe de doublons
+ROW-047513,U2,U2-G0137,seconde ligne d'un groupe de doublons
+ROW-003937,U2,U2-G0138,première ligne d'un groupe de doublons
+ROW-009840,U2,U2-G0138,seconde ligne d'un groupe de doublons
+ROW-003867,U2,U2-G0139,première ligne d'un groupe de doublons
+ROW-034079,U2,U2-G0139,seconde ligne d'un groupe de doublons
+ROW-032783,U2,U2-G0140,seconde ligne d'un groupe de doublons
+ROW-033160,U2,U2-G0140,première ligne d'un groupe de doublons
+ROW-027867,U2,U2-G0141,première ligne d'un groupe de doublons
+ROW-046150,U2,U2-G0141,seconde ligne d'un groupe de doublons
+ROW-008240,U2,U2-G0142,seconde ligne d'un groupe de doublons
+ROW-048523,U2,U2-G0142,première ligne d'un groupe de doublons
+ROW-002644,U2,U2-G0143,première ligne d'un groupe de doublons
+ROW-037776,U2,U2-G0143,seconde ligne d'un groupe de doublons
+ROW-018248,U2,U2-G0144,seconde ligne d'un groupe de doublons
+ROW-033426,U2,U2-G0144,première ligne d'un groupe de doublons
+ROW-002678,U2,U2-G0145,première ligne d'un groupe de doublons
+ROW-003463,U2,U2-G0145,seconde ligne d'un groupe de doublons
+ROW-016925,U2,U2-G0146,seconde ligne d'un groupe de doublons
+ROW-029634,U2,U2-G0146,première ligne d'un groupe de doublons
+ROW-018306,U2,U2-G0147,première ligne d'un groupe de doublons
+ROW-018528,U2,U2-G0147,seconde ligne d'un groupe de doublons
+ROW-010910,U2,U2-G0148,seconde ligne d'un groupe de doublons
+ROW-048316,U2,U2-G0148,première ligne d'un groupe de doublons
+ROW-027522,U2,U2-G0149,seconde ligne d'un groupe de doublons
+ROW-035966,U2,U2-G0149,première ligne d'un groupe de doublons
+ROW-005762,U2,U2-G0150,seconde ligne d'un groupe de doublons
+ROW-010084,U2,U2-G0150,première ligne d'un groupe de doublons
+ROW-006207,U2,U2-G0151,seconde ligne d'un groupe de doublons
+ROW-020960,U2,U2-G0151,première ligne d'un groupe de doublons
+ROW-005753,U2,U2-G0152,seconde ligne d'un groupe de doublons
+ROW-017457,U2,U2-G0152,première ligne d'un groupe de doublons
+ROW-011789,U2,U2-G0153,première ligne d'un groupe de doublons
+ROW-016847,U2,U2-G0153,seconde ligne d'un groupe de doublons
+ROW-015922,U2,U2-G0154,première ligne d'un groupe de doublons
+ROW-027433,U2,U2-G0154,seconde ligne d'un groupe de doublons
+ROW-016915,U2,U2-G0155,seconde ligne d'un groupe de doublons
+ROW-040617,U2,U2-G0155,première ligne d'un groupe de doublons
+ROW-000385,U2,U2-G0156,seconde ligne d'un groupe de doublons
+ROW-016675,U2,U2-G0156,première ligne d'un groupe de doublons
+ROW-026997,U2,U2-G0157,première ligne d'un groupe de doublons
+ROW-032165,U2,U2-G0157,seconde ligne d'un groupe de doublons
+ROW-003273,U2,U2-G0158,première ligne d'un groupe de doublons
+ROW-025721,U2,U2-G0158,seconde ligne d'un groupe de doublons
+ROW-012056,U2,U2-G0159,seconde ligne d'un groupe de doublons
+ROW-024232,U2,U2-G0159,première ligne d'un groupe de doublons
+ROW-019469,U2,U2-G0160,seconde ligne d'un groupe de doublons
+ROW-033442,U2,U2-G0160,première ligne d'un groupe de doublons
+ROW-002816,U2,U2-G0161,première ligne d'un groupe de doublons
+ROW-013310,U2,U2-G0161,seconde ligne d'un groupe de doublons
+ROW-001332,U2,U2-G0162,première ligne d'un groupe de doublons
+ROW-026999,U2,U2-G0162,seconde ligne d'un groupe de doublons
+ROW-028108,U2,U2-G0163,seconde ligne d'un groupe de doublons
+ROW-030149,U2,U2-G0163,première ligne d'un groupe de doublons
+ROW-004824,U2,U2-G0164,seconde ligne d'un groupe de doublons
+ROW-045910,U2,U2-G0164,première ligne d'un groupe de doublons
+ROW-028061,U2,U2-G0165,première ligne d'un groupe de doublons
+ROW-044738,U2,U2-G0165,seconde ligne d'un groupe de doublons
+ROW-021144,U2,U2-G0166,première ligne d'un groupe de doublons
+ROW-034128,U2,U2-G0166,seconde ligne d'un groupe de doublons
+ROW-032065,U2,U2-G0167,seconde ligne d'un groupe de doublons
+ROW-037347,U2,U2-G0167,première ligne d'un groupe de doublons
+ROW-018926,U2,U2-G0168,première ligne d'un groupe de doublons
+ROW-034075,U2,U2-G0168,seconde ligne d'un groupe de doublons
+ROW-037214,U2,U2-G0169,seconde ligne d'un groupe de doublons
+ROW-045613,U2,U2-G0169,première ligne d'un groupe de doublons
+ROW-001343,U2,U2-G0170,première ligne d'un groupe de doublons
+ROW-025785,U2,U2-G0170,seconde ligne d'un groupe de doublons
+ROW-005384,U2,U2-G0171,seconde ligne d'un groupe de doublons
+ROW-022719,U2,U2-G0171,première ligne d'un groupe de doublons
+ROW-021753,U2,U2-G0172,première ligne d'un groupe de doublons
+ROW-047009,U2,U2-G0172,seconde ligne d'un groupe de doublons
+ROW-002152,U2,U2-G0173,seconde ligne d'un groupe de doublons
+ROW-026221,U2,U2-G0173,première ligne d'un groupe de doublons
+ROW-001611,U2,U2-G0174,seconde ligne d'un groupe de doublons
+ROW-048671,U2,U2-G0174,première ligne d'un groupe de doublons
+ROW-032486,U2,U2-G0175,seconde ligne d'un groupe de doublons
+ROW-048930,U2,U2-G0175,première ligne d'un groupe de doublons
+ROW-007477,U2,U2-G0176,première ligne d'un groupe de doublons
+ROW-024043,U2,U2-G0176,seconde ligne d'un groupe de doublons
+ROW-000803,U2,U2-G0177,première ligne d'un groupe de doublons
+ROW-011421,U2,U2-G0177,seconde ligne d'un groupe de doublons
+ROW-012689,U2,U2-G0178,première ligne d'un groupe de doublons
+ROW-049607,U2,U2-G0178,seconde ligne d'un groupe de doublons
+ROW-003276,U2,U2-G0179,seconde ligne d'un groupe de doublons
+ROW-047921,U2,U2-G0179,première ligne d'un groupe de doublons
+ROW-004421,U2,U2-G0180,seconde ligne d'un groupe de doublons
+ROW-030886,U2,U2-G0180,première ligne d'un groupe de doublons
+ROW-002952,U2,U2-G0181,première ligne d'un groupe de doublons
+ROW-014803,U2,U2-G0181,seconde ligne d'un groupe de doublons
+ROW-037804,U2,U2-G0182,seconde ligne d'un groupe de doublons
+ROW-048975,U2,U2-G0182,première ligne d'un groupe de doublons
+ROW-006686,U2,U2-G0183,seconde ligne d'un groupe de doublons
+ROW-029674,U2,U2-G0183,première ligne d'un groupe de doublons
+ROW-013802,U2,U2-G0184,première ligne d'un groupe de doublons
+ROW-045295,U2,U2-G0184,seconde ligne d'un groupe de doublons
+ROW-015928,U2,U2-G0185,seconde ligne d'un groupe de doublons
+ROW-031438,U2,U2-G0185,première ligne d'un groupe de doublons
+ROW-031029,U2,U2-G0186,seconde ligne d'un groupe de doublons
+ROW-039575,U2,U2-G0186,première ligne d'un groupe de doublons
+ROW-008183,U2,U2-G0187,première ligne d'un groupe de doublons
+ROW-030147,U2,U2-G0187,seconde ligne d'un groupe de doublons
+ROW-031231,U2,U2-G0188,première ligne d'un groupe de doublons
+ROW-036783,U2,U2-G0188,seconde ligne d'un groupe de doublons
+ROW-046481,U2,U2-G0189,première ligne d'un groupe de doublons
+ROW-047732,U2,U2-G0189,seconde ligne d'un groupe de doublons
+ROW-018252,U2,U2-G0190,première ligne d'un groupe de doublons
+ROW-040046,U2,U2-G0190,seconde ligne d'un groupe de doublons
+ROW-030559,U2,U2-G0191,première ligne d'un groupe de doublons
+ROW-034325,U2,U2-G0191,seconde ligne d'un groupe de doublons
+ROW-041210,U2,U2-G0192,seconde ligne d'un groupe de doublons
+ROW-048185,U2,U2-G0192,première ligne d'un groupe de doublons
+ROW-019765,U2,U2-G0193,première ligne d'un groupe de doublons
+ROW-040006,U2,U2-G0193,seconde ligne d'un groupe de doublons
+ROW-036839,U2,U2-G0194,première ligne d'un groupe de doublons
+ROW-043210,U2,U2-G0194,seconde ligne d'un groupe de doublons
+ROW-031910,U2,U2-G0195,première ligne d'un groupe de doublons
+ROW-049476,U2,U2-G0195,seconde ligne d'un groupe de doublons
+ROW-007066,U2,U2-G0196,seconde ligne d'un groupe de doublons
+ROW-010134,U2,U2-G0196,première ligne d'un groupe de doublons
+ROW-000345,U2,U2-G0197,première ligne d'un groupe de doublons
+ROW-028342,U2,U2-G0197,seconde ligne d'un groupe de doublons
+ROW-024986,U2,U2-G0198,première ligne d'un groupe de doublons
+ROW-033254,U2,U2-G0198,seconde ligne d'un groupe de doublons
+ROW-012094,U2,U2-G0199,première ligne d'un groupe de doublons
+ROW-037374,U2,U2-G0199,seconde ligne d'un groupe de doublons
+ROW-027463,U2,U2-G0200,seconde ligne d'un groupe de doublons
+ROW-028992,U2,U2-G0200,première ligne d'un groupe de doublons
+ROW-046922,V1,V1-0001,quantité nulle
+ROW-022666,V1,V1-0002,quantité nulle
+ROW-045689,V1,V1-0003,quantité nulle
+ROW-005606,V1,V1-0004,quantité nulle
+ROW-023686,V1,V1-0005,quantité nulle
+ROW-031705,V1,V1-0006,quantité nulle
+ROW-039096,V1,V1-0007,quantité nulle
+ROW-037546,V1,V1-0008,quantité nulle
+ROW-012595,V1,V1-0009,quantité nulle
+ROW-017648,V1,V1-0010,quantité nulle
+ROW-002721,V1,V1-0011,quantité nulle
+ROW-025232,V1,V1-0012,quantité nulle
+ROW-046587,V1,V1-0013,quantité nulle
+ROW-038321,V1,V1-0014,quantité nulle
+ROW-042007,V1,V1-0015,quantité nulle
+ROW-030760,V1,V1-0016,quantité nulle
+ROW-039769,V1,V1-0017,quantité nulle
+ROW-019681,V1,V1-0018,quantité nulle
+ROW-017829,V1,V1-0019,quantité nulle
+ROW-022728,V1,V1-0020,quantité nulle
+ROW-042607,V1,V1-0021,quantité nulle
+ROW-028801,V1,V1-0022,quantité nulle
+ROW-025323,V1,V1-0023,quantité nulle
+ROW-026507,V1,V1-0024,quantité nulle
+ROW-044442,V1,V1-0025,quantité nulle
+ROW-025260,V1,V1-0026,quantité nulle
+ROW-022659,V1,V1-0027,quantité nulle
+ROW-032708,V1,V1-0028,quantité nulle
+ROW-002976,V1,V1-0029,quantité nulle
+ROW-024835,V1,V1-0030,quantité nulle
+ROW-037105,V1,V1-0031,quantité nulle
+ROW-010250,V1,V1-0032,quantité nulle
+ROW-039432,V1,V1-0033,quantité nulle
+ROW-047988,V1,V1-0034,quantité nulle
+ROW-033876,V1,V1-0035,quantité nulle
+ROW-046483,V1,V1-0036,quantité nulle
+ROW-031140,V1,V1-0037,quantité nulle
+ROW-035658,V1,V1-0038,quantité nulle
+ROW-048518,V1,V1-0039,quantité nulle
+ROW-024402,V1,V1-0040,quantité nulle
+ROW-010288,V1,V1-0041,quantité nulle
+ROW-035003,V1,V1-0042,quantité nulle
+ROW-005699,V1,V1-0043,quantité nulle
+ROW-035614,V1,V1-0044,quantité nulle
+ROW-041725,V1,V1-0045,quantité nulle
+ROW-048213,V1,V1-0046,quantité nulle
+ROW-036122,V1,V1-0047,quantité nulle
+ROW-026074,V1,V1-0048,quantité nulle
+ROW-022650,V1,V1-0049,quantité nulle
+ROW-020338,V1,V1-0050,quantité nulle
+ROW-026194,V1,V1-0051,quantité nulle
+ROW-039798,V1,V1-0052,quantité nulle
+ROW-023630,V1,V1-0053,quantité nulle
+ROW-017005,V1,V1-0054,quantité nulle
+ROW-039520,V1,V1-0055,quantité nulle
+ROW-018010,V1,V1-0056,quantité nulle
+ROW-020328,V1,V1-0057,quantité nulle
+ROW-037948,V1,V1-0058,quantité nulle
+ROW-048734,V1,V1-0059,quantité nulle
+ROW-018087,V1,V1-0060,quantité nulle
+ROW-020816,V1,V1-0061,quantité nulle
+ROW-041288,V1,V1-0062,quantité nulle
+ROW-046433,V1,V1-0063,quantité nulle
+ROW-032925,V1,V1-0064,quantité nulle
+ROW-021778,V1,V1-0065,quantité nulle
+ROW-005986,V1,V1-0066,quantité nulle
+ROW-027184,V1,V1-0067,quantité nulle
+ROW-042654,V1,V1-0068,quantité nulle
+ROW-011428,V1,V1-0069,quantité nulle
+ROW-003891,V1,V1-0070,quantité nulle
+ROW-049167,V1,V1-0071,quantité nulle
+ROW-048429,V1,V1-0072,quantité nulle
+ROW-010700,V1,V1-0073,quantité nulle
+ROW-046135,V1,V1-0074,quantité nulle
+ROW-044965,V1,V1-0075,quantité nulle
+ROW-027497,V1,V1-0076,quantité nulle
+ROW-012294,V1,V1-0077,quantité nulle
+ROW-040622,V1,V1-0078,quantité nulle
+ROW-049771,V1,V1-0079,quantité nulle
+ROW-020148,V1,V1-0080,quantité nulle
+ROW-046583,V1,V1-0081,quantité nulle
+ROW-007322,V1,V1-0082,quantité nulle
+ROW-020180,V1,V1-0083,quantité nulle
+ROW-027831,V1,V1-0084,quantité nulle
+ROW-039725,V1,V1-0085,quantité nulle
+ROW-049650,V1,V1-0086,quantité nulle
+ROW-047682,V1,V1-0087,quantité nulle
+ROW-043389,V1,V1-0088,quantité nulle
+ROW-046664,V1,V1-0089,quantité nulle
+ROW-038959,V1,V1-0090,quantité nulle
+ROW-003595,V1,V1-0091,quantité nulle
+ROW-040544,V1,V1-0092,quantité nulle
+ROW-022424,V1,V1-0093,quantité nulle
+ROW-034319,V1,V1-0094,quantité nulle
+ROW-006559,V1,V1-0095,quantité nulle
+ROW-045422,V1,V1-0096,quantité nulle
+ROW-025832,V1,V1-0097,quantité nulle
+ROW-007875,V1,V1-0098,quantité nulle
+ROW-043298,V1,V1-0099,quantité nulle
+ROW-011148,V1,V1-0100,quantité nulle
+ROW-025621,V1,V1-0101,quantité non entière
+ROW-025130,V1,V1-0102,quantité non entière
+ROW-001266,V1,V1-0103,quantité non entière
+ROW-030249,V1,V1-0104,quantité non entière
+ROW-003831,V1,V1-0105,quantité non entière
+ROW-022841,V1,V1-0106,quantité non entière
+ROW-026472,V1,V1-0107,quantité non entière
+ROW-043647,V1,V1-0108,quantité non entière
+ROW-037219,V1,V1-0109,quantité non entière
+ROW-013556,V1,V1-0110,quantité non entière
+ROW-031217,V1,V1-0111,quantité non entière
+ROW-001263,V1,V1-0112,quantité non entière
+ROW-034826,V1,V1-0113,quantité non entière
+ROW-004358,V1,V1-0114,quantité non entière
+ROW-026551,V1,V1-0115,quantité non entière
+ROW-008737,V1,V1-0116,quantité non entière
+ROW-018102,V1,V1-0117,quantité non entière
+ROW-015510,V1,V1-0118,quantité non entière
+ROW-040862,V1,V1-0119,quantité non entière
+ROW-000223,V1,V1-0120,quantité non entière
+ROW-035793,V1,V1-0121,quantité non entière
+ROW-003338,V1,V1-0122,quantité non entière
+ROW-004958,V1,V1-0123,quantité non entière
+ROW-021337,V1,V1-0124,quantité non entière
+ROW-036972,V1,V1-0125,quantité non entière
+ROW-045058,V1,V1-0126,quantité non entière
+ROW-049922,V1,V1-0127,quantité non entière
+ROW-029446,V1,V1-0128,quantité non entière
+ROW-023456,V1,V1-0129,quantité non entière
+ROW-012244,V1,V1-0130,quantité non entière
+ROW-022748,V1,V1-0131,quantité non entière
+ROW-038096,V1,V1-0132,quantité non entière
+ROW-029253,V1,V1-0133,quantité non entière
+ROW-007112,V1,V1-0134,quantité non entière
+ROW-006887,V1,V1-0135,quantité non entière
+ROW-001223,V1,V1-0136,quantité non entière
+ROW-003590,V1,V1-0137,quantité non entière
+ROW-018977,V1,V1-0138,quantité non entière
+ROW-011338,V1,V1-0139,quantité non entière
+ROW-046956,V1,V1-0140,quantité non entière
+ROW-022486,V1,V1-0141,quantité non entière
+ROW-043180,V1,V1-0142,quantité non entière
+ROW-021063,V1,V1-0143,quantité non entière
+ROW-009390,V1,V1-0144,quantité non entière
+ROW-049259,V1,V1-0145,quantité non entière
+ROW-016255,V1,V1-0146,quantité non entière
+ROW-012213,V1,V1-0147,quantité non entière
+ROW-006351,V1,V1-0148,quantité non entière
+ROW-046084,V1,V1-0149,quantité non entière
+ROW-014594,V1,V1-0150,quantité non entière
+ROW-017915,V1,V1-0151,quantité non entière
+ROW-023872,V1,V1-0152,quantité non entière
+ROW-034292,V1,V1-0153,quantité non entière
+ROW-005254,V1,V1-0154,quantité non entière
+ROW-046528,V1,V1-0155,quantité non entière
+ROW-008636,V1,V1-0156,quantité non entière
+ROW-014718,V1,V1-0157,quantité non entière
+ROW-018029,V1,V1-0158,quantité non entière
+ROW-037068,V1,V1-0159,quantité non entière
+ROW-048888,V1,V1-0160,quantité non entière
+ROW-023227,V1,V1-0161,quantité non entière
+ROW-003963,V1,V1-0162,quantité non entière
+ROW-049639,V1,V1-0163,quantité non entière
+ROW-049877,V1,V1-0164,quantité non entière
+ROW-013977,V1,V1-0165,quantité non entière
+ROW-030098,V1,V1-0166,quantité non entière
+ROW-022211,V1,V1-0167,quantité non entière
+ROW-046372,V1,V1-0168,quantité non entière
+ROW-018187,V1,V1-0169,quantité non entière
+ROW-010621,V1,V1-0170,quantité non entière
+ROW-025291,V1,V1-0171,quantité non entière
+ROW-040204,V1,V1-0172,quantité non entière
+ROW-042854,V1,V1-0173,quantité non entière
+ROW-035870,V1,V1-0174,quantité non entière
+ROW-003207,V1,V1-0175,quantité non entière
+ROW-036264,V1,V1-0176,quantité non entière
+ROW-030778,V1,V1-0177,quantité non entière
+ROW-044164,V1,V1-0178,quantité non entière
+ROW-024313,V1,V1-0179,quantité non entière
+ROW-006328,V1,V1-0180,quantité non entière
+ROW-028129,V1,V1-0181,quantité non entière
+ROW-014642,V1,V1-0182,quantité non entière
+ROW-021611,V1,V1-0183,quantité non entière
+ROW-047928,V1,V1-0184,quantité non entière
+ROW-041887,V1,V1-0185,quantité non entière
+ROW-025059,V1,V1-0186,quantité non entière
+ROW-037982,V1,V1-0187,quantité non entière
+ROW-021909,V1,V1-0188,quantité non entière
+ROW-013991,V1,V1-0189,quantité non entière
+ROW-042219,V1,V1-0190,quantité non entière
+ROW-004298,V1,V1-0191,quantité non entière
+ROW-044631,V1,V1-0192,quantité non entière
+ROW-011223,V1,V1-0193,quantité non entière
+ROW-014768,V1,V1-0194,quantité non entière
+ROW-011989,V1,V1-0195,quantité non entière
+ROW-008120,V1,V1-0196,quantité non entière
+ROW-022245,V1,V1-0197,quantité non entière
+ROW-012998,V1,V1-0198,quantité non entière
+ROW-048683,V1,V1-0199,quantité non entière
+ROW-025124,V1,V1-0200,quantité non entière
+ROW-012943,V2,V2-0001,prix négatif
+ROW-009386,V2,V2-0002,prix négatif
+ROW-018777,V2,V2-0003,prix négatif
+ROW-026852,V2,V2-0004,prix négatif
+ROW-036364,V2,V2-0005,prix négatif
+ROW-029897,V2,V2-0006,prix négatif
+ROW-034085,V2,V2-0007,prix négatif
+ROW-022854,V2,V2-0008,prix négatif
+ROW-048965,V2,V2-0009,prix négatif
+ROW-025027,V2,V2-0010,prix négatif
+ROW-027712,V2,V2-0011,prix négatif
+ROW-019557,V2,V2-0012,prix négatif
+ROW-014928,V2,V2-0013,prix négatif
+ROW-017320,V2,V2-0014,prix négatif
+ROW-030166,V2,V2-0015,prix négatif
+ROW-029448,V2,V2-0016,prix négatif
+ROW-021020,V2,V2-0017,prix négatif
+ROW-019028,V2,V2-0018,prix négatif
+ROW-036866,V2,V2-0019,prix négatif
+ROW-019882,V2,V2-0020,prix négatif
+ROW-040152,V2,V2-0021,prix négatif
+ROW-017524,V2,V2-0022,prix négatif
+ROW-025600,V2,V2-0023,prix négatif
+ROW-002884,V2,V2-0024,prix négatif
+ROW-002392,V2,V2-0025,prix négatif
+ROW-017687,V2,V2-0026,prix négatif
+ROW-014524,V2,V2-0027,prix négatif
+ROW-048487,V2,V2-0028,prix négatif
+ROW-013500,V2,V2-0029,prix négatif
+ROW-020614,V2,V2-0030,prix négatif
+ROW-013234,V2,V2-0031,prix négatif
+ROW-022881,V2,V2-0032,prix négatif
+ROW-004499,V2,V2-0033,prix négatif
+ROW-013266,V2,V2-0034,prix négatif
+ROW-008793,V2,V2-0035,prix négatif
+ROW-020899,V2,V2-0036,prix négatif
+ROW-022329,V2,V2-0037,prix négatif
+ROW-008579,V2,V2-0038,prix négatif
+ROW-008220,V2,V2-0039,prix négatif
+ROW-026070,V2,V2-0040,prix négatif
+ROW-003511,V2,V2-0041,prix négatif
+ROW-040578,V2,V2-0042,prix négatif
+ROW-031905,V2,V2-0043,prix négatif
+ROW-002111,V2,V2-0044,prix négatif
+ROW-043486,V2,V2-0045,prix négatif
+ROW-005259,V2,V2-0046,prix négatif
+ROW-029784,V2,V2-0047,prix négatif
+ROW-002842,V2,V2-0048,prix négatif
+ROW-022012,V2,V2-0049,prix négatif
+ROW-033251,V2,V2-0050,prix négatif
+ROW-006300,V2,V2-0051,prix négatif
+ROW-014216,V2,V2-0052,prix négatif
+ROW-035128,V2,V2-0053,prix négatif
+ROW-007720,V2,V2-0054,prix négatif
+ROW-012044,V2,V2-0055,prix négatif
+ROW-030331,V2,V2-0056,prix négatif
+ROW-031498,V2,V2-0057,prix négatif
+ROW-002023,V2,V2-0058,prix négatif
+ROW-022014,V2,V2-0059,prix négatif
+ROW-042965,V2,V2-0060,prix négatif
+ROW-035803,V2,V2-0061,prix négatif
+ROW-010342,V2,V2-0062,prix négatif
+ROW-012643,V2,V2-0063,prix négatif
+ROW-020226,V2,V2-0064,prix négatif
+ROW-019936,V2,V2-0065,prix négatif
+ROW-034421,V2,V2-0066,prix négatif
+ROW-006602,V2,V2-0067,prix négatif
+ROW-024041,V2,V2-0068,prix négatif
+ROW-010083,V2,V2-0069,prix négatif
+ROW-021709,V2,V2-0070,prix négatif
+ROW-016490,V2,V2-0071,prix négatif
+ROW-047201,V2,V2-0072,prix négatif
+ROW-019072,V2,V2-0073,prix négatif
+ROW-007654,V2,V2-0074,prix négatif
+ROW-035275,V2,V2-0075,prix négatif
+ROW-006599,V2,V2-0076,prix négatif
+ROW-044278,V2,V2-0077,prix négatif
+ROW-003481,V2,V2-0078,prix négatif
+ROW-017058,V2,V2-0079,prix négatif
+ROW-014817,V2,V2-0080,prix négatif
+ROW-027825,V2,V2-0081,prix négatif
+ROW-005341,V2,V2-0082,prix négatif
+ROW-012709,V2,V2-0083,prix négatif
+ROW-011609,V2,V2-0084,prix négatif
+ROW-047219,V2,V2-0085,prix négatif
+ROW-048425,V2,V2-0086,prix négatif
+ROW-005917,V2,V2-0087,prix négatif
+ROW-024500,V2,V2-0088,prix négatif
+ROW-044400,V2,V2-0089,prix négatif
+ROW-023130,V2,V2-0090,prix négatif
+ROW-022717,V2,V2-0091,prix négatif
+ROW-003312,V2,V2-0092,prix négatif
+ROW-005931,V2,V2-0093,prix négatif
+ROW-024174,V2,V2-0094,prix négatif
+ROW-042824,V2,V2-0095,prix négatif
+ROW-045497,V2,V2-0096,prix négatif
+ROW-039573,V2,V2-0097,prix négatif
+ROW-006937,V2,V2-0098,prix négatif
+ROW-038658,V2,V2-0099,prix négatif
+ROW-031138,V2,V2-0100,prix négatif
+ROW-032465,V2,V2-0101,plus de deux décimales
+ROW-044017,V2,V2-0102,plus de deux décimales
+ROW-022582,V2,V2-0103,plus de deux décimales
+ROW-008644,V2,V2-0104,plus de deux décimales
+ROW-036373,V2,V2-0105,plus de deux décimales
+ROW-010451,V2,V2-0106,plus de deux décimales
+ROW-013788,V2,V2-0107,plus de deux décimales
+ROW-038967,V2,V2-0108,plus de deux décimales
+ROW-031580,V2,V2-0109,plus de deux décimales
+ROW-024102,V2,V2-0110,plus de deux décimales
+ROW-046256,V2,V2-0111,plus de deux décimales
+ROW-039512,V2,V2-0112,plus de deux décimales
+ROW-034458,V2,V2-0113,plus de deux décimales
+ROW-045804,V2,V2-0114,plus de deux décimales
+ROW-018927,V2,V2-0115,plus de deux décimales
+ROW-025362,V2,V2-0116,plus de deux décimales
+ROW-008137,V2,V2-0117,plus de deux décimales
+ROW-009481,V2,V2-0118,plus de deux décimales
+ROW-032755,V2,V2-0119,plus de deux décimales
+ROW-022123,V2,V2-0120,plus de deux décimales
+ROW-009561,V2,V2-0121,plus de deux décimales
+ROW-031563,V2,V2-0122,plus de deux décimales
+ROW-028159,V2,V2-0123,plus de deux décimales
+ROW-010454,V2,V2-0124,plus de deux décimales
+ROW-043796,V2,V2-0125,plus de deux décimales
+ROW-014776,V2,V2-0126,plus de deux décimales
+ROW-015722,V2,V2-0127,plus de deux décimales
+ROW-012185,V2,V2-0128,plus de deux décimales
+ROW-040400,V2,V2-0129,plus de deux décimales
+ROW-036080,V2,V2-0130,plus de deux décimales
+ROW-023937,V2,V2-0131,plus de deux décimales
+ROW-004082,V2,V2-0132,plus de deux décimales
+ROW-017462,V2,V2-0133,plus de deux décimales
+ROW-027078,V2,V2-0134,plus de deux décimales
+ROW-010210,V2,V2-0135,plus de deux décimales
+ROW-021055,V2,V2-0136,plus de deux décimales
+ROW-036079,V2,V2-0137,plus de deux décimales
+ROW-000439,V2,V2-0138,plus de deux décimales
+ROW-005614,V2,V2-0139,plus de deux décimales
+ROW-021420,V2,V2-0140,plus de deux décimales
+ROW-020812,V2,V2-0141,plus de deux décimales
+ROW-005242,V2,V2-0142,plus de deux décimales
+ROW-045206,V2,V2-0143,plus de deux décimales
+ROW-033130,V2,V2-0144,plus de deux décimales
+ROW-026794,V2,V2-0145,plus de deux décimales
+ROW-008991,V2,V2-0146,plus de deux décimales
+ROW-007068,V2,V2-0147,plus de deux décimales
+ROW-039138,V2,V2-0148,plus de deux décimales
+ROW-010140,V2,V2-0149,plus de deux décimales
+ROW-018191,V2,V2-0150,plus de deux décimales
+ROW-014749,V2,V2-0151,plus de deux décimales
+ROW-047530,V2,V2-0152,plus de deux décimales
+ROW-000122,V2,V2-0153,plus de deux décimales
+ROW-046279,V2,V2-0154,plus de deux décimales
+ROW-001156,V2,V2-0155,plus de deux décimales
+ROW-035205,V2,V2-0156,plus de deux décimales
+ROW-047034,V2,V2-0157,plus de deux décimales
+ROW-031761,V2,V2-0158,plus de deux décimales
+ROW-000006,V2,V2-0159,plus de deux décimales
+ROW-024804,V2,V2-0160,plus de deux décimales
+ROW-033662,V2,V2-0161,plus de deux décimales
+ROW-033648,V2,V2-0162,plus de deux décimales
+ROW-025128,V2,V2-0163,plus de deux décimales
+ROW-021763,V2,V2-0164,plus de deux décimales
+ROW-017267,V2,V2-0165,plus de deux décimales
+ROW-010299,V2,V2-0166,plus de deux décimales
+ROW-016073,V2,V2-0167,plus de deux décimales
+ROW-028562,V2,V2-0168,plus de deux décimales
+ROW-031469,V2,V2-0169,plus de deux décimales
+ROW-000714,V2,V2-0170,plus de deux décimales
+ROW-042688,V2,V2-0171,plus de deux décimales
+ROW-047883,V2,V2-0172,plus de deux décimales
+ROW-041495,V2,V2-0173,plus de deux décimales
+ROW-035199,V2,V2-0174,plus de deux décimales
+ROW-047961,V2,V2-0175,plus de deux décimales
+ROW-021432,V2,V2-0176,plus de deux décimales
+ROW-030858,V2,V2-0177,plus de deux décimales
+ROW-049080,V2,V2-0178,plus de deux décimales
+ROW-037114,V2,V2-0179,plus de deux décimales
+ROW-047882,V2,V2-0180,plus de deux décimales
+ROW-027027,V2,V2-0181,plus de deux décimales
+ROW-034797,V2,V2-0182,plus de deux décimales
+ROW-032878,V2,V2-0183,plus de deux décimales
+ROW-049510,V2,V2-0184,plus de deux décimales
+ROW-037915,V2,V2-0185,plus de deux décimales
+ROW-040286,V2,V2-0186,plus de deux décimales
+ROW-044679,V2,V2-0187,plus de deux décimales
+ROW-017131,V2,V2-0188,plus de deux décimales
+ROW-001414,V2,V2-0189,plus de deux décimales
+ROW-016033,V2,V2-0190,plus de deux décimales
+ROW-023559,V2,V2-0191,plus de deux décimales
+ROW-041447,V2,V2-0192,plus de deux décimales
+ROW-027536,V2,V2-0193,plus de deux décimales
+ROW-038757,V2,V2-0194,plus de deux décimales
+ROW-034808,V2,V2-0195,plus de deux décimales
+ROW-027016,V2,V2-0196,plus de deux décimales
+ROW-002950,V2,V2-0197,plus de deux décimales
+ROW-033464,V2,V2-0198,plus de deux décimales
+ROW-046406,V2,V2-0199,plus de deux décimales
+ROW-049839,V2,V2-0200,plus de deux décimales
+ROW-037191,V3,V3-0001,devise hors liste autorisée
+ROW-016282,V3,V3-0002,devise hors liste autorisée
+ROW-040027,V3,V3-0003,devise hors liste autorisée
+ROW-008759,V3,V3-0004,devise hors liste autorisée
+ROW-007895,V3,V3-0005,devise hors liste autorisée
+ROW-043516,V3,V3-0006,devise hors liste autorisée
+ROW-042011,V3,V3-0007,devise hors liste autorisée
+ROW-014931,V3,V3-0008,devise hors liste autorisée
+ROW-045266,V3,V3-0009,devise hors liste autorisée
+ROW-003475,V3,V3-0010,devise hors liste autorisée
+ROW-037545,V3,V3-0011,devise hors liste autorisée
+ROW-035825,V3,V3-0012,devise hors liste autorisée
+ROW-006606,V3,V3-0013,devise hors liste autorisée
+ROW-005302,V3,V3-0014,devise hors liste autorisée
+ROW-044332,V3,V3-0015,devise hors liste autorisée
+ROW-020208,V3,V3-0016,devise hors liste autorisée
+ROW-015247,V3,V3-0017,devise hors liste autorisée
+ROW-040925,V3,V3-0018,devise hors liste autorisée
+ROW-012340,V3,V3-0019,devise hors liste autorisée
+ROW-018082,V3,V3-0020,devise hors liste autorisée
+ROW-031861,V3,V3-0021,devise hors liste autorisée
+ROW-020534,V3,V3-0022,devise hors liste autorisée
+ROW-047759,V3,V3-0023,devise hors liste autorisée
+ROW-012311,V3,V3-0024,devise hors liste autorisée
+ROW-033995,V3,V3-0025,devise hors liste autorisée
+ROW-003530,V3,V3-0026,devise hors liste autorisée
+ROW-026809,V3,V3-0027,devise hors liste autorisée
+ROW-034760,V3,V3-0028,devise hors liste autorisée
+ROW-014912,V3,V3-0029,devise hors liste autorisée
+ROW-012390,V3,V3-0030,devise hors liste autorisée
+ROW-025169,V3,V3-0031,devise hors liste autorisée
+ROW-027733,V3,V3-0032,devise hors liste autorisée
+ROW-031212,V3,V3-0033,devise hors liste autorisée
+ROW-018190,V3,V3-0034,devise hors liste autorisée
+ROW-043143,V3,V3-0035,devise hors liste autorisée
+ROW-043794,V3,V3-0036,devise hors liste autorisée
+ROW-018266,V3,V3-0037,devise hors liste autorisée
+ROW-018626,V3,V3-0038,devise hors liste autorisée
+ROW-008447,V3,V3-0039,devise hors liste autorisée
+ROW-029888,V3,V3-0040,devise hors liste autorisée
+ROW-014892,V3,V3-0041,devise hors liste autorisée
+ROW-024954,V3,V3-0042,devise hors liste autorisée
+ROW-028257,V3,V3-0043,devise hors liste autorisée
+ROW-042568,V3,V3-0044,devise hors liste autorisée
+ROW-031028,V3,V3-0045,devise hors liste autorisée
+ROW-000631,V3,V3-0046,devise hors liste autorisée
+ROW-027443,V3,V3-0047,devise hors liste autorisée
+ROW-039288,V3,V3-0048,devise hors liste autorisée
+ROW-023849,V3,V3-0049,devise hors liste autorisée
+ROW-015589,V3,V3-0050,devise hors liste autorisée
+ROW-043710,V3,V3-0051,devise hors liste autorisée
+ROW-015660,V3,V3-0052,devise hors liste autorisée
+ROW-022098,V3,V3-0053,devise hors liste autorisée
+ROW-033542,V3,V3-0054,devise hors liste autorisée
+ROW-029877,V3,V3-0055,devise hors liste autorisée
+ROW-021847,V3,V3-0056,devise hors liste autorisée
+ROW-007151,V3,V3-0057,devise hors liste autorisée
+ROW-019139,V3,V3-0058,devise hors liste autorisée
+ROW-018003,V3,V3-0059,devise hors liste autorisée
+ROW-036058,V3,V3-0060,devise hors liste autorisée
+ROW-013006,V3,V3-0061,devise hors liste autorisée
+ROW-018596,V3,V3-0062,devise hors liste autorisée
+ROW-036044,V3,V3-0063,devise hors liste autorisée
+ROW-026681,V3,V3-0064,devise hors liste autorisée
+ROW-027709,V3,V3-0065,devise hors liste autorisée
+ROW-044411,V3,V3-0066,devise hors liste autorisée
+ROW-003333,V3,V3-0067,devise hors liste autorisée
+ROW-029839,V3,V3-0068,devise hors liste autorisée
+ROW-003967,V3,V3-0069,devise hors liste autorisée
+ROW-027177,V3,V3-0070,devise hors liste autorisée
+ROW-049238,V3,V3-0071,devise hors liste autorisée
+ROW-035550,V3,V3-0072,devise hors liste autorisée
+ROW-015182,V3,V3-0073,devise hors liste autorisée
+ROW-032795,V3,V3-0074,devise hors liste autorisée
+ROW-042703,V3,V3-0075,devise hors liste autorisée
+ROW-015709,V3,V3-0076,devise hors liste autorisée
+ROW-023430,V3,V3-0077,devise hors liste autorisée
+ROW-044321,V3,V3-0078,devise hors liste autorisée
+ROW-021528,V3,V3-0079,devise hors liste autorisée
+ROW-016532,V3,V3-0080,devise hors liste autorisée
+ROW-007756,V3,V3-0081,devise hors liste autorisée
+ROW-047498,V3,V3-0082,devise hors liste autorisée
+ROW-008816,V3,V3-0083,devise hors liste autorisée
+ROW-011140,V3,V3-0084,devise hors liste autorisée
+ROW-037717,V3,V3-0085,devise hors liste autorisée
+ROW-037013,V3,V3-0086,devise hors liste autorisée
+ROW-006325,V3,V3-0087,devise hors liste autorisée
+ROW-020509,V3,V3-0088,devise hors liste autorisée
+ROW-009916,V3,V3-0089,devise hors liste autorisée
+ROW-047592,V3,V3-0090,devise hors liste autorisée
+ROW-041216,V3,V3-0091,devise hors liste autorisée
+ROW-049580,V3,V3-0092,devise hors liste autorisée
+ROW-022852,V3,V3-0093,devise hors liste autorisée
+ROW-022743,V3,V3-0094,devise hors liste autorisée
+ROW-049205,V3,V3-0095,devise hors liste autorisée
+ROW-042552,V3,V3-0096,devise hors liste autorisée
+ROW-040620,V3,V3-0097,devise hors liste autorisée
+ROW-022905,V3,V3-0098,devise hors liste autorisée
+ROW-049521,V3,V3-0099,devise hors liste autorisée
+ROW-001422,V3,V3-0100,devise hors liste autorisée
+ROW-042243,V3,V3-0101,devise hors liste autorisée
+ROW-010005,V3,V3-0102,devise hors liste autorisée
+ROW-012647,V3,V3-0103,devise hors liste autorisée
+ROW-023059,V3,V3-0104,devise hors liste autorisée
+ROW-002964,V3,V3-0105,devise hors liste autorisée
+ROW-016249,V3,V3-0106,devise hors liste autorisée
+ROW-008612,V3,V3-0107,devise hors liste autorisée
+ROW-020548,V3,V3-0108,devise hors liste autorisée
+ROW-009962,V3,V3-0109,devise hors liste autorisée
+ROW-020265,V3,V3-0110,devise hors liste autorisée
+ROW-007376,V3,V3-0111,devise hors liste autorisée
+ROW-035427,V3,V3-0112,devise hors liste autorisée
+ROW-047805,V3,V3-0113,devise hors liste autorisée
+ROW-008722,V3,V3-0114,devise hors liste autorisée
+ROW-018966,V3,V3-0115,devise hors liste autorisée
+ROW-043146,V3,V3-0116,devise hors liste autorisée
+ROW-018066,V3,V3-0117,devise hors liste autorisée
+ROW-013052,V3,V3-0118,devise hors liste autorisée
+ROW-021292,V3,V3-0119,devise hors liste autorisée
+ROW-037272,V3,V3-0120,devise hors liste autorisée
+ROW-010866,V3,V3-0121,devise hors liste autorisée
+ROW-042689,V3,V3-0122,devise hors liste autorisée
+ROW-042864,V3,V3-0123,devise hors liste autorisée
+ROW-034719,V3,V3-0124,devise hors liste autorisée
+ROW-048454,V3,V3-0125,devise hors liste autorisée
+ROW-021035,V3,V3-0126,devise hors liste autorisée
+ROW-019480,V3,V3-0127,devise hors liste autorisée
+ROW-014127,V3,V3-0128,devise hors liste autorisée
+ROW-040805,V3,V3-0129,devise hors liste autorisée
+ROW-030868,V3,V3-0130,devise hors liste autorisée
+ROW-017945,V3,V3-0131,devise hors liste autorisée
+ROW-031492,V3,V3-0132,devise hors liste autorisée
+ROW-043720,V3,V3-0133,devise hors liste autorisée
+ROW-034191,V3,V3-0134,devise hors liste autorisée
+ROW-031113,V3,V3-0135,devise hors liste autorisée
+ROW-019045,V3,V3-0136,devise hors liste autorisée
+ROW-036056,V3,V3-0137,devise hors liste autorisée
+ROW-008604,V3,V3-0138,devise hors liste autorisée
+ROW-002986,V3,V3-0139,devise hors liste autorisée
+ROW-036873,V3,V3-0140,devise hors liste autorisée
+ROW-003668,V3,V3-0141,devise hors liste autorisée
+ROW-028885,V3,V3-0142,devise hors liste autorisée
+ROW-013326,V3,V3-0143,devise hors liste autorisée
+ROW-005674,V3,V3-0144,devise hors liste autorisée
+ROW-004335,V3,V3-0145,devise hors liste autorisée
+ROW-024539,V3,V3-0146,devise hors liste autorisée
+ROW-007534,V3,V3-0147,devise hors liste autorisée
+ROW-039301,V3,V3-0148,devise hors liste autorisée
+ROW-011235,V3,V3-0149,devise hors liste autorisée
+ROW-019354,V3,V3-0150,devise hors liste autorisée
+ROW-005222,V3,V3-0151,devise hors liste autorisée
+ROW-027042,V3,V3-0152,devise hors liste autorisée
+ROW-047165,V3,V3-0153,devise hors liste autorisée
+ROW-003786,V3,V3-0154,devise hors liste autorisée
+ROW-011032,V3,V3-0155,devise hors liste autorisée
+ROW-008781,V3,V3-0156,devise hors liste autorisée
+ROW-040463,V3,V3-0157,devise hors liste autorisée
+ROW-009580,V3,V3-0158,devise hors liste autorisée
+ROW-036774,V3,V3-0159,devise hors liste autorisée
+ROW-030317,V3,V3-0160,devise hors liste autorisée
+ROW-044356,V3,V3-0161,devise hors liste autorisée
+ROW-010704,V3,V3-0162,devise hors liste autorisée
+ROW-034099,V3,V3-0163,devise hors liste autorisée
+ROW-000481,V3,V3-0164,devise hors liste autorisée
+ROW-005293,V3,V3-0165,devise hors liste autorisée
+ROW-001305,V3,V3-0166,devise hors liste autorisée
+ROW-034725,V3,V3-0167,devise hors liste autorisée
+ROW-000113,V3,V3-0168,devise hors liste autorisée
+ROW-045824,V3,V3-0169,devise hors liste autorisée
+ROW-017800,V3,V3-0170,devise hors liste autorisée
+ROW-031448,V3,V3-0171,devise hors liste autorisée
+ROW-025017,V3,V3-0172,devise hors liste autorisée
+ROW-042651,V3,V3-0173,devise hors liste autorisée
+ROW-033511,V3,V3-0174,devise hors liste autorisée
+ROW-007442,V3,V3-0175,devise hors liste autorisée
+ROW-024779,V3,V3-0176,devise hors liste autorisée
+ROW-017613,V3,V3-0177,devise hors liste autorisée
+ROW-025050,V3,V3-0178,devise hors liste autorisée
+ROW-005054,V3,V3-0179,devise hors liste autorisée
+ROW-005241,V3,V3-0180,devise hors liste autorisée
+ROW-026869,V3,V3-0181,devise hors liste autorisée
+ROW-025954,V3,V3-0182,devise hors liste autorisée
+ROW-044362,V3,V3-0183,devise hors liste autorisée
+ROW-023306,V3,V3-0184,devise hors liste autorisée
+ROW-007315,V3,V3-0185,devise hors liste autorisée
+ROW-033074,V3,V3-0186,devise hors liste autorisée
+ROW-013431,V3,V3-0187,devise hors liste autorisée
+ROW-023177,V3,V3-0188,devise hors liste autorisée
+ROW-005182,V3,V3-0189,devise hors liste autorisée
+ROW-001678,V3,V3-0190,devise hors liste autorisée
+ROW-011589,V3,V3-0191,devise hors liste autorisée
+ROW-022434,V3,V3-0192,devise hors liste autorisée
+ROW-028964,V3,V3-0193,devise hors liste autorisée
+ROW-002576,V3,V3-0194,devise hors liste autorisée
+ROW-009655,V3,V3-0195,devise hors liste autorisée
+ROW-036622,V3,V3-0196,devise hors liste autorisée
+ROW-016851,V3,V3-0197,devise hors liste autorisée
+ROW-016576,V3,V3-0198,devise hors liste autorisée
+ROW-018776,V3,V3-0199,devise hors liste autorisée
+ROW-029259,V3,V3-0200,devise hors liste autorisée
+ROW-019515,V4,V4-0001,statut hors liste autorisée
+ROW-017311,V4,V4-0002,statut hors liste autorisée
+ROW-016807,V4,V4-0003,statut hors liste autorisée
+ROW-042661,V4,V4-0004,statut hors liste autorisée
+ROW-024280,V4,V4-0005,statut hors liste autorisée
+ROW-035458,V4,V4-0006,statut hors liste autorisée
+ROW-015668,V4,V4-0007,statut hors liste autorisée
+ROW-018374,V4,V4-0008,statut hors liste autorisée
+ROW-028273,V4,V4-0009,statut hors liste autorisée
+ROW-031329,V4,V4-0010,statut hors liste autorisée
+ROW-017458,V4,V4-0011,statut hors liste autorisée
+ROW-020275,V4,V4-0012,statut hors liste autorisée
+ROW-043749,V4,V4-0013,statut hors liste autorisée
+ROW-002384,V4,V4-0014,statut hors liste autorisée
+ROW-018280,V4,V4-0015,statut hors liste autorisée
+ROW-043730,V4,V4-0016,statut hors liste autorisée
+ROW-043268,V4,V4-0017,statut hors liste autorisée
+ROW-029209,V4,V4-0018,statut hors liste autorisée
+ROW-045688,V4,V4-0019,statut hors liste autorisée
+ROW-041635,V4,V4-0020,statut hors liste autorisée
+ROW-009842,V4,V4-0021,statut hors liste autorisée
+ROW-039116,V4,V4-0022,statut hors liste autorisée
+ROW-046371,V4,V4-0023,statut hors liste autorisée
+ROW-003705,V4,V4-0024,statut hors liste autorisée
+ROW-030717,V4,V4-0025,statut hors liste autorisée
+ROW-023614,V4,V4-0026,statut hors liste autorisée
+ROW-021270,V4,V4-0027,statut hors liste autorisée
+ROW-021317,V4,V4-0028,statut hors liste autorisée
+ROW-046112,V4,V4-0029,statut hors liste autorisée
+ROW-003289,V4,V4-0030,statut hors liste autorisée
+ROW-005987,V4,V4-0031,statut hors liste autorisée
+ROW-030313,V4,V4-0032,statut hors liste autorisée
+ROW-002493,V4,V4-0033,statut hors liste autorisée
+ROW-040314,V4,V4-0034,statut hors liste autorisée
+ROW-008238,V4,V4-0035,statut hors liste autorisée
+ROW-000513,V4,V4-0036,statut hors liste autorisée
+ROW-036713,V4,V4-0037,statut hors liste autorisée
+ROW-018538,V4,V4-0038,statut hors liste autorisée
+ROW-018339,V4,V4-0039,statut hors liste autorisée
+ROW-038941,V4,V4-0040,statut hors liste autorisée
+ROW-008465,V4,V4-0041,statut hors liste autorisée
+ROW-035817,V4,V4-0042,statut hors liste autorisée
+ROW-043894,V4,V4-0043,statut hors liste autorisée
+ROW-002802,V4,V4-0044,statut hors liste autorisée
+ROW-012624,V4,V4-0045,statut hors liste autorisée
+ROW-010452,V4,V4-0046,statut hors liste autorisée
+ROW-024575,V4,V4-0047,statut hors liste autorisée
+ROW-032684,V4,V4-0048,statut hors liste autorisée
+ROW-043752,V4,V4-0049,statut hors liste autorisée
+ROW-001745,V4,V4-0050,statut hors liste autorisée
+ROW-032511,V4,V4-0051,statut hors liste autorisée
+ROW-025491,V4,V4-0052,statut hors liste autorisée
+ROW-049197,V4,V4-0053,statut hors liste autorisée
+ROW-024194,V4,V4-0054,statut hors liste autorisée
+ROW-008567,V4,V4-0055,statut hors liste autorisée
+ROW-038297,V4,V4-0056,statut hors liste autorisée
+ROW-040584,V4,V4-0057,statut hors liste autorisée
+ROW-000039,V4,V4-0058,statut hors liste autorisée
+ROW-019911,V4,V4-0059,statut hors liste autorisée
+ROW-013743,V4,V4-0060,statut hors liste autorisée
+ROW-036303,V4,V4-0061,statut hors liste autorisée
+ROW-017142,V4,V4-0062,statut hors liste autorisée
+ROW-047078,V4,V4-0063,statut hors liste autorisée
+ROW-017907,V4,V4-0064,statut hors liste autorisée
+ROW-049411,V4,V4-0065,statut hors liste autorisée
+ROW-024047,V4,V4-0066,statut hors liste autorisée
+ROW-036389,V4,V4-0067,statut hors liste autorisée
+ROW-049091,V4,V4-0068,statut hors liste autorisée
+ROW-014581,V4,V4-0069,statut hors liste autorisée
+ROW-009682,V4,V4-0070,statut hors liste autorisée
+ROW-005831,V4,V4-0071,statut hors liste autorisée
+ROW-005599,V4,V4-0072,statut hors liste autorisée
+ROW-004557,V4,V4-0073,statut hors liste autorisée
+ROW-008063,V4,V4-0074,statut hors liste autorisée
+ROW-034531,V4,V4-0075,statut hors liste autorisée
+ROW-025877,V4,V4-0076,statut hors liste autorisée
+ROW-003686,V4,V4-0077,statut hors liste autorisée
+ROW-033809,V4,V4-0078,statut hors liste autorisée
+ROW-028183,V4,V4-0079,statut hors liste autorisée
+ROW-036736,V4,V4-0080,statut hors liste autorisée
+ROW-048932,V4,V4-0081,statut hors liste autorisée
+ROW-034148,V4,V4-0082,statut hors liste autorisée
+ROW-047764,V4,V4-0083,statut hors liste autorisée
+ROW-047952,V4,V4-0084,statut hors liste autorisée
+ROW-049529,V4,V4-0085,statut hors liste autorisée
+ROW-012272,V4,V4-0086,statut hors liste autorisée
+ROW-036954,V4,V4-0087,statut hors liste autorisée
+ROW-048648,V4,V4-0088,statut hors liste autorisée
+ROW-037817,V4,V4-0089,statut hors liste autorisée
+ROW-046926,V4,V4-0090,statut hors liste autorisée
+ROW-000248,V4,V4-0091,statut hors liste autorisée
+ROW-008621,V4,V4-0092,statut hors liste autorisée
+ROW-012541,V4,V4-0093,statut hors liste autorisée
+ROW-046449,V4,V4-0094,statut hors liste autorisée
+ROW-038621,V4,V4-0095,statut hors liste autorisée
+ROW-005046,V4,V4-0096,statut hors liste autorisée
+ROW-000010,V4,V4-0097,statut hors liste autorisée
+ROW-030136,V4,V4-0098,statut hors liste autorisée
+ROW-029920,V4,V4-0099,statut hors liste autorisée
+ROW-035142,V4,V4-0100,statut hors liste autorisée
+ROW-012375,V4,V4-0101,statut hors liste autorisée
+ROW-021012,V4,V4-0102,statut hors liste autorisée
+ROW-019683,V4,V4-0103,statut hors liste autorisée
+ROW-044780,V4,V4-0104,statut hors liste autorisée
+ROW-024941,V4,V4-0105,statut hors liste autorisée
+ROW-044953,V4,V4-0106,statut hors liste autorisée
+ROW-042239,V4,V4-0107,statut hors liste autorisée
+ROW-018674,V4,V4-0108,statut hors liste autorisée
+ROW-037966,V4,V4-0109,statut hors liste autorisée
+ROW-021209,V4,V4-0110,statut hors liste autorisée
+ROW-043820,V4,V4-0111,statut hors liste autorisée
+ROW-027017,V4,V4-0112,statut hors liste autorisée
+ROW-013190,V4,V4-0113,statut hors liste autorisée
+ROW-040680,V4,V4-0114,statut hors liste autorisée
+ROW-031818,V4,V4-0115,statut hors liste autorisée
+ROW-017276,V4,V4-0116,statut hors liste autorisée
+ROW-033956,V4,V4-0117,statut hors liste autorisée
+ROW-023543,V4,V4-0118,statut hors liste autorisée
+ROW-014341,V4,V4-0119,statut hors liste autorisée
+ROW-029733,V4,V4-0120,statut hors liste autorisée
+ROW-000320,V4,V4-0121,statut hors liste autorisée
+ROW-020355,V4,V4-0122,statut hors liste autorisée
+ROW-029101,V4,V4-0123,statut hors liste autorisée
+ROW-031765,V4,V4-0124,statut hors liste autorisée
+ROW-017269,V4,V4-0125,statut hors liste autorisée
+ROW-011970,V4,V4-0126,statut hors liste autorisée
+ROW-011585,V4,V4-0127,statut hors liste autorisée
+ROW-013724,V4,V4-0128,statut hors liste autorisée
+ROW-041388,V4,V4-0129,statut hors liste autorisée
+ROW-046928,V4,V4-0130,statut hors liste autorisée
+ROW-040203,V4,V4-0131,statut hors liste autorisée
+ROW-002636,V4,V4-0132,statut hors liste autorisée
+ROW-005178,V4,V4-0133,statut hors liste autorisée
+ROW-024706,V4,V4-0134,statut hors liste autorisée
+ROW-021359,V4,V4-0135,statut hors liste autorisée
+ROW-027025,V4,V4-0136,statut hors liste autorisée
+ROW-039872,V4,V4-0137,statut hors liste autorisée
+ROW-046620,V4,V4-0138,statut hors liste autorisée
+ROW-034480,V4,V4-0139,statut hors liste autorisée
+ROW-001149,V4,V4-0140,statut hors liste autorisée
+ROW-042371,V4,V4-0141,statut hors liste autorisée
+ROW-008943,V4,V4-0142,statut hors liste autorisée
+ROW-013062,V4,V4-0143,statut hors liste autorisée
+ROW-020065,V4,V4-0144,statut hors liste autorisée
+ROW-023286,V4,V4-0145,statut hors liste autorisée
+ROW-008100,V4,V4-0146,statut hors liste autorisée
+ROW-004667,V4,V4-0147,statut hors liste autorisée
+ROW-004365,V4,V4-0148,statut hors liste autorisée
+ROW-030712,V4,V4-0149,statut hors liste autorisée
+ROW-018904,V4,V4-0150,statut hors liste autorisée
+ROW-040848,V4,V4-0151,statut hors liste autorisée
+ROW-043704,V4,V4-0152,statut hors liste autorisée
+ROW-008269,V4,V4-0153,statut hors liste autorisée
+ROW-020863,V4,V4-0154,statut hors liste autorisée
+ROW-039703,V4,V4-0155,statut hors liste autorisée
+ROW-032550,V4,V4-0156,statut hors liste autorisée
+ROW-029092,V4,V4-0157,statut hors liste autorisée
+ROW-017469,V4,V4-0158,statut hors liste autorisée
+ROW-013958,V4,V4-0159,statut hors liste autorisée
+ROW-005022,V4,V4-0160,statut hors liste autorisée
+ROW-025141,V4,V4-0161,statut hors liste autorisée
+ROW-003939,V4,V4-0162,statut hors liste autorisée
+ROW-011454,V4,V4-0163,statut hors liste autorisée
+ROW-033915,V4,V4-0164,statut hors liste autorisée
+ROW-025106,V4,V4-0165,statut hors liste autorisée
+ROW-045876,V4,V4-0166,statut hors liste autorisée
+ROW-001727,V4,V4-0167,statut hors liste autorisée
+ROW-039413,V4,V4-0168,statut hors liste autorisée
+ROW-034410,V4,V4-0169,statut hors liste autorisée
+ROW-036374,V4,V4-0170,statut hors liste autorisée
+ROW-041295,V4,V4-0171,statut hors liste autorisée
+ROW-029279,V4,V4-0172,statut hors liste autorisée
+ROW-002982,V4,V4-0173,statut hors liste autorisée
+ROW-006867,V4,V4-0174,statut hors liste autorisée
+ROW-009320,V4,V4-0175,statut hors liste autorisée
+ROW-045586,V4,V4-0176,statut hors liste autorisée
+ROW-028068,V4,V4-0177,statut hors liste autorisée
+ROW-025502,V4,V4-0178,statut hors liste autorisée
+ROW-032022,V4,V4-0179,statut hors liste autorisée
+ROW-004426,V4,V4-0180,statut hors liste autorisée
+ROW-025770,V4,V4-0181,statut hors liste autorisée
+ROW-037859,V4,V4-0182,statut hors liste autorisée
+ROW-022537,V4,V4-0183,statut hors liste autorisée
+ROW-041328,V4,V4-0184,statut hors liste autorisée
+ROW-047472,V4,V4-0185,statut hors liste autorisée
+ROW-027671,V4,V4-0186,statut hors liste autorisée
+ROW-027320,V4,V4-0187,statut hors liste autorisée
+ROW-007997,V4,V4-0188,statut hors liste autorisée
+ROW-033705,V4,V4-0189,statut hors liste autorisée
+ROW-038786,V4,V4-0190,statut hors liste autorisée
+ROW-016377,V4,V4-0191,statut hors liste autorisée
+ROW-001333,V4,V4-0192,statut hors liste autorisée
+ROW-039774,V4,V4-0193,statut hors liste autorisée
+ROW-045107,V4,V4-0194,statut hors liste autorisée
+ROW-031274,V4,V4-0195,statut hors liste autorisée
+ROW-011560,V4,V4-0196,statut hors liste autorisée
+ROW-032225,V4,V4-0197,statut hors liste autorisée
+ROW-001190,V4,V4-0198,statut hors liste autorisée
+ROW-010826,V4,V4-0199,statut hors liste autorisée
+ROW-023493,V4,V4-0200,statut hors liste autorisée

@@ -71,6 +71,10 @@ Si un outil ne permet pas de restituer les identifiants des lignes fautives, con
 - Noter la qualité du rapport sur une échelle de 1 à 5 pour la clarté, le détail des anomalies, l’historique et la facilité d’export. Justifier chaque note par une capture ou un exemple de résultat.
 - Garder les mêmes règles dans chaque outil. Si une règle doit être adaptée à la syntaxe de l’outil, documenter l’équivalence utilisée.
 
+## Avancement — jeu de données généré
+
+Le jeu de benchmark a été généré avec la graine `20261018`. Il contient 50 000 lignes propres et une version avec 2 800 couples ligne-règle fautifs répartis sur les 12 règles. Le script vérifie que le jeu propre est valide et que la version avec anomalies correspond exactement à la vérité terrain. Les fichiers et la commande de reproduction sont décrits dans [le README du benchmark](benchmark/README.md).
+
 ## Livrables de travail
 
 - Jeu propre, jeu final de 50 000 lignes et vérité terrain.

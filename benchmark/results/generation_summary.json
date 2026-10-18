@@ -1,0 +1,75 @@
+{
+  "seed": 20261018,
+  "rows": 50000,
+  "anomalies_per_rule": 200,
+  "affected_row_rule_pairs": 2800,
+  "rules": {
+    "C1": {
+      "affected_rows": 200,
+      "anomaly_groups": 200
+    },
+    "C2": {
+      "affected_rows": 200,
+      "anomaly_groups": 200
+    },
+    "C3": {
+      "affected_rows": 200,
+      "anomaly_groups": 200
+    },
+    "U1": {
+      "affected_rows": 400,
+      "anomaly_groups": 200
+    },
+    "U2": {
+      "affected_rows": 400,
+      "anomaly_groups": 200
+    },
+    "V1": {
+      "affected_rows": 200,
+      "anomaly_groups": 200
+    },
+    "V2": {
+      "affected_rows": 200,
+      "anomaly_groups": 200
+    },
+    "V3": {
+      "affected_rows": 200,
+      "anomaly_groups": 200
+    },
+    "V4": {
+      "affected_rows": 200,
+      "anomaly_groups": 200
+    },
+    "K1": {
+      "affected_rows": 200,
+      "anomaly_groups": 200
+    },
+    "K2": {
+      "affected_rows": 200,
+      "anomaly_groups": 200
+    },
+    "K3": {
+      "affected_rows": 200,
+      "anomaly_groups": 200
+    }
+  },
+  "validation": "PASS: clean dataset has zero violations; final dataset matches ground truth for all 12 rules",
+  "files": {
+    "orders_50000_clean.csv": {
+      "sha256": "8fe5846e0e4731427419bdf40c4591d6c5f829d9121466c546d2ca27248550e1",
+      "bytes": 4079921
+    },
+    "orders_50000.csv": {
+      "sha256": "faab9946c0db5ea7f404e4e318d5d8bcd9bbbf68c7ed82e9e8ae5c72d9fe8b78",
+      "bytes": 4075464
+    },
+    "expected_violations.csv": {
+      "sha256": "c1d314135d989ea6721bd1511e6690455f72c462f1bda3c779ca92831d2156d2",
+      "bytes": 42019
+    },
+    "anomaly_manifest.csv": {
+      "sha256": "1f0186910a2cd5e0827b157a1dec1c89b83c9bd43eda3e9beb4b6c2ba100bc57",
+      "bytes": 153855
+    }
+  }
+}
