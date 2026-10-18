@@ -8,6 +8,8 @@ Projet individuel d'expérimentation sur les outils de contrôle de qualité des
 - [Pilote de 100 lignes](pilot/README.md) : données synthétiques, résultats du premier essai et instructions de reproduction.
 - [Jeu de benchmark de 50 000 lignes](benchmark/README.md) : générateur reproductible, jeu propre, jeu avec anomalies et vérité terrain.
 - [Résultats comparatifs](benchmark/results/comparison_summary.md) : comptes détectés par règle et temps médians des trois outils.
+- [Évaluation qualitative des rapports](benchmark/results/evaluation_qualitative_rapports.md) : notes justifiées par les résultats sauvegardés et limites de l’évaluation.
+- [Interprétation et recommandations](benchmark/results/analyse_recommandations.md) : conclusions, limites et choix selon le contexte d’utilisation.
 - `Sujet_09_qualite_donnees_great_expectations_soda_deequ.pdf` : sujet du projet.
 
 Le pilote est un essai technique sur quatre contrôles représentatifs. Il ne constitue pas encore le benchmark complet.

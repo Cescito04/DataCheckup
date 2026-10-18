@@ -43,6 +43,8 @@ Les règles simples utilisent les attentes Great Expectations, les contrôles na
 - implementations/run_benchmark.py : implémentations GX, Soda et Deequ, exécution répétée et comparaison à la vérité terrain.
 - results/full_benchmark.json : détails des cinq passages pour chaque outil.
 - results/comparison_summary.md : synthèse des temps médians et des détections.
+- results/evaluation_qualitative_rapports.md : grille de qualité des rapports, exemples sauvegardés et limites observées.
+- results/analyse_recommandations.md : interprétation générale des mesures et recommandations selon le contexte.
 
 Les trois outils ont retrouvé les comptes attendus pour les 12 règles pendant chacune des cinq exécutions. Les nombres concordent avec la vérité terrain; les résultats restent agrégés par règle, ils ne servent donc pas à calculer précision et rappel par identifiant de ligne.
 

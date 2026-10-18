@@ -33,3 +33,19 @@ Les anomalies sont intentionnelles : un statut FAIL indique que l’outil a dét
 * Soda compte les occurrences en doublon au-delà de la première. Chaque groupe injecté contient deux lignes; le tableau convertit ce compte en lignes affectées en le multipliant par deux.
 
 Les temps incluent l’initialisation propre à chaque outil. Pour PyDeequ, Spark est arrêté entre les répétitions; le processus Java passerelle est conservé pendant la série.
+
+## Qualité des rapports (artefacts conservés)
+
+| Outil | Clarté /5 | Détail /5 | Historique /5 | Export /5 | Moyenne /5 |
+|---|---:|---:|---:|---:|---:|
+| Great Expectations | 3 | 2 | 3 | 4 | 3,00 |
+| Soda Core | 4 | 4 | 3 | 4 | 3,75 |
+| PyDeequ / Deequ | 3 | 3 | 3 | 4 | 3,25 |
+
+Ces notes évaluent les résultats JSON et Markdown conservés par notre expérience, pas les interfaces ou fonctions natives complètes des produits. Le [détail du barème, les extraits justificatifs et les limites](evaluation_qualitative_rapports.md) sont disponibles séparément.
+
+## Interprétation et recommandations
+
+Les trois outils ont concordé avec la vérité terrain pour les comptes des 12 règles lors des cinq passages. Dans cette configuration, Soda Core a affiché le temps total médian le plus court (0,46 s), suivi de PyDeequ (5,32 s) et de Great Expectations (10,20 s). Ces mesures locales ne suffisent pas à établir un classement général : elles incluent des coûts de chargement et d’initialisation différents.
+
+Soda est à approfondir pour un cas SQL similaire à celui testé; Deequ pour un pipeline déjà sur Spark; Great Expectations pour un projet Python qui valorise son organisation des validations. Les limites et justifications détaillées figurent dans [l’analyse et les recommandations](analyse_recommandations.md).

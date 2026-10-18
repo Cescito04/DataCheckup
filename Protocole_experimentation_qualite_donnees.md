@@ -79,6 +79,14 @@ Le jeu de benchmark a été généré avec la graine `20261018`. Il contient 50 
 
 Les 12 règles ont été implémentées dans Great Expectations, Soda Core et Deequ. Les trois outils ont été exécutés cinq fois chacun sur le même fichier; les comptes détectés correspondent aux comptes attendus pour chaque règle. Les versions, durées médianes et tableaux détaillés figurent dans [la synthèse des résultats](benchmark/results/comparison_summary.md) et dans le [fichier de résultats complet](benchmark/results/full_benchmark.json). La comparaison actuelle porte sur les comptes agrégés par règle; elle ne calcule donc pas de précision ni de rappel par ligne.
 
+## Avancement — qualité des rapports
+
+Une première évaluation qualitative a été faite à partir des résultats sauvegardés : elle note la clarté, le détail, l’historique et l’export, avec un exemple réel par outil. Elle porte sur les artefacts produits pour cette expérience, et non sur les interfaces ou fonctions natives complètes. Voir [l’évaluation qualitative des rapports](benchmark/results/evaluation_qualitative_rapports.md).
+
+## Avancement — interprétation et recommandations
+
+L’interprétation générale distingue la concordance des comptes, les durées observées et la qualité des résultats sauvegardés. Les recommandations sont formulées selon le contexte (SQL/DuckDB, Spark ou Python) et ne présentent pas de gagnant universel. Voir [l’analyse et les recommandations](benchmark/results/analyse_recommandations.md).
+
 ## Livrables de travail
 
 - Jeu propre, jeu final de 50 000 lignes et vérité terrain.
