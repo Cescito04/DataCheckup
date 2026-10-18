@@ -75,6 +75,10 @@ Si un outil ne permet pas de restituer les identifiants des lignes fautives, con
 
 Le jeu de benchmark a été généré avec la graine `20261018`. Il contient 50 000 lignes propres et une version avec 2 800 couples ligne-règle fautifs répartis sur les 12 règles. Le script vérifie que le jeu propre est valide et que la version avec anomalies correspond exactement à la vérité terrain. Les fichiers et la commande de reproduction sont décrits dans [le README du benchmark](benchmark/README.md).
 
+## Avancement — contrôles et mesures
+
+Les 12 règles ont été implémentées dans Great Expectations, Soda Core et Deequ. Les trois outils ont été exécutés cinq fois chacun sur le même fichier; les comptes détectés correspondent aux comptes attendus pour chaque règle. Les versions, durées médianes et tableaux détaillés figurent dans [la synthèse des résultats](benchmark/results/comparison_summary.md) et dans le [fichier de résultats complet](benchmark/results/full_benchmark.json). La comparaison actuelle porte sur les comptes agrégés par règle; elle ne calcule donc pas de précision ni de rappel par ligne.
+
 ## Livrables de travail
 
 - Jeu propre, jeu final de 50 000 lignes et vérité terrain.

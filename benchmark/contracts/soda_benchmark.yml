@@ -1,0 +1,58 @@
+dataset: benchmark/main/orders
+
+checks:
+  - failed_rows:
+      qualifier: V1
+      name: V1 quantity is a positive integer
+      expression: quantity IS NULL OR quantity <= 0 OR quantity <> FLOOR(quantity)
+  - failed_rows:
+      qualifier: V2
+      name: V2 unit price is nonnegative with at most two decimals
+      expression: unit_price IS NULL OR unit_price < 0 OR ABS(unit_price - ROUND(unit_price, 2)) > 0.000000001
+  - failed_rows:
+      qualifier: K1
+      name: K1 total equals quantity times unit price
+      expression: quantity IS NOT NULL AND unit_price IS NOT NULL AND total_amount IS NOT NULL AND ABS(total_amount - quantity * unit_price) > 0.01
+  - failed_rows:
+      qualifier: K2
+      name: K2 payment reference matches status
+      expression: (status IN ('paid', 'shipped') AND (payment_reference IS NULL OR TRIM(payment_reference) = '')) OR (status IN ('pending', 'cancelled') AND payment_reference IS NOT NULL AND TRIM(payment_reference) <> '')
+  - failed_rows:
+      qualifier: K3
+      name: K3 shipment date matches status and order chronology
+      expression: (status = 'shipped' AND (shipped_at IS NULL OR (order_date IS NOT NULL AND shipped_at < order_date))) OR (status IN ('pending', 'paid', 'cancelled') AND shipped_at IS NOT NULL)
+
+columns:
+  - name: customer_id
+    checks:
+      - missing:
+          name: C1 customer_id is required
+  - name: order_date
+    checks:
+      - missing:
+          name: C2 order_date is required
+  - name: total_amount
+    checks:
+      - missing:
+          name: C3 total_amount is required
+  - name: order_id
+    checks:
+      - missing:
+          name: U1 order_id is required
+      - duplicate:
+          name: U1 order_id is unique
+  - name: payment_reference
+    checks:
+      - duplicate:
+          name: U2 nonempty payment_reference is unique
+          filter: "payment_reference IS NOT NULL AND payment_reference <> ''"
+  - name: currency
+    checks:
+      - invalid:
+          name: V3 currency is allowed
+          valid_values: [EUR, USD, GBP]
+  - name: status
+    checks:
+      - invalid:
+          name: V4 status is allowed
+          valid_values: [pending, paid, shipped, cancelled]
