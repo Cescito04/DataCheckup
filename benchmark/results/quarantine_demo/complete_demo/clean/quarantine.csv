@@ -1,0 +1,1 @@
+record_id,order_id,customer_id,order_date,quantity,unit_price,total_amount,currency,status,payment_reference,shipped_at,failed_rule_ids,failed_rule_count

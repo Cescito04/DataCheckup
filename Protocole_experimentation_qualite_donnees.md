@@ -87,11 +87,18 @@ Une première évaluation qualitative a été faite à partir des résultats sau
 
 L’interprétation générale distingue la concordance des comptes, les durées observées et la qualité des résultats sauvegardés. Les recommandations sont formulées selon le contexte (SQL/DuckDB, Spark ou Python) et ne présentent pas de gagnant universel. Voir [l’analyse et les recommandations](benchmark/results/analyse_recommandations.md).
 
+## Avancement — blocage et quarantaine
+
+Une démonstration autonome est disponible dans `benchmark/implementations/run_quality_gate.py`. Elle évalue les 12 règles au niveau des lignes, crée `violations.csv`, `quarantine.csv` et `valid_candidate.csv`, puis publie `published.csv` uniquement si le nombre de lignes invalides ne dépasse pas le seuil configuré (zéro par défaut). Sur le jeu altéré, le lot est bloqué, les 2 800 lignes invalides sont mises en quarantaine et les 2 800 couples ligne-règle concordent avec la vérité terrain. Sur le jeu propre, les 50 000 lignes sont publiées. Le résultat reproductible est dans `benchmark/results/quarantine_demo/`.
+
+Cette preuve de concept est distincte des trois exécuteurs comparés : les adaptateurs GX, Soda et Deequ ne renvoient toujours pas les identifiants fautifs au pipeline de quarantaine. L’intégration par outil, les rapports natifs et le déploiement en CI/CD ou en production restent à évaluer.
+
 ## Livrables de travail
 
 - Jeu propre, jeu final de 50 000 lignes et vérité terrain.
 - Générateur du jeu de données ou procédure reproductible, avec graine fixe.
 - Implémentations des règles pour Great Expectations, Soda et Amazon Deequ.
+- Démonstration autonome de blocage/quarantaine et résultats associés.
 - Tableau de résultats : versions, règle, violations attendues et détectées, temps, qualité des rapports.
 - Captures ou extraits de rapports, limites observées et recommandations selon le contexte d’usage.
 

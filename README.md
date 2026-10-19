@@ -1,15 +1,21 @@
 # DataCheckup
 
-Projet individuel d'expérimentation sur les outils de contrôle de qualité des données : Great Expectations, Soda Core et Deequ.
+Projet individuel consacré au contrôle de la qualité des données et à la comparaison de Great Expectations, Soda Core et PyDeequ / Deequ.
 
-## Contenu
+## Livrables obligatoires
 
-- [Protocole d'expérimentation](Protocole_experimentation_qualite_donnees.md) : scénario, règles de qualité et méthode de comparaison.
-- [Pilote de 100 lignes](pilot/README.md) : données synthétiques, résultats du premier essai et instructions de reproduction.
-- [Jeu de benchmark de 50 000 lignes](benchmark/README.md) : générateur reproductible, jeu propre, jeu avec anomalies et vérité terrain.
-- [Résultats comparatifs](benchmark/results/comparison_summary.md) : comptes détectés par règle et temps médians des trois outils.
-- [Évaluation qualitative des rapports](benchmark/results/evaluation_qualitative_rapports.md) : notes justifiées par les résultats sauvegardés et limites de l’évaluation.
-- [Interprétation et recommandations](benchmark/results/analyse_recommandations.md) : conclusions, limites et choix selon le contexte d’utilisation.
-- `Sujet_09_qualite_donnees_great_expectations_soda_deequ.pdf` : sujet du projet.
+- [Rapport de veille — PDF, 15 pages](Rapport_veille_DataCheckup.pdf) : méthode de veille, comparaison fonctionnelle, protocole, résultats, limites, recommandations, bibliographie et lien vers le code source.
+- [Jeu de données et règles de validation](benchmark/README.md) : jeu propre et jeu altéré de 50 000 commandes, générateur, vérité terrain et description des 12 règles.
+- [Pipeline de contrôle et rapports d’anomalies](benchmark/implementations/run_quality_gate.py) : validation par ligne, blocage par défaut, quarantaine et publication conditionnelle. Les trois exécutions complètes sont conservées dans [complete_demo](benchmark/results/quarantine_demo/complete_demo/).
+- [Présentation de soutenance — 11 diapositives](presentation/Presentation_DataCheckup_11_diapos.pptx) : notes de présentation et graphique éditable.
+- [Vidéo de démonstration — 5 min 43 s](presentation/Demo_pipeline_quarantaine_DataCheckup_complet.mov) : exécutions du jeu propre et du jeu altéré, inspection de la quarantaine, vérification de la vérité terrain et essai du seuil. La [transcription](presentation/Demo_pipeline_quarantaine_DataCheckup_complet.md) est fournie.
 
-Le pilote est un essai technique sur quatre contrôles représentatifs. Il ne constitue pas encore le benchmark complet.
+## Méthode et résultats
+
+- [Protocole d’expérimentation](Protocole_experimentation_qualite_donnees.md) : scénario, règles et méthode de comparaison.
+- [Résultats comparatifs](benchmark/results/comparison_summary.md) : comptes détectés par règle et durées médianes.
+- [Évaluation des rapports sauvegardés](benchmark/results/evaluation_qualitative_rapports.md) : grille descriptive et limites.
+- [Interprétation et recommandations](benchmark/results/analyse_recommandations.md) : conclusions conditionnelles au contexte technique.
+- [Code source sur GitHub](https://github.com/Cescito04/DataCheckup).
+
+Le benchmark est synthétique et local. La concordance observée concerne des comptes agrégés; elle ne prouve pas l’identité des lignes signalées par les trois outils ni leurs performances en production.

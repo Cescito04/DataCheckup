@@ -48,6 +48,22 @@ Les règles simples utilisent les attentes Great Expectations, les contrôles na
 
 Les trois outils ont retrouvé les comptes attendus pour les 12 règles pendant chacune des cinq exécutions. Les nombres concordent avec la vérité terrain; les résultats restent agrégés par règle, ils ne servent donc pas à calculer précision et rappel par identifiant de ligne.
 
+## Blocage et quarantaine
+
+`implementations/run_quality_gate.py` fournit une démonstration opérationnelle autonome, écrite avec la bibliothèque standard Python. Elle applique les 12 règles au niveau des lignes, conserve `record_id` et les règles violées, écrit une quarantaine et bloque par défaut tout lot qui contient au moins une ligne invalide (`--max-invalid-rows 0`). Cette couche n'est pas intégrée aux exécuteurs GX, Soda ou Deequ : elle démontre le routage et le comportement de blocage, tandis que le benchmark comparatif mesure toujours leurs sorties agrégées.
+
+Exécuter le jeu altéré et comparer chaque couple ligne-règle à la vérité terrain :
+
+```sh
+python3 benchmark/implementations/run_quality_gate.py
+```
+
+Le code de sortie `2` signale le blocage attendu. Le dossier de sortie horodaté contient `run_summary.json`, `violations.csv`, `quarantine.csv` et `valid_candidate.csv`; aucun `published.csv` n'est créé si le seuil est dépassé. Sur le jeu propre, passer `--input benchmark/data/orders_50000_clean.csv` publie les 50 000 lignes. `--max-invalid-rows N` règle le nombre maximal de lignes invalides tolérées avant blocage.
+
+La démonstration conservée dans `results/quarantine_demo/` bloque le jeu altéré : 2 800 lignes distinctes sont mises en quarantaine, les comptes ligne-règle concordent avec la vérité terrain et aucune ligne n'est publiée avec le seuil strict.
+
+La vidéo complète s'appuie sur trois exécutions enregistrées sous `results/quarantine_demo/complete_demo/` : jeu propre (50 000 lignes publiées), jeu altéré avec seuil strict (lot bloqué, 2 800 lignes en quarantaine) et jeu altéré avec seuil illustratif de 2 800 (47 200 lignes publiées). Chaque dossier contient le résumé JSON et les fichiers produits. Le seuil élevé illustre le paramètre; il ne constitue pas une recommandation métier.
+
 ## Volumes attendus
 
 Le fichier final contient exactement 50 000 lignes et 2 800 couples ligne-règle fautifs. Chaque règle a 200 groupes d’anomalies. Pour U1 et U2, un groupe contient deux lignes ayant la même valeur; on compte donc 400 lignes affectées par règle. Les dix autres règles touchent chacune 200 lignes.
