@@ -8,7 +8,7 @@ Projet individuel consacré au contrôle de la qualité des données et à la co
 - [Jeu de données et règles de validation](benchmark/README.md) : jeu propre et jeu altéré de 50 000 commandes, générateur, vérité terrain et description des 12 règles.
 - [Pipeline de contrôle et rapports d’anomalies](benchmark/implementations/run_quality_gate.py) : validation par ligne, blocage par défaut, quarantaine et publication conditionnelle. Les trois exécutions complètes sont conservées dans [complete_demo](benchmark/results/quarantine_demo/complete_demo/).
 - [Présentation de soutenance — 11 diapositives](presentation/Presentation_DataCheckup_11_diapos.pptx) : notes de présentation et graphique éditable.
-- [Vidéo de démonstration — 5 min 43 s](presentation/Demo_pipeline_quarantaine_DataCheckup_complet.mov) : exécutions du jeu propre et du jeu altéré, inspection de la quarantaine, vérification de la vérité terrain et essai du seuil. La [transcription](presentation/Demo_pipeline_quarantaine_DataCheckup_complet.md) est fournie.
+- [Vidéo de démonstration — 5 min 43 s, MP4](presentation/Demo_pipeline_quarantaine_DataCheckup_complet.mp4) : exécutions du jeu propre et du jeu altéré, inspection de la quarantaine, vérification de la vérité terrain et essai du seuil. La [transcription](presentation/Demo_pipeline_quarantaine_DataCheckup_complet.md) est fournie.
 
 ## Méthode et résultats
 
